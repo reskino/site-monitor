@@ -80,10 +80,27 @@ After a minute, open your dashboard URL. Done — it now checks every 10 minutes
 
 ## Day-to-day
 
-- **Add / remove sites:** edit `sites.json`.
+- **Add / remove a site (easiest):** repo **Actions** tab → **Manage sites** →
+  **Run workflow**, type the address, click the green button. The dashboard also
+  has an **"+ Add / manage sites"** button. (Or edit `sites.json` by hand.)
 - **See status anytime:** your dashboard URL.
 - **A site blocks bots (401/403 but is really up):** add `"expectStatus": 403`
   to that site in `sites.json`.
+
+## Monitoring subdomains
+
+A subdomain is just another web address, so it's monitored exactly like any
+site. To watch `blog.example.com`, add it the same way (the **Manage sites**
+form or `sites.json`).
+
+**Forgot which subdomains you have?** Run the finder — it lists every subdomain
+that ever had an SSL certificate (from public Certificate Transparency logs):
+
+    node find-subdomains.mjs example.com
+
+It only lists them; you pick which to add. Ignore plumbing entries like
+`cpanel.`, `webmail.`, `webdisk.`, `mail.`, `cpcalendars.` — those aren't public
+web pages, just hosting services.
 
 ## Good to know
 - GitHub sometimes delays scheduled runs by a few minutes when it's busy — normal.
