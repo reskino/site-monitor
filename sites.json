@@ -1,0 +1,9 @@
+{
+  "dashboardUrl": "https://reskino.github.io/site-monitor/",
+
+  "sites": [
+    { "name": "My Portfolio",  "url": "https://example.com" },
+    { "name": "Client Website", "url": "https://client-site.example.com" },
+    { "name": "Online Shop",    "url": "https://shop.example.com" }
+  ]
+}

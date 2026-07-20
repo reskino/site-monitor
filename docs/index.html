@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Site Monitor</title>
+    <style>
+      :root {
+        --bg: #f6f7f9;
+        --card: #ffffff;
+        --text: #1a1d21;
+        --muted: #6b7280;
+        --border: #e6e8eb;
+        --up: #16a34a;
+        --down: #dc2626;
+        --slow: #d97706;
+        --shadow: 0 1px 2px rgba(0, 0, 0, 0.05), 0 4px 16px rgba(0, 0, 0, 0.04);
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #0f1115;
+          --card: #171a21;
+          --text: #e8eaed;
+          --muted: #9aa0aa;
+          --border: #262a33;
+          --up: #22c55e;
+          --down: #f87171;
+          --slow: #fbbf24;
+          --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 4px 16px rgba(0, 0, 0, 0.25);
+        }
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+      }
+      .wrap { max-width: 880px; margin: 0 auto; padding: 32px 20px 64px; }
+      header { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 4px; }
+      h1 { font-size: 22px; margin: 0; letter-spacing: -0.01em; }
+      .updated { color: var(--muted); font-size: 13px; }
+      .summary { color: var(--muted); font-size: 14px; margin: 6px 0 24px; }
+      .summary b { color: var(--text); }
+      .grid { display: grid; gap: 12px; }
+      .card {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        padding: 16px 18px;
+        box-shadow: var(--shadow);
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 6px 16px;
+        align-items: center;
+      }
+      .name { font-weight: 600; font-size: 16px; }
+      .url { color: var(--muted); font-size: 13px; word-break: break-all; }
+      .url a { color: inherit; text-decoration: none; }
+      .url a:hover { text-decoration: underline; }
+      .badge {
+        justify-self: end;
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        padding: 5px 11px;
+        border-radius: 999px;
+        white-space: nowrap;
+      }
+      .badge.up { color: var(--up); background: color-mix(in srgb, var(--up) 14%, transparent); }
+      .badge.down { color: var(--down); background: color-mix(in srgb, var(--down) 14%, transparent); }
+      .badge.slow { color: var(--slow); background: color-mix(in srgb, var(--slow) 16%, transparent); }
+      .meta {
+        grid-column: 1 / -1;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px 18px;
+        color: var(--muted);
+        font-size: 13px;
+        padding-top: 4px;
+        border-top: 1px solid var(--border);
+        margin-top: 4px;
+      }
+      .meta .err { color: var(--down); }
+      .strip { display: flex; gap: 2px; margin-top: 2px; align-items: flex-end; }
+      .tick { width: 5px; height: 14px; border-radius: 2px; background: var(--border); }
+      .tick.up { background: var(--up); }
+      .tick.down { background: var(--down); }
+      .empty { text-align: center; color: var(--muted); padding: 48px 0; }
+      footer { color: var(--muted); font-size: 12px; text-align: center; margin-top: 32px; }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <h1>Site Monitor</h1>
+        <span class="updated" id="updated">Loading…</span>
+      </header>
+      <div class="summary" id="summary"></div>
+      <div class="grid" id="grid"></div>
+      <footer>Auto-refreshes every 60 seconds · Checks run every 10 minutes</footer>
+    </div>
+
+    <script>
+      const bust = () => "?t=" + Date.now();
+
+      function fmtAge(iso) {
+        const secs = Math.max(0, (Date.now() - new Date(iso).getTime()) / 1000);
+        if (secs < 90) return Math.round(secs) + "s ago";
+        if (secs < 5400) return Math.round(secs / 60) + " min ago";
+        if (secs < 172800) return Math.round(secs / 3600) + "h ago";
+        return Math.round(secs / 86400) + "d ago";
+      }
+
+      function uptimeFor(name, history) {
+        let up = 0, total = 0;
+        for (const run of history) {
+          const hit = run.r.find((x) => x.n === name);
+          if (hit) { total++; if (hit.up) up++; }
+        }
+        return { pct: total ? Math.round((up / total) * 100) : null, total };
+      }
+
+      function stripFor(name, history) {
+        const last = history.slice(-40).map((run) => {
+          const hit = run.r.find((x) => x.n === name);
+          return hit ? (hit.up ? "up" : "down") : "none";
+        });
+        return last.map((s) => `<span class="tick ${s === "none" ? "" : s}"></span>`).join("");
+      }
+
+      async function load() {
+        let data, history = [];
+        try {
+          data = await (await fetch("status.json" + bust())).json();
+        } catch {
+          document.getElementById("updated").textContent = "No data yet";
+          document.getElementById("grid").innerHTML =
+            '<div class="empty">No results yet.<br>Run the “Site Monitor” workflow once from the GitHub Actions tab.</div>';
+          return;
+        }
+        try {
+          history = await (await fetch("history.json" + bust())).json();
+        } catch {}
+
+        const results = data.results || [];
+        const down = results.filter((r) => !r.up).length;
+        const slow = results.filter((r) => r.up && r.slow).length;
+
+        document.getElementById("updated").textContent =
+          "Updated " + fmtAge(data.generatedAt);
+        document.getElementById("summary").innerHTML =
+          `<b>${results.length - down}</b> up · <b>${down}</b> down` +
+          (slow ? ` · <b>${slow}</b> slow` : "");
+
+        document.getElementById("grid").innerHTML = results
+          .map((r) => {
+            const state = !r.up ? "down" : r.slow ? "slow" : "up";
+            const label = !r.up ? "Down" : r.slow ? "Slow" : "Up";
+            const u = uptimeFor(r.name, history);
+            const secs = (r.ms / 1000).toFixed(1);
+            return `
+              <div class="card">
+                <div>
+                  <div class="name">${escapeHtml(r.name)}</div>
+                  <div class="url"><a href="${escapeAttr(r.url)}" target="_blank" rel="noopener">${escapeHtml(r.url)}</a></div>
+                </div>
+                <span class="badge ${state}">${label}</span>
+                <div class="meta">
+                  <span>${r.up ? "HTTP " + r.status : '<span class="err">' + escapeHtml(r.error || "No response") + "</span>"}</span>
+                  <span>${secs}s response</span>
+                  ${u.pct !== null ? `<span>${u.pct}% uptime (${u.total} checks)</span>` : ""}
+                  <span class="strip">${stripFor(r.name, history)}</span>
+                </div>
+              </div>`;
+          })
+          .join("");
+      }
+
+      function escapeHtml(s) {
+        return String(s).replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+      }
+      function escapeAttr(s) {
+        return String(s).replace(/"/g, "&quot;");
+      }
+
+      load();
+      setInterval(load, 60000);
+    </script>
+  </body>
+</html>

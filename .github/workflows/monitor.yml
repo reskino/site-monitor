@@ -1,0 +1,71 @@
+name: Site Monitor
+
+on:
+  schedule:
+    # Every 10 minutes. Keeps sites that sleep after ~15 min inactivity awake.
+    # (GitHub may delay scheduled runs a little when it's busy — that's normal.)
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {} # lets you run it by hand from the Actions tab
+
+# Allow the job to commit the updated status back into the repo.
+permissions:
+  contents: write
+
+# Never run two checks at the same time (avoids git push conflicts).
+concurrency:
+  group: site-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    # Email settings come from repository Secrets (Settings > Secrets and
+    # variables > Actions). If SMTP_HOST isn't set, the email step is skipped
+    # and monitoring + the dashboard still work fine.
+    env:
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      ALERT_TO: ${{ secrets.ALERT_TO }}
+
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check all sites
+        id: check
+        run: node check.mjs
+
+      - name: Email me if a site is down
+        if: steps.check.outputs.has_problems == 'true' && env.SMTP_HOST != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ env.SMTP_HOST }}
+          server_port: ${{ env.SMTP_PORT }}
+          secure: true
+          username: ${{ env.SMTP_USER }}
+          password: ${{ env.SMTP_PASS }}
+          subject: ${{ steps.check.outputs.email_subject }}
+          to: ${{ env.ALERT_TO }}
+          from: Site Monitor <${{ env.SMTP_USER }}>
+          body: ${{ steps.check.outputs.email_body }}
+
+      - name: Save the results to the dashboard
+        run: |
+          git config user.name "site-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/status.json docs/history.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update site status"
+            git pull --rebase --autostash || true
+            git push
+          fi
