@@ -1,0 +1,63 @@
+name: Manage sites (add / remove)
+
+# A simple form for adding or removing a site without editing any files.
+# Open the Actions tab -> "Manage sites" -> "Run workflow", fill in the box.
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "Add or remove?"
+        type: choice
+        options: [add, remove]
+        default: add
+      url:
+        description: "Website address (e.g. example.com)"
+        required: true
+      name:
+        description: "Name to show on the dashboard (optional)"
+        required: false
+      expect_status:
+        description: "Advanced only: treat this HTTP code as 'up' (e.g. 403). Leave blank."
+        required: false
+
+permissions:
+  contents: write
+
+# Share the monitor's lock so this never pushes at the same time as a check.
+concurrency:
+  group: site-monitor
+  cancel-in-progress: false
+
+jobs:
+  manage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update the site list
+        env:
+          ACTION: ${{ inputs.action }}
+          SITE_URL: ${{ inputs.url }}
+          SITE_NAME: ${{ inputs.name }}
+          EXPECT_STATUS: ${{ inputs.expect_status }}
+        run: node manage-sites.mjs
+
+      - name: Check sites now (refresh dashboard)
+        run: node check.mjs
+
+      - name: Save changes
+        run: |
+          git config user.name "site-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add sites.json docs/status.json docs/history.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Manage sites: ${{ inputs.action }} ${{ inputs.url }}"
+            git pull --rebase --autostash || true
+            git push
+          fi

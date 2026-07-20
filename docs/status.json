@@ -1,0 +1,136 @@
+{
+  "generatedAt": "2026-07-20T00:36:16.002Z",
+  "dashboardUrl": "https://reskino.github.io/site-monitor/",
+  "results": [
+    {
+      "name": "skinopro.com",
+      "url": "https://skinopro.com",
+      "up": true,
+      "status": 200,
+      "ms": 915,
+      "slow": false,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:05.527Z"
+    },
+    {
+      "name": "ainaghventures.com",
+      "url": "https://ainaghventures.com",
+      "up": true,
+      "status": 200,
+      "ms": 1889,
+      "slow": false,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:06.606Z"
+    },
+    {
+      "name": "aaandsghana.com",
+      "url": "https://aaandsghana.com",
+      "up": true,
+      "status": 200,
+      "ms": 2031,
+      "slow": false,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:06.751Z"
+    },
+    {
+      "name": "amzendock.com",
+      "url": "https://amzendock.com",
+      "up": true,
+      "status": 200,
+      "ms": 2019,
+      "slow": false,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:06.741Z"
+    },
+    {
+      "name": "airliv8hernetwork.com",
+      "url": "https://airliv8hernetwork.com",
+      "up": true,
+      "status": 200,
+      "ms": 1419,
+      "slow": false,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:06.142Z"
+    },
+    {
+      "name": "effectivelifeministry.org",
+      "url": "https://effectivelifeministry.org",
+      "up": true,
+      "status": 200,
+      "ms": 2749,
+      "slow": false,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:07.474Z"
+    },
+    {
+      "name": "gmwghana.com",
+      "url": "https://gmwghana.com",
+      "up": true,
+      "status": 200,
+      "ms": 3035,
+      "slow": false,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:07.761Z"
+    },
+    {
+      "name": "opportunitytoexcel.com",
+      "url": "https://opportunitytoexcel.com",
+      "up": true,
+      "status": 200,
+      "ms": 4058,
+      "slow": false,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:08.785Z"
+    },
+    {
+      "name": "nestechnology.com",
+      "url": "https://nestechnology.com",
+      "up": false,
+      "status": 0,
+      "ms": 1408,
+      "slow": false,
+      "error": "Domain not found (DNS)",
+      "checkedAt": "2026-07-20T00:36:06.136Z"
+    },
+    {
+      "name": "amorefoundation.org.uk",
+      "url": "https://amorefoundation.org.uk",
+      "up": true,
+      "status": 200,
+      "ms": 6859,
+      "slow": false,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:11.588Z"
+    },
+    {
+      "name": "uhuruforall.com",
+      "url": "https://uhuruforall.com",
+      "up": true,
+      "status": 200,
+      "ms": 5867,
+      "slow": false,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:10.597Z"
+    },
+    {
+      "name": "jassmattazz.com",
+      "url": "https://jassmattazz.com",
+      "up": true,
+      "status": 200,
+      "ms": 3739,
+      "slow": false,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:08.470Z"
+    },
+    {
+      "name": "lansor.co.uk",
+      "url": "https://lansor.co.uk",
+      "up": true,
+      "status": 200,
+      "ms": 11254,
+      "slow": true,
+      "error": null,
+      "checkedAt": "2026-07-20T00:36:15.986Z"
+    }
+  ]
+}

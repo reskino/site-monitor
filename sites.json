@@ -1,9 +1,57 @@
 {
   "dashboardUrl": "https://reskino.github.io/site-monitor/",
-
   "sites": [
-    { "name": "My Portfolio",  "url": "https://example.com" },
-    { "name": "Client Website", "url": "https://client-site.example.com" },
-    { "name": "Online Shop",    "url": "https://shop.example.com" }
+    {
+      "name": "skinopro.com",
+      "url": "https://skinopro.com"
+    },
+    {
+      "name": "ainaghventures.com",
+      "url": "https://ainaghventures.com"
+    },
+    {
+      "name": "aaandsghana.com",
+      "url": "https://aaandsghana.com"
+    },
+    {
+      "name": "amzendock.com",
+      "url": "https://amzendock.com"
+    },
+    {
+      "name": "airliv8hernetwork.com",
+      "url": "https://airliv8hernetwork.com"
+    },
+    {
+      "name": "effectivelifeministry.org",
+      "url": "https://effectivelifeministry.org"
+    },
+    {
+      "name": "gmwghana.com",
+      "url": "https://gmwghana.com"
+    },
+    {
+      "name": "opportunitytoexcel.com",
+      "url": "https://opportunitytoexcel.com"
+    },
+    {
+      "name": "nestechnology.com",
+      "url": "https://nestechnology.com"
+    },
+    {
+      "name": "amorefoundation.org.uk",
+      "url": "https://amorefoundation.org.uk"
+    },
+    {
+      "name": "uhuruforall.com",
+      "url": "https://uhuruforall.com"
+    },
+    {
+      "name": "jassmattazz.com",
+      "url": "https://jassmattazz.com"
+    },
+    {
+      "name": "lansor.co.uk",
+      "url": "https://lansor.co.uk"
+    }
   ]
 }
