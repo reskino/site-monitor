@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T06:17:30.672Z",
+  "generatedAt": "2026-07-22T08:45:50.654Z",
   "dashboardUrl": "https://reskino.github.io/site-monitor/",
   "results": [
     {
@@ -7,143 +7,143 @@
       "url": "https://skinopro.com",
       "up": true,
       "status": 200,
-      "ms": 889,
+      "ms": 418,
       "slow": false,
       "error": null,
       "tries": 1,
-      "checkedAt": "2026-07-22T06:15:52.697Z"
+      "checkedAt": "2026-07-22T08:45:39.777Z"
     },
     {
       "name": "ainaghventures.com",
       "url": "https://ainaghventures.com",
       "up": true,
       "status": 200,
-      "ms": 410,
+      "ms": 578,
       "slow": false,
       "error": null,
       "tries": 1,
-      "checkedAt": "2026-07-22T06:15:52.277Z"
+      "checkedAt": "2026-07-22T08:45:39.994Z"
     },
     {
       "name": "aaandsghana.com",
       "url": "https://aaandsghana.com",
       "up": true,
       "status": 200,
-      "ms": 1139,
+      "ms": 1565,
       "slow": false,
       "error": null,
       "tries": 1,
-      "checkedAt": "2026-07-22T06:15:53.007Z"
+      "checkedAt": "2026-07-22T08:45:40.982Z"
     },
     {
       "name": "amzendock.com",
       "url": "https://amzendock.com",
-      "up": false,
-      "status": 0,
-      "ms": 10489,
+      "up": true,
+      "status": 200,
+      "ms": 1020,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
-      "tries": 3,
-      "checkedAt": "2026-07-22T06:16:31.332Z"
+      "error": null,
+      "tries": 1,
+      "checkedAt": "2026-07-22T08:45:40.439Z"
     },
     {
       "name": "airliv8hernetwork.com",
       "url": "https://airliv8hernetwork.com",
       "up": true,
       "status": 200,
-      "ms": 1017,
+      "ms": 629,
       "slow": false,
       "error": null,
       "tries": 1,
-      "checkedAt": "2026-07-22T06:15:52.889Z"
+      "checkedAt": "2026-07-22T08:45:40.049Z"
     },
     {
       "name": "effectivelifeministry.org",
       "url": "https://effectivelifeministry.org",
       "up": true,
       "status": 200,
-      "ms": 34796,
-      "slow": true,
+      "ms": 2874,
+      "slow": false,
       "error": null,
-      "tries": 2,
-      "checkedAt": "2026-07-22T06:17:30.671Z"
+      "tries": 1,
+      "checkedAt": "2026-07-22T08:45:42.295Z"
     },
     {
       "name": "gmwghana.com",
       "url": "https://gmwghana.com",
-      "up": false,
-      "status": 0,
-      "ms": 10488,
-      "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
-      "tries": 3,
-      "checkedAt": "2026-07-22T06:16:31.332Z"
+      "up": true,
+      "status": 200,
+      "ms": 8781,
+      "slow": true,
+      "error": null,
+      "tries": 1,
+      "checkedAt": "2026-07-22T08:45:48.203Z"
     },
     {
       "name": "opportunitytoexcel.com",
       "url": "https://opportunitytoexcel.com",
       "up": true,
       "status": 200,
-      "ms": 3904,
+      "ms": 1619,
       "slow": false,
       "error": null,
       "tries": 1,
-      "checkedAt": "2026-07-22T06:15:55.779Z"
+      "checkedAt": "2026-07-22T08:45:41.042Z"
     },
     {
       "name": "nestechnology.com",
       "url": "https://nestechnology.com",
       "up": false,
       "status": 0,
-      "ms": 186,
+      "ms": 864,
       "slow": false,
       "error": "Domain not found (DNS)",
       "tries": 3,
-      "checkedAt": "2026-07-22T06:16:02.890Z"
+      "checkedAt": "2026-07-22T08:45:50.654Z"
     },
     {
       "name": "amorefoundation.org.uk",
       "url": "https://amorefoundation.org.uk",
       "up": true,
       "status": 200,
-      "ms": 3077,
+      "ms": 3278,
       "slow": false,
       "error": null,
       "tries": 1,
-      "checkedAt": "2026-07-22T06:15:54.954Z"
+      "checkedAt": "2026-07-22T08:45:42.703Z"
     },
     {
       "name": "uhuruforall.com",
       "url": "https://uhuruforall.com",
       "up": true,
       "status": 200,
-      "ms": 4798,
+      "ms": 1877,
       "slow": false,
       "error": null,
-      "tries": 2,
-      "checkedAt": "2026-07-22T06:17:00.677Z"
+      "tries": 1,
+      "checkedAt": "2026-07-22T08:45:41.303Z"
     },
     {
       "name": "jassmattazz.com",
       "url": "https://jassmattazz.com",
       "up": true,
       "status": 200,
-      "ms": 3439,
+      "ms": 3878,
       "slow": false,
       "error": null,
       "tries": 1,
-      "checkedAt": "2026-07-22T06:15:55.318Z"
+      "checkedAt": "2026-07-22T08:45:43.305Z"
     },
     {
       "name": "lansor.co.uk",
       "url": "https://lansor.co.uk",
       "up": true,
       "status": 200,
-      "ms": 31197,
-      "slow": true,
+      "ms": 3376,
+      "slow": false,
       "error": null,
       "tries": 1,
-      "checkedAt": "2026-07-22T06:16:23.078Z"
+      "checkedAt": "2026-07-22T08:45:42.804Z"
     }
   ]
 }
