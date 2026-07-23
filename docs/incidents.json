@@ -62,5 +62,40 @@
     "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-07-23T13:43:11.065Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-07-23T15:04:57.807Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-07-23T15:04:57.807Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-23T15:04:57.807Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-23T15:04:57.807Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-23T15:04:57.807Z",
+    "error": "HTTP 415"
   }
 ]

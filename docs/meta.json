@@ -78,7 +78,18 @@
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
       "domainOkAt": "2026-07-23T10:51:48.180Z",
-      "subFailAt": "2026-07-23T13:55:56.161Z"
+      "subFailAt": "2026-07-23T13:55:56.161Z",
+      "subdomains": [
+        "aaandsghana.com",
+        "cpanel.aaandsghana.com",
+        "cpcalendars.aaandsghana.com",
+        "cpcontacts.aaandsghana.com",
+        "mail.aaandsghana.com",
+        "webdisk.aaandsghana.com",
+        "webmail.aaandsghana.com",
+        "www.aaandsghana.com"
+      ],
+      "subOkAt": "2026-07-23T15:04:24.839Z"
     },
     "amzendock.com": {
       "domain": {
@@ -133,7 +144,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
       "domainOkAt": "2026-07-23T10:51:48.695Z",
-      "subFailAt": "2026-07-23T13:55:11.684Z"
+      "subFailAt": "2026-07-23T15:04:57.806Z"
     },
     "gmwghana.com": {
       "domain": {
