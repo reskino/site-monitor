@@ -46,7 +46,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-23T13:37:11.000Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-23T16:44:05.929Z",
+    "downMs": 11214929
   },
   {
     "name": "uhuruforall.com",
@@ -68,14 +70,18 @@
     "url": "https://amzendock.com",
     "type": "down",
     "at": "2026-07-23T15:04:57.807Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-23T16:44:05.929Z",
+    "downMs": 5948122
   },
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-07-23T15:04:57.807Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-23T16:44:05.929Z",
+    "downMs": 5948122
   },
   {
     "name": "uhuruforall.com",
@@ -89,13 +95,47 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-07-23T15:04:57.807Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-23T16:44:05.929Z",
+    "downMs": 5948122
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-23T15:04:57.807Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-23T16:44:05.929Z",
+    "downMs": 5948122
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-07-23T16:44:05.929Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-23T16:44:05.929Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-07-23T16:44:05.929Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-23T16:44:05.929Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-23T16:44:05.929Z"
   }
 ]
