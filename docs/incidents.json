@@ -88,7 +88,9 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-23T15:04:57.807Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-23T18:01:10.047Z",
+    "downMs": 10572240
   },
   {
     "name": "jassmattazz.com",
@@ -137,5 +139,11 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-23T16:44:05.929Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-23T18:01:10.047Z"
   }
 ]
