@@ -10,7 +10,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.632Z",
       "subCheckedAt": "2026-07-23T10:48:59.216Z",
       "domainOkAt": "2026-07-23T10:51:48.283Z",
-      "subFailAt": "2026-07-23T10:51:53.117Z"
+      "subFailAt": "2026-07-23T11:53:17.483Z"
     },
     "ainaghventures.com": {
       "domain": {
@@ -22,7 +22,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-07-23T10:51:48.277Z",
-      "subFailAt": "2026-07-23T10:51:53.107Z"
+      "subFailAt": "2026-07-23T11:53:09.498Z"
     },
     "aaandsghana.com": {
       "domain": {
@@ -34,7 +34,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
       "domainOkAt": "2026-07-23T10:51:48.180Z",
-      "subFailAt": "2026-07-23T10:52:33.222Z"
+      "subFailAt": "2026-07-23T11:53:09.507Z"
     },
     "amzendock.com": {
       "domain": {
@@ -46,7 +46,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
       "domainOkAt": "2026-07-23T10:51:48.290Z",
-      "subFailAt": "2026-07-23T10:52:33.328Z"
+      "subFailAt": "2026-07-23T11:53:09.489Z"
     },
     "airliv8hernetwork.com": {
       "domain": {
@@ -58,7 +58,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.642Z",
       "subCheckedAt": "2026-07-23T10:49:04.215Z",
       "domainOkAt": "2026-07-23T10:51:48.287Z",
-      "subFailAt": "2026-07-23T10:51:53.155Z"
+      "subFailAt": "2026-07-23T11:53:02.790Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -70,7 +70,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
       "domainOkAt": "2026-07-23T10:51:48.695Z",
-      "subFailAt": "2026-07-23T10:52:00.856Z"
+      "subFailAt": "2026-07-23T11:53:16.419Z"
     },
     "gmwghana.com": {
       "domain": {
@@ -82,7 +82,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-07-23T10:51:48.268Z",
-      "subFailAt": "2026-07-23T10:52:33.289Z"
+      "subFailAt": "2026-07-23T11:53:02.782Z"
     },
     "opportunitytoexcel.com": {
       "domain": {
@@ -94,7 +94,32 @@
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
       "domainOkAt": "2026-07-23T10:51:48.271Z",
-      "subFailAt": "2026-07-23T10:51:53.206Z"
+      "subFailAt": "2026-07-23T10:51:53.206Z",
+      "subdomains": [
+        "cpanel.opportunitytoexcel.com",
+        "cpcalendars.opportunitytoexcel.com",
+        "cpcontacts.opportunitytoexcel.com",
+        "mail.opportunitytoexcel.com",
+        "my.opportunitytoexcel.com",
+        "new.opportunitytoexcel.com",
+        "opportunitytoexcel.com",
+        "otef.opportunitytoexcel.com",
+        "test.opportunitytoexcel.com",
+        "travel.opportunitytoexcel.com",
+        "vc.opportunitytoexcel.com",
+        "verify.opportunitytoexcel.com",
+        "webdisk.opportunitytoexcel.com",
+        "webmail.opportunitytoexcel.com",
+        "www.my.opportunitytoexcel.com",
+        "www.new.opportunitytoexcel.com",
+        "www.opportunitytoexcel.com",
+        "www.otef.opportunitytoexcel.com",
+        "www.test.opportunitytoexcel.com",
+        "www.travel.opportunitytoexcel.com",
+        "www.vc.opportunitytoexcel.com",
+        "www.verify.opportunitytoexcel.com"
+      ],
+      "subOkAt": "2026-07-23T11:53:36.944Z"
     },
     "nestechnology.com": {
       "domain": {
@@ -106,7 +131,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
       "domainOkAt": "2026-07-23T10:51:48.281Z",
-      "subFailAt": "2026-07-23T10:51:50.708Z"
+      "subFailAt": "2026-07-23T11:53:02.776Z"
     },
     "amorefoundation.org.uk": {
       "domain": {
@@ -118,7 +143,12 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-07-23T10:51:48.341Z",
-      "subFailAt": "2026-07-23T10:51:53.260Z"
+      "subFailAt": "2026-07-23T10:51:53.260Z",
+      "subdomains": [
+        "amorefoundation.org.uk",
+        "www.amorefoundation.org.uk"
+      ],
+      "subOkAt": "2026-07-23T11:53:35.442Z"
     },
     "uhuruforall.com": {
       "domain": {
@@ -130,7 +160,29 @@
       "domainCheckedAt": "2026-07-23T10:48:47.021Z",
       "subCheckedAt": "2026-07-23T10:48:47.547Z",
       "domainOkAt": "2026-07-23T10:51:48.275Z",
-      "subFailAt": "2026-07-23T10:51:50.214Z"
+      "subFailAt": "2026-07-23T10:51:50.214Z",
+      "subdomains": [
+        "abskitchen.uhuruforall.com",
+        "abtest.uhuruforall.com",
+        "autodiscover.uhuruforall.com",
+        "cpanel.uhuruforall.com",
+        "cpcalendars.uhuruforall.com",
+        "cpcontacts.uhuruforall.com",
+        "ff.uhuruforall.com",
+        "mail.uhuruforall.com",
+        "nnventures.uhuruforall.com",
+        "test.uhuruforall.com",
+        "uhuruforall.com",
+        "webdisk.uhuruforall.com",
+        "webmail.uhuruforall.com",
+        "www.abskitchen.uhuruforall.com",
+        "www.abtest.uhuruforall.com",
+        "www.ff.uhuruforall.com",
+        "www.nnventures.uhuruforall.com",
+        "www.test.uhuruforall.com",
+        "www.uhuruforall.com"
+      ],
+      "subOkAt": "2026-07-23T11:53:35.553Z"
     },
     "jassmattazz.com": {
       "domain": {
@@ -142,7 +194,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
       "domainOkAt": "2026-07-23T10:51:48.264Z",
-      "subFailAt": "2026-07-23T10:51:53.155Z"
+      "subFailAt": "2026-07-23T11:53:02.777Z"
     },
     "lansor.co.uk": {
       "domain": {
@@ -154,7 +206,21 @@
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
       "domainOkAt": "2026-07-23T10:51:48.342Z",
-      "subFailAt": "2026-07-23T10:52:33.351Z"
+      "subFailAt": "2026-07-23T10:52:33.351Z",
+      "subdomains": [
+        "autodiscover.lansor.co.uk",
+        "cpanel.lansor.co.uk",
+        "cpcalendars.lansor.co.uk",
+        "cpcontacts.lansor.co.uk",
+        "itdisposal.lansor.co.uk",
+        "lansor.co.uk",
+        "mail.lansor.co.uk",
+        "webdisk.lansor.co.uk",
+        "webmail.lansor.co.uk",
+        "www.itdisposal.lansor.co.uk",
+        "www.lansor.co.uk"
+      ],
+      "subOkAt": "2026-07-23T11:53:37.247Z"
     }
   }
 }

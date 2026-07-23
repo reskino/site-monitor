@@ -10,5 +10,12 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-23T10:49:04.215Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-23T11:53:37.248Z",
+    "error": "No response within 45s"
   }
 ]
