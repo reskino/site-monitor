@@ -160,7 +160,9 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-07-23T21:39:52.275Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-07-23T23:33:01.492Z",
+    "downMs": 6789217
   },
   {
     "name": "effectivelifeministry.org",
@@ -173,41 +175,95 @@
     "url": "https://amzendock.com",
     "type": "down",
     "at": "2026-07-23T22:35:37.479Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-23T23:33:01.492Z",
+    "downMs": 3444013
   },
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-23T22:35:37.479Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-23T23:33:01.492Z",
+    "downMs": 3444013
   },
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-07-23T22:35:37.479Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-23T23:33:01.492Z",
+    "downMs": 3444013
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-23T22:35:37.479Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-23T23:33:01.492Z",
+    "downMs": 3444013
   },
   {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-07-23T22:35:37.479Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-23T23:33:01.492Z",
+    "downMs": 3444013
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-23T22:35:37.479Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-23T23:33:01.492Z",
+    "downMs": 3444013
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-07-23T23:33:01.492Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-07-23T23:33:01.492Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-23T23:33:01.492Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-07-23T23:33:01.492Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-23T23:33:01.492Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-23T23:33:01.492Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-23T23:33:01.492Z"
   }
 ]
