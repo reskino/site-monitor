@@ -74,7 +74,40 @@ Repo **Settings** → **Secrets and variables** → **Actions** →
 
 ### 7. Test it
 Repo **Actions** tab → **Site Monitor** → **Run workflow**.
-After a minute, open your dashboard URL. Done — it now checks every 10 minutes on its own.
+After a minute, open your dashboard URL. Done — the cloud now checks your sites
+in the background around the clock, even when your computer is off.
+
+> **How often does the cloud really check?** The workflow is *scheduled* for
+> every 10 minutes, but GitHub's free scheduler is heavily throttled and often
+> only runs it every 1–3 hours under load. For **real-time** checks, run the
+> live watcher on your PC (next section) — the two work together.
+
+---
+
+## Real-time monitoring on your PC (the live watcher)
+
+For instant results — checks every 60 seconds, a dashboard that updates live,
+and **desktop notifications** the moment a site goes down or recovers — run the
+watcher on this machine:
+
+    node watch.mjs
+
+Then open **http://localhost:8787**. Leave it running; it checks continuously,
+pops a Windows notification on any change, and shows the freshest data.
+
+**Windows shortcut:** double-click **`start-watcher.cmd`** — it starts the
+watcher and opens the dashboard for you.
+
+Options:
+
+    node watch.mjs --interval=30   # check every 30 seconds
+    node watch.mjs --open          # also open the dashboard in your browser
+    node watch.mjs --push          # also push results to the public GitHub dashboard
+
+With `--push`, the watcher commits and pushes updates so your public
+`github.io` dashboard stays fresh too (it pushes on any status change, and at
+most once every 10 minutes otherwise). This is the **hybrid** setup: real-time
+while your PC is on, GitHub Actions as the 24/7 fallback when it's off.
 
 ---
 
@@ -87,23 +120,40 @@ After a minute, open your dashboard URL. Done — it now checks every 10 minutes
 - **A site blocks bots (401/403 but is really up):** add `"expectStatus": 403`
   to that site in `sites.json`.
 
+## What each site card shows
+
+Click any site on the dashboard to expand its full detail:
+
+- **Status, HTTP code, response time** and an uptime % from history.
+- **SSL certificate** — issuer and exact expiry date, with a warning when it's
+  within 21 days of expiring.
+- **Domain registration** — registrar and expiry date (via RDAP/WHOIS), with a
+  warning within 30 days. Never lose a site to a lapsed domain again.
+- **Redirect chain** — every hop, so a broken redirect target is obvious.
+- **Content check** — set `"expectText": "some phrase"` on a site in
+  `sites.json` and it's only "up" if that phrase is on the page (catches blank
+  or hacked pages that still return HTTP 200).
+- **Subdomains** — automatically discovered from Certificate Transparency logs.
+- **Incident history** — when it went down, and how long for.
+
 ## Monitoring subdomains
 
-A subdomain is just another web address, so it's monitored exactly like any
-site. To watch `blog.example.com`, add it the same way (the **Manage sites**
-form or `sites.json`).
-
-**Forgot which subdomains you have?** Run the finder — it lists every subdomain
-that ever had an SSL certificate (from public Certificate Transparency logs):
+The dashboard auto-discovers subdomains for each site and lists them in the
+detail view. To actively *monitor* one (`blog.example.com`), add it like any
+site (the **Manage sites** form or `sites.json`). You can also list them from
+the command line:
 
     node find-subdomains.mjs example.com
 
-It only lists them; you pick which to add. Ignore plumbing entries like
-`cpanel.`, `webmail.`, `webdisk.`, `mail.`, `cpcalendars.` — those aren't public
-web pages, just hosting services.
+Ignore plumbing entries like `cpanel.`, `webmail.`, `webdisk.`, `mail.`,
+`cpcalendars.` — those aren't public web pages, just hosting services.
 
 ## Good to know
-- GitHub sometimes delays scheduled runs by a few minutes when it's busy — normal.
+- The **live watcher** (`node watch.mjs`) gives real-time results; GitHub
+  Actions is the always-on fallback. Use both for full coverage.
 - A cold/sleeping host can take 30–60s to answer the first time; the monitor
-  waits up to 60s and marks slow-but-alive sites as **Slow** (no email for those).
-- You only get an email when a site is genuinely **down**, so no inbox spam.
+  retries and marks slow-but-alive sites as **Slow** (no alert for those).
+- You only get alerted when a site is genuinely **down** (after 3 retries) or
+  something is about to expire — so no spam.
+- SSL & domain expiry data is cached and refreshed periodically (12h for
+  domains, 3 days for subdomains) to stay fast and polite to those services.

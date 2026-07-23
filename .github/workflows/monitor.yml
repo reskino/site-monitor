@@ -2,8 +2,9 @@ name: Site Monitor
 
 on:
   schedule:
-    # Every 10 minutes. Keeps sites that sleep after ~15 min inactivity awake.
-    # (GitHub may delay scheduled runs a little when it's busy — that's normal.)
+    # Requested every 10 minutes. NOTE: GitHub's free scheduler is throttled and
+    # often only runs this every 1–3 hours under load. For real-time checks run
+    # the local watcher (node watch.mjs). This is the 24/7 fallback.
     - cron: "*/10 * * * *"
   workflow_dispatch: {} # lets you run it by hand from the Actions tab
 
@@ -61,7 +62,7 @@ jobs:
         run: |
           git config user.name "site-monitor"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/status.json docs/history.json
+          git add docs/status.json docs/history.json docs/incidents.json docs/meta.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

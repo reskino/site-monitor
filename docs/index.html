@@ -6,96 +6,94 @@
     <title>Site Monitor</title>
     <style>
       :root {
-        --bg: #f6f7f9;
-        --card: #ffffff;
-        --text: #1a1d21;
-        --muted: #6b7280;
-        --border: #e6e8eb;
-        --up: #16a34a;
-        --down: #dc2626;
-        --slow: #d97706;
-        --shadow: 0 1px 2px rgba(0, 0, 0, 0.05), 0 4px 16px rgba(0, 0, 0, 0.04);
+        --bg: #f6f7f9; --card: #ffffff; --text: #1a1d21; --muted: #6b7280;
+        --border: #e6e8eb; --up: #16a34a; --down: #dc2626; --slow: #d97706;
+        --accent: #2563eb;
+        --shadow: 0 1px 2px rgba(0,0,0,.05), 0 4px 16px rgba(0,0,0,.04);
       }
       @media (prefers-color-scheme: dark) {
         :root {
-          --bg: #0f1115;
-          --card: #171a21;
-          --text: #e8eaed;
-          --muted: #9aa0aa;
-          --border: #262a33;
-          --up: #22c55e;
-          --down: #f87171;
-          --slow: #fbbf24;
-          --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 4px 16px rgba(0, 0, 0, 0.25);
+          --bg: #0f1115; --card: #171a21; --text: #e8eaed; --muted: #9aa0aa;
+          --border: #262a33; --up: #22c55e; --down: #f87171; --slow: #fbbf24;
+          --accent: #60a5fa;
+          --shadow: 0 1px 2px rgba(0,0,0,.3), 0 4px 16px rgba(0,0,0,.25);
         }
       }
       * { box-sizing: border-box; }
-      body {
-        margin: 0;
-        background: var(--bg);
-        color: var(--text);
-        font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-          Helvetica, Arial, sans-serif;
-        -webkit-font-smoothing: antialiased;
-      }
-      .wrap { max-width: 880px; margin: 0 auto; padding: 32px 20px 64px; }
-      header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px 14px; margin-bottom: 4px; }
-      h1 { font-size: 22px; margin: 0; letter-spacing: -0.01em; }
-      .head-right { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
-      .manage {
-        font-size: 13px; font-weight: 600; color: var(--text);
-        text-decoration: none; border: 1px solid var(--border);
-        padding: 6px 12px; border-radius: 999px; white-space: nowrap;
-      }
+      body { margin: 0; background: var(--bg); color: var(--text);
+        font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased; }
+      .wrap { max-width: 920px; margin: 0 auto; padding: 28px 20px 64px; }
+      header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px 14px; }
+      h1 { font-size: 22px; margin: 0; letter-spacing: -.01em; }
+      .head-right { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+      .manage { font-size: 13px; font-weight: 600; color: var(--text); text-decoration: none;
+        border: 1px solid var(--border); padding: 6px 12px; border-radius: 999px; white-space: nowrap; }
       .manage:hover { border-color: var(--muted); }
       .updated { color: var(--muted); font-size: 13px; }
-      .summary { color: var(--muted); font-size: 14px; margin: 6px 0 24px; }
-      .summary b { color: var(--text); }
+      .live { display: inline-flex; align-items: center; gap: 6px; }
+      .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--up); box-shadow: 0 0 0 0 var(--up); animation: pulse 2s infinite; }
+      @keyframes pulse { 0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--up) 60%, transparent); } 70% { box-shadow: 0 0 0 7px transparent; } 100% { box-shadow: 0 0 0 0 transparent; } }
+
+      .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin: 20px 0; }
+      .stat { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px; box-shadow: var(--shadow); }
+      .stat .n { font-size: 24px; font-weight: 700; letter-spacing: -.02em; }
+      .stat .l { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+      .stat.down .n { color: var(--down); } .stat.up .n { color: var(--up); }
+      .stat.slow .n { color: var(--slow); } .stat.warn .n { color: var(--slow); }
+
+      .toolbar { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 16px; align-items: center; }
+      .search { flex: 1; min-width: 180px; background: var(--card); border: 1px solid var(--border);
+        color: var(--text); border-radius: 10px; padding: 9px 12px; font-size: 14px; }
+      .filters { display: flex; gap: 6px; flex-wrap: wrap; }
+      .chip { font-size: 12px; font-weight: 600; padding: 7px 12px; border-radius: 999px; cursor: pointer;
+        border: 1px solid var(--border); background: var(--card); color: var(--muted); }
+      .chip.active { color: #fff; background: var(--accent); border-color: var(--accent); }
+
       .grid { display: grid; gap: 12px; }
-      .card {
-        background: var(--card);
-        border: 1px solid var(--border);
-        border-radius: 14px;
-        padding: 16px 18px;
-        box-shadow: var(--shadow);
-        display: grid;
-        grid-template-columns: 1fr auto;
-        gap: 6px 16px;
-        align-items: center;
-      }
-      .name { font-weight: 600; font-size: 16px; }
+      .card { background: var(--card); border: 1px solid var(--border); border-radius: 14px;
+        padding: 16px 18px; box-shadow: var(--shadow); }
+      .card.down { border-left: 3px solid var(--down); }
+      .card.slow { border-left: 3px solid var(--slow); }
+      .row { display: grid; grid-template-columns: 1fr auto; gap: 6px 16px; align-items: center; cursor: pointer; }
+      .name { font-weight: 600; font-size: 16px; display: flex; align-items: center; gap: 8px; }
+      .caret { color: var(--muted); font-size: 12px; transition: transform .15s; }
+      .card.open .caret { transform: rotate(90deg); }
       .url { color: var(--muted); font-size: 13px; word-break: break-all; }
-      .url a { color: inherit; text-decoration: none; }
-      .url a:hover { text-decoration: underline; }
-      .badge {
-        justify-self: end;
-        font-size: 12px;
-        font-weight: 700;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        padding: 5px 11px;
-        border-radius: 999px;
-        white-space: nowrap;
-      }
+      .url a { color: inherit; text-decoration: none; } .url a:hover { text-decoration: underline; }
+      .badge { justify-self: end; font-size: 12px; font-weight: 700; letter-spacing: .03em; text-transform: uppercase;
+        padding: 5px 11px; border-radius: 999px; white-space: nowrap; }
       .badge.up { color: var(--up); background: color-mix(in srgb, var(--up) 14%, transparent); }
       .badge.down { color: var(--down); background: color-mix(in srgb, var(--down) 14%, transparent); }
       .badge.slow { color: var(--slow); background: color-mix(in srgb, var(--slow) 16%, transparent); }
-      .meta {
-        grid-column: 1 / -1;
-        display: flex;
-        flex-wrap: wrap;
-        gap: 6px 18px;
-        color: var(--muted);
-        font-size: 13px;
-        padding-top: 4px;
-        border-top: 1px solid var(--border);
-        margin-top: 4px;
-      }
-      .meta .err { color: var(--down); }
-      .strip { display: flex; gap: 2px; margin-top: 2px; align-items: flex-end; }
-      .tick { width: 5px; height: 14px; border-radius: 2px; background: var(--border); }
-      .tick.up { background: var(--up); }
-      .tick.down { background: var(--down); }
+
+      .quick { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted);
+        font-size: 13px; padding-top: 10px; margin-top: 8px; border-top: 1px solid var(--border); align-items: center; }
+      .quick .err { color: var(--down); } .quick .warnpill { color: var(--slow); font-weight: 600; }
+      .strip { display: flex; gap: 2px; align-items: flex-end; margin-left: auto; }
+      .tick { width: 5px; height: 15px; border-radius: 2px; background: var(--border); }
+      .tick.up { background: var(--up); } .tick.down { background: var(--down); }
+
+      .detail { display: none; margin-top: 14px; padding-top: 14px; border-top: 1px dashed var(--border); }
+      .card.open .detail { display: block; }
+      .dgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; }
+      .field { font-size: 13px; }
+      .field .k { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 2px; }
+      .field .v { font-weight: 600; }
+      .field .v.good { color: var(--up); } .field .v.bad { color: var(--down); } .field .v.warn { color: var(--slow); }
+      .spark { width: 100%; height: 44px; margin-top: 4px; }
+      .section-title { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; margin: 16px 0 8px; }
+      .subs { display: flex; flex-wrap: wrap; gap: 6px; }
+      .sub { font-size: 12px; background: color-mix(in srgb, var(--accent) 10%, transparent); color: var(--accent);
+        padding: 3px 9px; border-radius: 999px; text-decoration: none; }
+      .sub:hover { text-decoration: underline; }
+      .redir { font-size: 12px; color: var(--muted); font-family: ui-monospace, SFMono-Regular, Menlo, monospace; word-break: break-all; }
+      .redir b { color: var(--slow); }
+      .inc { font-size: 13px; display: flex; gap: 10px; padding: 5px 0; border-bottom: 1px solid var(--border); }
+      .inc:last-child { border-bottom: 0; }
+      .inc .when { color: var(--muted); white-space: nowrap; }
+      .inc.down .what { color: var(--down); } .inc.up .what { color: var(--up); }
+
       .empty { text-align: center; color: var(--muted); padding: 48px 0; }
       footer { color: var(--muted); font-size: 12px; text-align: center; margin-top: 32px; }
     </style>
@@ -106,99 +104,222 @@
         <h1>Site Monitor</h1>
         <div class="head-right">
           <a class="manage" href="https://github.com/reskino/site-monitor/actions/workflows/manage-sites.yml" target="_blank" rel="noopener">+ Add / manage sites</a>
-          <span class="updated" id="updated">Loading…</span>
+          <span class="updated live"><span class="dot"></span><span id="updated">Loading…</span></span>
         </div>
       </header>
-      <div class="summary" id="summary"></div>
+
+      <div class="stats" id="stats"></div>
+
+      <div class="toolbar">
+        <input class="search" id="search" placeholder="Search sites…" />
+        <div class="filters" id="filters">
+          <span class="chip active" data-f="all">All</span>
+          <span class="chip" data-f="down">Down</span>
+          <span class="chip" data-f="slow">Slow</span>
+          <span class="chip" data-f="warn">Expiring</span>
+        </div>
+      </div>
+
       <div class="grid" id="grid"></div>
-      <footer>Auto-refreshes every 60 seconds · Checks run every 10 minutes</footer>
+
+      <div id="incidents"></div>
+
+      <footer>Live watcher refreshes on this machine · GitHub Actions is the 24/7 fallback · Page auto-refreshes every 30s</footer>
     </div>
 
     <script>
       const bust = () => "?t=" + Date.now();
+      let STATE = { results: [], history: [], incidents: [], generatedAt: null };
+      let FILTER = "all", QUERY = "";
+      const openSet = new Set();
+
+      const esc = (s) => String(s).replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+      const escA = (s) => String(s).replace(/"/g, "&quot;");
 
       function fmtAge(iso) {
-        const secs = Math.max(0, (Date.now() - new Date(iso).getTime()) / 1000);
-        if (secs < 90) return Math.round(secs) + "s ago";
-        if (secs < 5400) return Math.round(secs / 60) + " min ago";
-        if (secs < 172800) return Math.round(secs / 3600) + "h ago";
-        return Math.round(secs / 86400) + "d ago";
+        const s = Math.max(0, (Date.now() - new Date(iso).getTime()) / 1000);
+        if (s < 90) return Math.round(s) + "s ago";
+        if (s < 5400) return Math.round(s / 60) + " min ago";
+        if (s < 172800) return Math.round(s / 3600) + "h ago";
+        return Math.round(s / 86400) + "d ago";
       }
+      function fmtDate(iso) { try { return new Date(iso).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" }); } catch { return "—"; } }
+      function fmtDateTime(iso) { try { return new Date(iso).toLocaleString(undefined, { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" }); } catch { return "—"; } }
+      function fmtDur(ms) { const m = Math.round(ms / 60000); if (m < 60) return m + " min"; const h = (m / 60).toFixed(1); return h + " h"; }
 
-      function uptimeFor(name, history) {
+      function uptimeFor(name) {
         let up = 0, total = 0;
-        for (const run of history) {
-          const hit = run.r.find((x) => x.n === name);
-          if (hit) { total++; if (hit.up) up++; }
-        }
-        return { pct: total ? Math.round((up / total) * 100) : null, total };
+        for (const run of STATE.history) { const h = run.r.find((x) => x.n === name); if (h) { total++; if (h.up) up++; } }
+        return { pct: total ? Math.round((up / total) * 1000) / 10 : null, total };
+      }
+      function seriesFor(name) {
+        return STATE.history.slice(-60).map((run) => run.r.find((x) => x.n === name)).filter(Boolean);
+      }
+      function stripFor(name) {
+        return seriesFor(name).slice(-40).map((h) => `<span class="tick ${h.up ? "up" : "down"}"></span>`).join("");
+      }
+      function sparkline(name) {
+        const s = seriesFor(name).filter((h) => h.up);
+        if (s.length < 2) return "";
+        const vals = s.map((h) => h.ms);
+        const max = Math.max(...vals), min = Math.min(...vals);
+        const W = 300, H = 40, span = max - min || 1;
+        const pts = vals.map((v, i) => `${(i / (vals.length - 1)) * W},${H - ((v - min) / span) * (H - 6) - 3}`).join(" ");
+        return `<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
+          <polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="2" vector-effect="non-scaling-stroke"/>
+        </svg>`;
       }
 
-      function stripFor(name, history) {
-        const last = history.slice(-40).map((run) => {
-          const hit = run.r.find((x) => x.n === name);
-          return hit ? (hit.up ? "up" : "down") : "none";
-        });
-        return last.map((s) => `<span class="tick ${s === "none" ? "" : s}"></span>`).join("");
+      function daysClass(d, warnAt) { if (d == null) return ""; if (d < 0) return "bad"; if (d <= warnAt) return "warn"; return "good"; }
+
+      function incidentsFor(name) {
+        return STATE.incidents.filter((i) => i.name === name).slice(-6).reverse();
       }
 
-      async function load() {
-        let data, history = [];
-        try {
-          data = await (await fetch("status.json" + bust())).json();
-        } catch {
-          document.getElementById("updated").textContent = "No data yet";
-          document.getElementById("grid").innerHTML =
-            '<div class="empty">No results yet.<br>Run the “Site Monitor” workflow once from the GitHub Actions tab.</div>';
-          return;
-        }
-        try {
-          history = await (await fetch("history.json" + bust())).json();
-        } catch {}
+      function detailHtml(r) {
+        const ssl = r.ssl || {};
+        const dom = r.domain || {};
+        const subs = (r.subdomains || []);
+        const redir = (r.redirects || []);
+        const incs = incidentsFor(r.name);
 
-        const results = data.results || [];
+        const sslField = ssl.error
+          ? `<div class="field"><div class="k">SSL certificate</div><div class="v bad">${esc(ssl.error)}</div></div>`
+          : `<div class="field"><div class="k">SSL expires</div><div class="v ${daysClass(ssl.daysLeft, 21)}">${fmtDate(ssl.validTo)} · ${ssl.daysLeft}d</div></div>
+             <div class="field"><div class="k">Issuer</div><div class="v">${esc(ssl.issuer || "—")}</div></div>`;
+
+        const domField = dom && !dom.error && dom.expiration
+          ? `<div class="field"><div class="k">Domain expires</div><div class="v ${daysClass(dom.daysLeft, 30)}">${fmtDate(dom.expiration)} · ${dom.daysLeft}d</div></div>
+             <div class="field"><div class="k">Registrar</div><div class="v">${esc(dom.registrar || "—")}</div></div>`
+          : `<div class="field"><div class="k">Domain expiry</div><div class="v">${esc(dom?.error || "Unknown")}</div></div>`;
+
+        const redirHtml = redir.length
+          ? `<div class="section-title">Redirect chain</div><div class="redir">` +
+            redir.map((h) => `${esc(new URL(h.from).host)} <b>→ ${h.status} →</b> ${esc(new URL(h.to).host)}`).join("<br>") +
+            `</div>`
+          : "";
+
+        const subsHtml = subs.length
+          ? `<div class="section-title">Subdomains found (${subs.length})</div><div class="subs">` +
+            subs.slice(0, 40).map((s) => `<a class="sub" href="https://${escA(s)}" target="_blank" rel="noopener">${esc(s)}</a>`).join("") +
+            (subs.length > 40 ? `<span class="sub" style="background:none;color:var(--muted)">+${subs.length - 40} more</span>` : "") +
+            `</div>`
+          : "";
+
+        const incHtml = incs.length
+          ? `<div class="section-title">Recent incidents</div>` +
+            incs.map((i) => `<div class="inc ${i.type}"><span class="when">${fmtDateTime(i.at)}</span>
+              <span class="what">${i.type === "down" ? "Went down — " + esc(i.error || "") : "Recovered" + (i.downMs ? " (down " + fmtDur(i.downMs) + ")" : "")}</span></div>`).join("")
+          : "";
+
+        const contentField = r.expectText
+          ? `<div class="field"><div class="k">Content check</div><div class="v ${r.contentOk ? "good" : "bad"}">${r.contentOk ? "Text present" : "Missing"}</div></div>`
+          : "";
+
+        return `<div class="detail">
+          <div class="dgrid">
+            <div class="field"><div class="k">Final URL</div><div class="v" style="font-weight:500;word-break:break-all">${esc(r.finalUrl || r.url)}</div></div>
+            <div class="field"><div class="k">HTTP status</div><div class="v ${r.up ? "good" : "bad"}">${r.status || "—"}</div></div>
+            <div class="field"><div class="k">Response time</div><div class="v ${r.slow ? "warn" : ""}">${(r.ms / 1000).toFixed(2)}s</div></div>
+            ${sslField}
+            ${domField}
+            ${contentField}
+          </div>
+          ${redirHtml}
+          <div class="section-title">Response time (recent)</div>
+          ${sparkline(r.name) || '<div class="url">Not enough data yet.</div>'}
+          ${subsHtml}
+          ${incHtml}
+        </div>`;
+      }
+
+      function passesFilter(r) {
+        if (FILTER === "down" && r.up) return false;
+        if (FILTER === "slow" && !(r.up && r.slow)) return false;
+        if (FILTER === "warn" && !(r.ssl?.warn || r.domain?.warn)) return false;
+        if (QUERY && !(`${r.name} ${r.url}`.toLowerCase().includes(QUERY))) return false;
+        return true;
+      }
+
+      function render() {
+        const results = STATE.results;
         const down = results.filter((r) => !r.up).length;
         const slow = results.filter((r) => r.up && r.slow).length;
+        const warn = results.filter((r) => r.ssl?.warn || r.domain?.warn).length;
 
-        document.getElementById("updated").textContent =
-          "Updated " + fmtAge(data.generatedAt);
-        document.getElementById("summary").innerHTML =
-          `<b>${results.length - down}</b> up · <b>${down}</b> down` +
-          (slow ? ` · <b>${slow}</b> slow` : "");
+        document.getElementById("updated").textContent = STATE.generatedAt ? "Updated " + fmtAge(STATE.generatedAt) : "No data";
+        document.getElementById("stats").innerHTML = `
+          <div class="stat up"><div class="n">${results.length - down}</div><div class="l">Up</div></div>
+          <div class="stat down"><div class="n">${down}</div><div class="l">Down</div></div>
+          <div class="stat slow"><div class="n">${slow}</div><div class="l">Slow</div></div>
+          <div class="stat warn"><div class="n">${warn}</div><div class="l">Expiring</div></div>
+          <div class="stat"><div class="n">${results.length}</div><div class="l">Total</div></div>`;
 
-        document.getElementById("grid").innerHTML = results
-          .map((r) => {
-            const state = !r.up ? "down" : r.slow ? "slow" : "up";
-            const label = !r.up ? "Down" : r.slow ? "Slow" : "Up";
-            const u = uptimeFor(r.name, history);
-            const secs = (r.ms / 1000).toFixed(1);
-            return `
-              <div class="card">
-                <div>
-                  <div class="name">${escapeHtml(r.name)}</div>
-                  <div class="url"><a href="${escapeAttr(r.url)}" target="_blank" rel="noopener">${escapeHtml(r.url)}</a></div>
-                </div>
-                <span class="badge ${state}">${label}</span>
-                <div class="meta">
-                  <span>${r.up ? "HTTP " + r.status : '<span class="err">' + escapeHtml(r.error || "No response") + "</span>"}</span>
-                  <span>${secs}s response</span>
-                  ${u.pct !== null ? `<span>${u.pct}% uptime (${u.total} checks)</span>` : ""}
-                  <span class="strip">${stripFor(r.name, history)}</span>
-                </div>
-              </div>`;
-          })
-          .join("");
+        const shown = results.filter(passesFilter);
+        document.getElementById("grid").innerHTML = shown.length ? shown.map((r) => {
+          const state = !r.up ? "down" : r.slow ? "slow" : "up";
+          const label = !r.up ? "Down" : r.slow ? "Slow" : "Up";
+          const u = uptimeFor(r.name);
+          const open = openSet.has(r.name) ? " open" : "";
+          const warnPills = [];
+          if (r.ssl?.warn) warnPills.push(`SSL ${r.ssl.daysLeft}d`);
+          if (r.domain?.warn) warnPills.push(`Domain ${r.domain.daysLeft}d`);
+          return `<div class="card ${state}${open}" data-name="${escA(r.name)}">
+            <div class="row" onclick="toggle('${escA(r.name)}')">
+              <div>
+                <div class="name"><span class="caret">▶</span>${esc(r.name)}</div>
+                <div class="url"><a href="${escA(r.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(r.url)}</a></div>
+              </div>
+              <span class="badge ${state}">${label}</span>
+              <div class="quick">
+                <span>${r.up ? "HTTP " + r.status : '<span class="err">' + esc(r.error || "No response") + "</span>"}</span>
+                <span>${(r.ms / 1000).toFixed(1)}s</span>
+                ${u.pct !== null ? `<span>${u.pct}% uptime</span>` : ""}
+                ${r.redirected ? "<span>↪ redirects</span>" : ""}
+                ${warnPills.length ? `<span class="warnpill">⚠ ${warnPills.join(" · ")}</span>` : ""}
+                <span class="strip">${stripFor(r.name)}</span>
+              </div>
+            </div>
+            ${detailHtml(r)}
+          </div>`;
+        }).join("") : '<div class="empty">No sites match this filter.</div>';
+
+        // Global incident feed.
+        const recent = STATE.incidents.slice(-12).reverse();
+        document.getElementById("incidents").innerHTML = recent.length
+          ? `<div class="section-title" style="margin-top:28px">Incident history</div><div class="card">` +
+            recent.map((i) => `<div class="inc ${i.type}"><span class="when">${fmtDateTime(i.at)}</span>
+              <span class="what"><b>${esc(i.name)}</b> — ${i.type === "down" ? "went down: " + esc(i.error || "") : "recovered" + (i.downMs ? " after " + fmtDur(i.downMs) : "")}</span></div>`).join("") +
+            `</div>`
+          : "";
       }
 
-      function escapeHtml(s) {
-        return String(s).replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
-      }
-      function escapeAttr(s) {
-        return String(s).replace(/"/g, "&quot;");
+      window.toggle = (name) => { openSet.has(name) ? openSet.delete(name) : openSet.add(name); render(); };
+
+      document.getElementById("search").addEventListener("input", (e) => { QUERY = e.target.value.trim().toLowerCase(); render(); });
+      document.getElementById("filters").addEventListener("click", (e) => {
+        const chip = e.target.closest(".chip"); if (!chip) return;
+        document.querySelectorAll(".chip").forEach((c) => c.classList.remove("active"));
+        chip.classList.add("active"); FILTER = chip.dataset.f; render();
+      });
+
+      async function load() {
+        try {
+          const data = await (await fetch("status.json" + bust())).json();
+          STATE.results = data.results || [];
+          STATE.generatedAt = data.generatedAt;
+        } catch {
+          document.getElementById("updated").textContent = "No data yet";
+          document.getElementById("grid").innerHTML = '<div class="empty">No results yet.<br>Run the checker (node check.mjs) or the “Site Monitor” workflow once.</div>';
+          return;
+        }
+        try { STATE.history = await (await fetch("history.json" + bust())).json(); } catch {}
+        try { STATE.incidents = await (await fetch("incidents.json" + bust())).json(); } catch {}
+        render();
       }
 
       load();
-      setInterval(load, 60000);
+      setInterval(load, 30000);
     </script>
   </body>
 </html>
