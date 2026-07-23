@@ -89,11 +89,24 @@ async function pushResults(force) {
   if (!DO_PUSH) return;
   if (!force && Date.now() - lastPush < PUSH_THROTTLE_MS) return;
   lastPush = Date.now();
-  await git(['add', 'docs/status.json', 'docs/history.json', 'docs/incidents.json', 'docs/meta.json']);
+  const files = ['docs/status.json', 'docs/history.json', 'docs/incidents.json', 'docs/meta.json'];
+  await git(['add', ...files]);
   const diff = await git(['diff', '--cached', '--quiet']);
   if (diff.code === 0) return; // nothing changed
   await git(['commit', '-m', 'Update site status (live watcher)']);
-  const push = await git(['push']);
+
+  let push = await git(['push']);
+  if (push.code !== 0) {
+    // The scheduled Action (or another push) got there first. Our data files
+    // are regenerated every cycle, so rebase our fresh copy onto the latest
+    // remote instead of trying to merge — no conflicts, always converges.
+    await git(['fetch', 'origin', 'main']);
+    await git(['reset', '--soft', 'origin/main']);
+    await git(['add', ...files]);
+    const redo = await git(['diff', '--cached', '--quiet']);
+    if (redo.code !== 0) await git(['commit', '-m', 'Update site status (live watcher)']);
+    push = await git(['push']);
+  }
   console.log(push.code === 0 ? '  ↑ pushed to GitHub' : `  ! push failed: ${push.out.trim().split('\n').pop()}`);
 }
 
