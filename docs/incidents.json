@@ -151,6 +151,21 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-23T20:42:14.122Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-23T21:39:52.275Z",
+    "downMs": 3458153
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-07-23T21:39:52.275Z",
+    "error": "Too many redirects"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-23T21:39:52.275Z"
   }
 ]
