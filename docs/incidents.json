@@ -25,5 +25,12 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-23T11:58:10.871Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-23T12:25:31.132Z",
+    "error": "Connection reset"
   }
 ]
