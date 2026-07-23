@@ -40,5 +40,12 @@
     "url": "https://jassmattazz.com",
     "type": "up",
     "at": "2026-07-23T12:26:17.071Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-23T13:37:11.000Z",
+    "error": "No response within 45s"
   }
 ]
