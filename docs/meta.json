@@ -144,7 +144,20 @@
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
       "domainOkAt": "2026-07-23T10:51:48.695Z",
-      "subFailAt": "2026-07-23T18:01:10.047Z"
+      "subFailAt": "2026-07-23T18:01:10.047Z",
+      "subdomains": [
+        "cpanel.effectivelifeministry.org",
+        "cpcalendars.effectivelifeministry.org",
+        "cpcontacts.effectivelifeministry.org",
+        "effectivelifeministry.org",
+        "mail.effectivelifeministry.org",
+        "ngo.effectivelifeministry.org",
+        "webdisk.effectivelifeministry.org",
+        "webmail.effectivelifeministry.org",
+        "www.effectivelifeministry.org",
+        "www.ngo.effectivelifeministry.org"
+      ],
+      "subOkAt": "2026-07-23T19:39:50.669Z"
     },
     "gmwghana.com": {
       "domain": {
