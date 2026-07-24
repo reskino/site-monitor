@@ -280,5 +280,12 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-07-24T09:10:31.056Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-24T11:15:10.055Z",
+    "error": "No response within 45s"
   }
 ]
