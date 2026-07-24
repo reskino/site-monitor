@@ -187,7 +187,7 @@
         "www.gmwghana.com"
       ],
       "subOkAt": "2026-07-23T12:53:57.429Z",
-      "domainFailAt": "2026-07-24T04:24:37.212Z"
+      "domainFailAt": "2026-07-24T18:49:18.674Z"
     },
     "opportunitytoexcel.com": {
       "domain": {
@@ -304,12 +304,12 @@
       "domain": {
         "expiration": "2027-05-16T10:49:39Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 296,
+        "daysLeft": 295,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
-      "domainOkAt": "2026-07-24T04:24:37.276Z",
+      "domainOkAt": "2026-07-24T18:49:03.908Z",
       "subFailAt": "2026-07-23T11:53:02.777Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
