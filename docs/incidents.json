@@ -346,6 +346,14 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-24T15:54:06.083Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-24T17:19:00.711Z",
+    "downMs": 5094628
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-24T17:19:00.711Z"
   }
 ]
