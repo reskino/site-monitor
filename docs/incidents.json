@@ -85,12 +85,20 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-07-24T21:15:56.823Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-07-24T22:19:08.317Z",
+    "downMs": 3791494
   },
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-07-24T21:15:56.823Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-07-24T22:19:08.317Z"
   }
 ]
