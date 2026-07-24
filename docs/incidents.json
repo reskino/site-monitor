@@ -295,7 +295,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-24T12:48:19.998Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-24T15:54:06.083Z",
+    "downMs": 11146085
   },
   {
     "name": "lansor.co.uk",
@@ -311,7 +313,9 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-07-24T14:28:33.536Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-07-24T15:54:06.083Z",
+    "downMs": 5132547
   },
   {
     "name": "uhuruforall.com",
@@ -324,5 +328,24 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-24T14:28:33.536Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-07-24T15:54:06.083Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-24T15:54:06.083Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-24T15:54:06.083Z",
+    "error": "No response within 45s"
   }
 ]
