@@ -169,12 +169,12 @@
       "domain": {
         "expiration": "2026-09-06T13:30:20Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 45,
+        "daysLeft": 44,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
-      "domainOkAt": "2026-07-23T10:51:48.268Z",
+      "domainOkAt": "2026-07-24T06:48:05.334Z",
       "subFailAt": "2026-07-23T11:53:02.782Z",
       "subdomains": [
         "cpanel.gmwghana.com",

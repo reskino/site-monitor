@@ -265,5 +265,12 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-23T23:33:01.492Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-24T06:48:05.335Z",
+    "error": "No response within 45s"
   }
 ]
