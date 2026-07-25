@@ -106,41 +106,89 @@
     "url": "https://amzendock.com",
     "type": "down",
     "at": "2026-07-25T00:17:42.697Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-25T03:41:28.474Z",
+    "downMs": 12225777
   },
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-25T00:17:42.697Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-25T03:41:28.474Z",
+    "downMs": 12225777
   },
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-07-25T00:17:42.697Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-25T03:41:28.474Z",
+    "downMs": 12225777
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-25T00:17:42.697Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-25T03:41:28.474Z",
+    "downMs": 12225777
   },
   {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-07-25T00:17:42.697Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-25T03:41:28.474Z",
+    "downMs": 12225777
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-25T00:17:42.697Z",
-    "error": "HTTP 415"
+    "error": "HTTP 415",
+    "resolvedAt": "2026-07-25T03:41:28.474Z",
+    "downMs": 12225777
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-07-25T03:41:28.474Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-25T03:41:28.474Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-07-25T03:41:28.474Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-25T03:41:28.474Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-25T03:41:28.474Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-25T03:41:28.474Z"
   }
 ]
