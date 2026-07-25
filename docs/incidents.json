@@ -151,6 +151,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-07-25T20:50:11.722Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-07-25T20:51:06.145Z",
+    "downMs": 54423
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-07-25T20:51:06.145Z"
   }
 ]
