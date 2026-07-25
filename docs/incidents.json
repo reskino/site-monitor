@@ -136,6 +136,14 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-25T13:27:16.607Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-25T13:31:29.171Z",
+    "downMs": 252564
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-25T13:31:29.171Z"
   }
 ]
