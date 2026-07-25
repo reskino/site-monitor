@@ -196,21 +196,27 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-07-25T06:08:28.961Z",
-    "error": "HTTP 522"
+    "error": "HTTP 522",
+    "resolvedAt": "2026-07-25T08:21:18.541Z",
+    "downMs": 7969580
   },
   {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "down",
     "at": "2026-07-25T06:08:28.961Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-07-25T08:21:18.541Z",
+    "downMs": 7969580
   },
   {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
     "at": "2026-07-25T06:08:28.961Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-07-25T08:21:18.541Z",
+    "downMs": 7969580
   },
   {
     "name": "effectivelifeministry.org",
@@ -224,14 +230,18 @@
     "url": "https://opportunitytoexcel.com",
     "type": "down",
     "at": "2026-07-25T06:08:28.961Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-07-25T08:21:18.541Z",
+    "downMs": 7969580
   },
   {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-07-25T06:08:28.961Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-07-25T08:21:18.541Z",
+    "downMs": 7969580
   },
   {
     "name": "lansor.co.uk",
@@ -239,5 +249,63 @@
     "type": "down",
     "at": "2026-07-25T06:08:28.961Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-07-25T08:21:18.541Z"
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-07-25T08:21:18.541Z"
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "up",
+    "at": "2026-07-25T08:21:18.541Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-07-25T08:21:18.541Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-07-25T08:21:18.541Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-07-25T08:21:18.541Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-07-25T08:21:18.541Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-25T08:21:18.541Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-25T08:21:18.541Z",
+    "error": "HTTP 415"
   }
 ]
