@@ -145,5 +145,12 @@
     "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-07-25T13:31:29.171Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-07-25T20:50:11.722Z",
+    "error": "Too many redirects"
   }
 ]
