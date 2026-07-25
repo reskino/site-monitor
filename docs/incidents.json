@@ -160,5 +160,47 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-07-25T20:51:06.145Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-07-25T22:11:09.401Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-25T22:11:09.401Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-07-25T22:11:09.401Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-25T22:11:09.401Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-25T22:11:09.401Z",
+    "error": "HTTP 415"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-25T22:11:09.401Z",
+    "error": "HTTP 415"
   }
 ]
