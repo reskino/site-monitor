@@ -102,45 +102,17 @@
     "at": "2026-07-25T10:54:43.058Z"
   },
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-07-25T12:13:33.157Z",
-    "error": "HTTP 415"
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
-    "at": "2026-07-25T12:13:33.157Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-07-25T12:13:33.157Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-07-25T12:13:33.157Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-07-25T12:13:33.157Z",
-    "error": "HTTP 415"
+    "at": "2026-07-25T12:59:40.179Z",
+    "error": "No response within 45s"
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
-    "at": "2026-07-25T12:13:33.157Z",
-    "error": "HTTP 415"
+    "at": "2026-07-25T12:59:40.179Z",
+    "error": "No response within 45s"
   }
 ]
