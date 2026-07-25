@@ -46,7 +46,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-23T13:37:11.000Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-25T09:09:33.697Z",
+    "downMs": 156742697
   },
   {
     "name": "uhuruforall.com",
@@ -77,5 +79,11 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-24T19:54:55.100Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-25T09:09:33.697Z"
   }
 ]
