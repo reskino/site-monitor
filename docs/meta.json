@@ -62,12 +62,12 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
-      "domainOkAt": "2026-07-25T21:07:06.867Z",
+      "domainOkAt": "2026-07-26T16:29:28.082Z",
       "subFailAt": "2026-07-26T15:30:38.849Z",
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-07-23T12:54:01.453Z",
+      "subOkAt": "2026-07-26T16:29:35.693Z",
       "domainFailAt": "2026-07-26T15:30:38.481Z"
     },
     "aaandsghana.com": {
@@ -119,7 +119,7 @@
         "www.new.amzendock.com",
         "www.uhuru.amzendock.com"
       ],
-      "subOkAt": "2026-07-23T12:54:03.665Z",
+      "subOkAt": "2026-07-26T16:29:35.109Z",
       "domainFailAt": "2026-07-26T11:47:03.365Z"
     },
     "airliv8hernetwork.com": {
@@ -175,7 +175,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-07-26T12:44:50.182Z",
-      "subFailAt": "2026-07-26T15:30:25.222Z",
+      "subFailAt": "2026-07-26T16:29:35.212Z",
       "subdomains": [
         "cpanel.gmwghana.com",
         "cpcalendars.gmwghana.com",
@@ -199,7 +199,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
       "domainOkAt": "2026-07-26T12:44:50.207Z",
-      "subFailAt": "2026-07-26T15:31:08.484Z",
+      "subFailAt": "2026-07-26T16:29:35.225Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
         "cpcalendars.opportunitytoexcel.com",
@@ -262,7 +262,7 @@
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
       ],
-      "subOkAt": "2026-07-23T11:53:35.442Z",
+      "subOkAt": "2026-07-26T16:29:35.026Z",
       "domainFailAt": "2026-07-26T11:47:03.369Z"
     },
     "uhuruforall.com": {
@@ -310,7 +310,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
       "domainOkAt": "2026-07-26T12:44:50.274Z",
-      "subFailAt": "2026-07-26T15:31:08.484Z",
+      "subFailAt": "2026-07-26T16:29:35.239Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
         "jassmattazz.com",
@@ -338,7 +338,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-07-25T21:07:07.242Z",
+      "domainOkAt": "2026-07-26T16:29:28.563Z",
       "subFailAt": "2026-07-26T12:44:50.937Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
