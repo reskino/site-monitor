@@ -400,33 +400,5 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-26T22:17:36.949Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-07-26T22:34:29.236Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-07-26T22:34:29.236Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-07-26T22:34:29.236Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-26T22:34:29.236Z",
-    "error": "HTTP 415"
   }
 ]
