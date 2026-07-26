@@ -160,5 +160,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-07-25T20:51:06.145Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-26T07:39:36.221Z",
+    "error": "No response within 45s"
   }
 ]
