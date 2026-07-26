@@ -190,5 +190,12 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-07-26T08:56:13.382Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-26T10:31:08.318Z",
+    "error": "No response within 45s"
   }
 ]
