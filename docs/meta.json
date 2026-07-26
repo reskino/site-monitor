@@ -355,6 +355,29 @@
       ],
       "subOkAt": "2026-07-26T17:49:49.019Z",
       "domainFailAt": "2026-07-26T17:38:12.031Z"
+    },
+    "impactcapitalmfi.com": {
+      "domain": {
+        "expiration": "2031-02-03T16:45:16Z",
+        "registrar": "GoDaddy.com, LLC",
+        "daysLeft": 1652,
+        "warn": false
+      },
+      "domainOkAt": "2026-07-26T18:10:08.022Z",
+      "subdomains": [
+        "autodiscover.impactcapitalmfi.com",
+        "cpanel.impactcapitalmfi.com",
+        "cpcalendars.impactcapitalmfi.com",
+        "cpcontacts.impactcapitalmfi.com",
+        "impactcapitalmfi.com",
+        "mail.impactcapitalmfi.com",
+        "test.impactcapitalmfi.com",
+        "webdisk.impactcapitalmfi.com",
+        "webmail.impactcapitalmfi.com",
+        "www.impactcapitalmfi.com",
+        "www.test.impactcapitalmfi.com"
+      ],
+      "subOkAt": "2026-07-26T18:10:16.409Z"
     }
   }
 }

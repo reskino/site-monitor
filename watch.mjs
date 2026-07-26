@@ -84,29 +84,41 @@ function git(cmdArgs) {
   });
 }
 
+const DOCS_FILES = ['docs/status.json', 'docs/history.json', 'docs/incidents.json', 'docs/meta.json'];
+
+// Adopt cloud-side changes (e.g. a site added from the "Manage sites" tab)
+// BEFORE checking, without disturbing any source files. We move our branch to
+// origin (soft — working tree untouched) and force just the site list to the
+// latest, so our next push fast-forwards and never reverts someone's add.
+async function syncFromRemote() {
+  if (!DO_PUSH) return;
+  const f = await git(['fetch', 'origin', 'main', '-q']);
+  if (f.code !== 0) return; // offline — carry on with what we have
+  await git(['reset', '--soft', 'origin/main']);
+  await git(['checkout', 'origin/main', '--', 'sites.json']);
+}
+
 let lastPush = 0;
 async function pushResults(force) {
   if (!DO_PUSH) return;
   if (!force && Date.now() - lastPush < PUSH_THROTTLE_MS) return;
-  lastPush = Date.now();
-  const files = ['docs/status.json', 'docs/history.json', 'docs/incidents.json', 'docs/meta.json'];
-  await git(['add', ...files]);
-  const diff = await git(['diff', '--cached', '--quiet']);
-  if (diff.code === 0) return; // nothing changed
+  await git(['add', ...DOCS_FILES]); // dashboard data ONLY — never sites.json
+  if ((await git(['diff', '--cached', '--quiet'])).code === 0) return; // nothing changed
   await git(['commit', '-m', 'Update site status (live watcher)']);
 
   let push = await git(['push']);
   if (push.code !== 0) {
-    // The scheduled Action (or another push) got there first. Our data files
-    // are regenerated every cycle, so rebase our fresh copy onto the latest
-    // remote instead of trying to merge — no conflicts, always converges.
-    await git(['fetch', 'origin', 'main']);
-    await git(['reset', '--soft', 'origin/main']);
-    await git(['add', ...files]);
-    const redo = await git(['diff', '--cached', '--quiet']);
-    if (redo.code !== 0) await git(['commit', '-m', 'Update site status (live watcher)']);
-    push = await git(['push']);
+    // Remote advanced mid-cycle. Re-sync to origin, regenerate against the
+    // latest site list, recommit only the docs, and retry — always converges.
+    await syncFromRemote();
+    await runOnce({ log: () => {} });
+    await git(['add', ...DOCS_FILES]);
+    if ((await git(['diff', '--cached', '--quiet'])).code !== 0) {
+      await git(['commit', '-m', 'Update site status (live watcher)']);
+      push = await git(['push']);
+    } else push = { code: 0 };
   }
+  lastPush = Date.now();
   console.log(push.code === 0 ? '  ↑ pushed to GitHub' : `  ! push failed: ${push.out.trim().split('\n').pop()}`);
 }
 
@@ -148,6 +160,7 @@ async function tick() {
   if (running) return;
   running = true;
   try {
+    await syncFromRemote(); // pick up sites added/removed via the cloud first
     const run = await runOnce({ log: () => {} });
     const stamp = new Date().toLocaleTimeString();
     const line = `[${stamp}] ${run.results.length - run.down.length} up · ${run.down.length} down`
