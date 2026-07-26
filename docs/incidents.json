@@ -250,5 +250,19 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-25T23:13:50.427Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-26T06:31:34.870Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-26T06:31:34.870Z",
+    "error": "No response within 45s"
   }
 ]
