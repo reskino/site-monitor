@@ -167,8 +167,8 @@
     "type": "down",
     "at": "2026-07-26T07:39:36.221Z",
     "error": "No response within 45s",
-    "resolvedAt": "2026-07-26T08:56:13.382Z",
-    "downMs": 4597161
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 35997504
   },
   {
     "name": "uhuruforall.com",
@@ -186,61 +186,174 @@
     "at": "2026-07-26T08:06:36.376Z"
   },
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-07-26T08:56:13.382Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-07-26T10:31:08.318Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-26T11:47:03.373Z",
-    "downMs": 4555055
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
-    "at": "2026-07-26T11:47:03.373Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-07-26T12:44:51.935Z",
-    "downMs": 3468562
+    "at": "2026-07-26T17:07:16.297Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 1937428
   },
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-07-26T11:47:03.373Z"
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "down",
+    "at": "2026-07-26T17:07:16.297Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 1937428
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "down",
+    "at": "2026-07-26T17:07:16.297Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 1937428
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-07-26T17:07:16.297Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 1937428
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "down",
+    "at": "2026-07-26T17:07:16.297Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 1937428
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-07-26T17:07:16.297Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 1937428
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "down",
+    "at": "2026-07-26T17:07:16.297Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 1937428
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-07-26T17:07:16.297Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 1937428
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
-    "at": "2026-07-26T11:47:03.373Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-26T12:44:51.935Z",
-    "downMs": 3468562
+    "at": "2026-07-26T17:07:16.297Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 1937428
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-26T17:07:16.297Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 1937428
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-26T17:07:16.297Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-26T17:39:33.725Z",
+    "downMs": 1937428
   },
   {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "up",
-    "at": "2026-07-26T12:44:51.935Z"
+    "at": "2026-07-26T17:39:33.725Z"
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-07-26T17:39:33.725Z"
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "up",
+    "at": "2026-07-26T17:39:33.725Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-07-26T17:39:33.725Z"
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "up",
+    "at": "2026-07-26T17:39:33.725Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-26T17:39:33.725Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-07-26T17:39:33.725Z"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-07-26T17:39:33.725Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-07-26T17:39:33.725Z"
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
-    "at": "2026-07-26T12:44:51.935Z"
+    "at": "2026-07-26T17:39:33.725Z"
   },
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-07-26T17:34:50.214Z",
-    "error": "No response within 45s"
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-26T17:39:33.725Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-26T17:39:33.725Z"
   }
 ]
