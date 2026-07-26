@@ -275,7 +275,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.021Z",
       "subCheckedAt": "2026-07-23T10:48:47.547Z",
       "domainOkAt": "2026-07-26T17:39:15.166Z",
-      "subFailAt": "2026-07-26T17:49:58.183Z",
+      "subFailAt": "2026-07-26T17:58:10.886Z",
       "subdomains": [
         "abskitchen.uhuruforall.com",
         "abtest.uhuruforall.com",
@@ -355,6 +355,16 @@
       ],
       "subOkAt": "2026-07-26T17:49:49.019Z",
       "domainFailAt": "2026-07-26T17:38:12.031Z"
+    },
+    "impactcapitalmfi.com": {
+      "domain": {
+        "expiration": "2031-02-03T16:45:16Z",
+        "registrar": "GoDaddy.com, LLC",
+        "daysLeft": 1652,
+        "warn": false
+      },
+      "domainOkAt": "2026-07-26T17:57:58.851Z",
+      "subFailAt": "2026-07-26T17:58:43.852Z"
     }
   }
 }
