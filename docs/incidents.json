@@ -460,5 +460,26 @@
     "url": "https://airliv8hernetwork.com",
     "type": "up",
     "at": "2026-07-27T13:54:09.995Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-27T16:17:06.687Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-27T16:17:06.687Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-27T16:17:06.687Z",
+    "error": "No response within 45s"
   }
 ]
