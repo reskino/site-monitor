@@ -466,20 +466,44 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-27T16:17:06.687Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-27T17:57:57.265Z",
+    "downMs": 6050578
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-27T16:17:06.687Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-27T17:57:57.265Z",
+    "downMs": 6050578
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-27T16:17:06.687Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-27T17:57:57.265Z",
+    "downMs": 6050578
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-27T17:57:57.265Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-27T17:57:57.265Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-27T17:57:57.265Z"
   }
 ]
