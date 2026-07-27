@@ -460,54 +460,5 @@
     "url": "https://airliv8hernetwork.com",
     "type": "up",
     "at": "2026-07-27T13:54:09.995Z"
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-07-27T13:58:36.803Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-07-27T13:58:36.803Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-07-27T13:58:36.803Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-07-27T13:58:36.803Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-07-27T13:58:36.803Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-27T13:58:36.803Z",
-    "error": "HTTP 415"
-  },
-  {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-07-27T13:58:36.803Z",
-    "error": "HTTP 415"
   }
 ]
