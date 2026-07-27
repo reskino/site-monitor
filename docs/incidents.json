@@ -460,5 +460,12 @@
     "url": "https://airliv8hernetwork.com",
     "type": "up",
     "at": "2026-07-27T13:54:09.995Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-27T20:48:08.872Z",
+    "error": "No response within 45s"
   }
 ]
