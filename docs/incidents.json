@@ -415,5 +415,12 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-26T23:21:07.750Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-27T12:07:24.547Z",
+    "error": "No response within 45s"
   }
 ]
