@@ -451,6 +451,14 @@
     "url": "https://airliv8hernetwork.com",
     "type": "down",
     "at": "2026-07-27T13:41:32.194Z",
-    "error": "UND_ERR_SOCKET"
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-07-27T13:54:09.995Z",
+    "downMs": 757801
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "up",
+    "at": "2026-07-27T13:54:09.995Z"
   }
 ]
