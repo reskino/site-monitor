@@ -602,42 +602,20 @@
     "type": "down",
     "at": "2026-07-28T13:27:51.122Z",
     "error": "No response within 45s",
-    "resolvedAt": "2026-07-28T15:35:52.283Z",
-    "downMs": 7681161
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-07-28T15:35:52.283Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-07-28T17:06:36.599Z",
-    "downMs": 5444316
+    "resolvedAt": "2026-07-28T17:10:43.448Z",
+    "downMs": 13372326
   },
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
-    "at": "2026-07-28T15:35:52.283Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-07-28T17:06:36.599Z"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-28T17:06:36.599Z",
-    "error": "No response within 45s"
+    "at": "2026-07-28T17:10:43.448Z"
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
-    "at": "2026-07-28T17:06:36.599Z",
+    "at": "2026-07-28T17:10:43.448Z",
     "error": "No response within 45s"
   }
 ]
