@@ -512,5 +512,12 @@
     "type": "down",
     "at": "2026-07-28T07:54:22.415Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-28T08:03:22.477Z",
+    "error": "No response within 45s"
   }
 ]
