@@ -1073,6 +1073,21 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-29T18:58:29.307Z",
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-29T20:08:43.839Z",
+    "downMs": 4214532
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-29T20:08:43.839Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-29T20:08:43.839Z",
     "error": "No response within 45s"
   }
 ]
