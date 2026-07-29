@@ -257,12 +257,12 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-07-29T12:47:10.067Z",
-      "subFailAt": "2026-07-29T20:22:36.381Z",
+      "subFailAt": "2026-07-29T20:23:10.863Z",
       "subdomains": [
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
       ],
-      "subOkAt": "2026-07-26T17:46:41.939Z",
+      "subOkAt": "2026-07-29T20:24:12.593Z",
       "domainFailAt": "2026-07-26T17:38:12.027Z"
     },
     "uhuruforall.com": {
@@ -339,7 +339,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
       "domainOkAt": "2026-07-29T12:47:10.074Z",
-      "subFailAt": "2026-07-29T20:22:54.689Z",
+      "subFailAt": "2026-07-29T20:28:10.471Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
         "cpanel.lansor.co.uk",
@@ -353,7 +353,7 @@
         "www.itdisposal.lansor.co.uk",
         "www.lansor.co.uk"
       ],
-      "subOkAt": "2026-07-26T17:49:49.019Z",
+      "subOkAt": "2026-07-29T20:29:11.281Z",
       "domainFailAt": "2026-07-26T17:38:12.031Z"
     },
     "impactcapitalmfi.com": {

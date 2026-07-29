@@ -1060,5 +1060,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-07-29T20:10:06.241Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-29T20:33:24.421Z",
+    "error": "No response within 45s"
   }
 ]
