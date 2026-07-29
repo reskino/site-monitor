@@ -984,5 +984,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-07-29T13:35:56.726Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-29T13:50:38.939Z",
+    "error": "No response within 45s"
   }
 ]
