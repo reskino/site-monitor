@@ -104,7 +104,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
       "domainOkAt": "2026-07-29T12:47:09.312Z",
-      "subFailAt": "2026-07-29T17:58:07.671Z",
+      "subFailAt": "2026-07-29T18:58:29.304Z",
       "subdomains": [
         "amzendock.com",
         "cpanel.amzendock.com",
@@ -257,7 +257,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-07-29T12:47:10.067Z",
-      "subFailAt": "2026-07-29T17:57:24.503Z",
+      "subFailAt": "2026-07-29T18:58:29.304Z",
       "subdomains": [
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
@@ -339,7 +339,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
       "domainOkAt": "2026-07-29T12:47:10.074Z",
-      "subFailAt": "2026-07-29T17:58:07.676Z",
+      "subFailAt": "2026-07-29T18:58:29.307Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
         "cpanel.lansor.co.uk",
@@ -377,7 +377,7 @@
         "www.impactcapitalmfi.com",
         "www.test.impactcapitalmfi.com"
       ],
-      "subOkAt": "2026-07-26T18:10:16.409Z"
+      "subOkAt": "2026-07-29T18:58:07.553Z"
     }
   }
 }
