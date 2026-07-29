@@ -1096,6 +1096,14 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-29T21:10:55.001Z",
-    "error": "UND_ERR_SOCKET"
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-07-29T21:11:27.794Z",
+    "downMs": 32793
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-29T21:11:27.794Z"
   }
 ]
