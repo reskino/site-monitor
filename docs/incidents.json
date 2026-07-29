@@ -940,7 +940,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-29T13:23:56.594Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-29T14:33:42.690Z",
+    "downMs": 4186096
   },
   {
     "name": "uhuruforall.com",
@@ -1007,5 +1009,11 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-07-29T14:13:22.705Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-29T14:33:42.690Z"
   }
 ]
