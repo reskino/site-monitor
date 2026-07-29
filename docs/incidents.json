@@ -1036,13 +1036,29 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-29T16:46:32.104Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-29T17:58:07.676Z",
+    "downMs": 4295572
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-29T16:46:32.104Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-29T17:58:07.676Z",
+    "downMs": 4295572
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-29T17:58:07.676Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-29T17:58:07.676Z"
   }
 ]
