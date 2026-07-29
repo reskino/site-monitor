@@ -931,7 +931,9 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-07-29T13:11:48.376Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-07-29T14:13:22.705Z",
+    "downMs": 3694329
   },
   {
     "name": "effectivelifeministry.org",
@@ -999,5 +1001,11 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-29T13:53:21.727Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-07-29T14:13:22.705Z"
   }
 ]
