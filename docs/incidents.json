@@ -2108,6 +2108,14 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T17:04:51.953Z",
-    "error": "UND_ERR_SOCKET"
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-07-30T17:06:55.416Z",
+    "downMs": 123463
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T17:06:55.416Z"
   }
 ]
