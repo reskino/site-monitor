@@ -1902,10 +1902,31 @@
     "at": "2026-07-30T15:56:04.295Z"
   },
   {
-    "name": "airliv8hernetwork.com",
-    "url": "https://airliv8hernetwork.com",
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
     "type": "down",
-    "at": "2026-07-30T16:12:21.295Z",
-    "error": "Domain not found (DNS)"
+    "at": "2026-07-30T16:18:34.630Z",
+    "error": "HTTP 500"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-30T16:18:34.630Z",
+    "error": "Connection reset"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-30T16:18:34.630Z",
+    "error": "Connection reset"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-30T16:18:34.630Z",
+    "error": "Connection reset"
   }
 ]
