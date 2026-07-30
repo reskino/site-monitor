@@ -2250,6 +2250,14 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-30T19:51:59.379Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T19:54:28.525Z",
+    "downMs": 149146
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-30T19:54:28.525Z"
   }
 ]
