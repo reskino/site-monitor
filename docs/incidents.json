@@ -1718,5 +1718,12 @@
     "type": "down",
     "at": "2026-07-30T15:20:33.897Z",
     "error": "Connection reset"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-30T15:21:04.596Z",
+    "error": "Connection reset"
   }
 ]
