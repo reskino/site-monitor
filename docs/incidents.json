@@ -2131,7 +2131,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-30T17:13:51.373Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T19:16:00.281Z",
+    "downMs": 7328908
   },
   {
     "name": "IT Disposal",
@@ -2214,5 +2216,25 @@
     "url": "https://jassmattazz.com",
     "type": "up",
     "at": "2026-07-30T19:12:34.213Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-30T19:16:00.281Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-30T19:16:00.281Z",
+    "error": "UND_ERR_SOCKET"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-30T19:16:00.281Z",
+    "error": "No response within 45s"
   }
 ]
