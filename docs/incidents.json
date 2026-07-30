@@ -1502,5 +1502,19 @@
     "url": "https://jassmattazz.com",
     "type": "up",
     "at": "2026-07-30T10:11:16.017Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-30T10:17:00.313Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-30T10:17:00.313Z",
+    "error": "No response within 45s"
   }
 ]
