@@ -1366,7 +1366,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-30T08:44:09.583Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T09:40:14.827Z",
+    "downMs": 3365244
   },
   {
     "name": "uhuruforall.com",
@@ -1418,6 +1420,20 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-07-30T09:38:08.797Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-07-30T09:40:14.827Z",
+    "downMs": 126030
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-30T09:40:14.827Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-30T09:40:14.827Z"
   }
 ]
