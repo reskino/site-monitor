@@ -1793,7 +1793,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-30T15:31:18.524Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-07-30T15:39:21.631Z",
+    "downMs": 483107
   },
   {
     "name": "uhuruforall.com",
@@ -1801,5 +1803,11 @@
     "type": "down",
     "at": "2026-07-30T15:31:18.524Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-30T15:39:21.631Z"
   }
 ]
