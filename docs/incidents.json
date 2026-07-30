@@ -1171,7 +1171,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-30T07:31:08.322Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-30T08:10:15.427Z",
+    "downMs": 2347105
   },
   {
     "name": "gmwghana.com",
@@ -1205,7 +1207,9 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-30T07:31:08.322Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-30T08:10:15.427Z",
+    "downMs": 2347105
   },
   {
     "name": "jassmattazz.com",
@@ -1320,6 +1324,26 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-07-30T08:08:01.081Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-07-30T08:10:15.427Z",
+    "downMs": 134346
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-30T08:10:15.427Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-30T08:10:15.427Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-30T08:10:15.427Z"
   }
 ]
