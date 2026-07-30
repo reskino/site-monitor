@@ -2365,14 +2365,18 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-30T22:34:29.755Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T22:36:30.850Z",
+    "downMs": 121095
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-30T22:34:29.755Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T22:36:30.850Z",
+    "downMs": 121095
   },
   {
     "name": "jassmattazz.com",
@@ -2385,6 +2389,26 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T22:34:29.755Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T22:36:30.850Z",
+    "downMs": 121095
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-30T22:36:30.850Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-30T22:36:30.850Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T22:36:30.850Z"
   }
 ]
