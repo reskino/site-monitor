@@ -1870,5 +1870,12 @@
     "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-07-30T15:48:48.681Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-30T15:54:27.675Z",
+    "error": "HTTP 502"
   }
 ]
