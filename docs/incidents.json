@@ -2032,6 +2032,14 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-07-30T16:45:05.186Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-07-30T16:48:10.930Z",
+    "downMs": 185744
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-30T16:48:10.930Z"
   }
 ]
