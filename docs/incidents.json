@@ -1519,7 +1519,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T10:17:00.313Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T10:32:02.256Z",
+    "downMs": 901943
   },
   {
     "name": "uhuruforall.com",
@@ -1532,5 +1534,11 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-07-30T10:31:16.198Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T10:32:02.256Z"
   }
 ]
