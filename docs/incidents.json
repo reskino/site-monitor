@@ -1762,7 +1762,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T15:23:34.926Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-07-30T15:46:18.647Z",
+    "downMs": 1363721
   },
   {
     "name": "effectivelifeministry.org",
@@ -1832,5 +1834,18 @@
     "url": "https://jassmattazz.com",
     "type": "up",
     "at": "2026-07-30T15:43:18.581Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-30T15:46:18.647Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T15:46:18.647Z"
   }
 ]
