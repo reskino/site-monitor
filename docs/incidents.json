@@ -1787,5 +1787,19 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-30T15:28:18.451Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-30T15:31:18.524Z",
+    "error": "Connection reset"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-30T15:31:18.524Z",
+    "error": "No response within 45s"
   }
 ]
