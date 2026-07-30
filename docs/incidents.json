@@ -2169,12 +2169,27 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T18:57:26.953Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T19:03:11.995Z",
+    "downMs": 345042
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-07-30T18:57:26.953Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T19:03:11.995Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-30T19:03:11.995Z",
+    "error": "Connection reset"
   }
 ]
