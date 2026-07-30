@@ -1855,12 +1855,20 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-30T15:47:49.442Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-07-30T15:48:48.681Z",
+    "downMs": 59239
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-30T15:47:49.442Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-30T15:48:48.681Z"
   }
 ]
