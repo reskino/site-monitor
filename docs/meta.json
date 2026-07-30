@@ -74,12 +74,12 @@
       "domain": {
         "expiration": "2027-06-14T19:54:58Z",
         "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-        "daysLeft": 320,
+        "daysLeft": 319,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
-      "domainOkAt": "2026-07-29T12:47:09.235Z",
+      "domainOkAt": "2026-07-30T06:08:17.339Z",
       "subFailAt": "2026-07-28T13:22:30.627Z",
       "subdomains": [
         "aaandsghana.com",
