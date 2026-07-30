@@ -2002,13 +2002,29 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-07-30T16:42:49.944Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-07-30T16:44:40.601Z",
+    "downMs": 110657
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T16:43:05.276Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-07-30T16:44:40.601Z",
+    "downMs": 95325
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-30T16:44:40.601Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T16:44:40.601Z"
   }
 ]
