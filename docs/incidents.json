@@ -2259,5 +2259,12 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-07-30T19:54:28.525Z"
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "down",
+    "at": "2026-07-30T20:24:03.429Z",
+    "error": "Domain not found (DNS)"
   }
 ]
