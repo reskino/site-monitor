@@ -2275,5 +2275,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-07-30T20:40:18.201Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-30T21:07:28.955Z",
+    "error": "No response within 45s"
   }
 ]
