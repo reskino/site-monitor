@@ -1997,7 +1997,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T16:41:19.233Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T17:00:09.973Z",
+    "downMs": 1130740
   },
   {
     "name": "jassmattazz.com",
@@ -2055,6 +2057,20 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-07-30T16:57:07.307Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-07-30T17:00:09.973Z",
+    "downMs": 182666
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-30T17:00:09.973Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T17:00:09.973Z"
   }
 ]
