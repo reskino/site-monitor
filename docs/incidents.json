@@ -1906,7 +1906,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-30T16:18:34.630Z",
-    "error": "HTTP 500"
+    "error": "HTTP 500",
+    "resolvedAt": "2026-07-30T16:35:11.004Z",
+    "downMs": 996374
   },
   {
     "name": "uhuruforall.com",
@@ -1929,7 +1931,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T16:18:34.630Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-07-30T16:35:11.004Z",
+    "downMs": 996374
   },
   {
     "name": "jassmattazz.com",
@@ -1966,5 +1970,17 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-30T16:32:16.841Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-30T16:35:11.004Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T16:35:11.004Z"
   }
 ]
