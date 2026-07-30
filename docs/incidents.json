@@ -1876,13 +1876,29 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-30T15:54:27.675Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-07-30T15:56:04.295Z",
+    "downMs": 96620
   },
   {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-07-30T15:55:04.671Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-07-30T15:56:04.295Z",
+    "downMs": 59624
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-30T15:56:04.295Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-30T15:56:04.295Z"
   }
 ]
