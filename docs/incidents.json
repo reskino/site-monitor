@@ -1397,5 +1397,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-07-30T09:19:15.894Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-30T09:37:16.767Z",
+    "error": "Connection reset"
   }
 ]
