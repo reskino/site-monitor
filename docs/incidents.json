@@ -1996,5 +1996,12 @@
     "type": "down",
     "at": "2026-07-30T16:41:19.233Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-30T16:42:49.944Z",
+    "error": "Connection reset"
   }
 ]
