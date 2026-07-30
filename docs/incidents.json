@@ -2003,5 +2003,12 @@
     "type": "down",
     "at": "2026-07-30T16:42:49.944Z",
     "error": "Connection reset"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-30T16:43:05.276Z",
+    "error": "Connection reset"
   }
 ]
