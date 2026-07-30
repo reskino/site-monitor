@@ -2132,5 +2132,12 @@
     "type": "down",
     "at": "2026-07-30T17:13:51.373Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-30T17:21:12.455Z",
+    "error": "UND_ERR_SOCKET"
   }
 ]
