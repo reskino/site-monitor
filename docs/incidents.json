@@ -1645,5 +1645,12 @@
     "url": "https://jassmattazz.com",
     "type": "up",
     "at": "2026-07-30T12:11:46.064Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-30T12:34:17.115Z",
+    "error": "No response within 45s"
   }
 ]
