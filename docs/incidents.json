@@ -2230,14 +2230,18 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T19:16:00.281Z",
-    "error": "UND_ERR_SOCKET"
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-07-30T20:40:18.201Z",
+    "downMs": 5057920
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T19:16:00.281Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T20:40:18.201Z",
+    "downMs": 5057920
   },
   {
     "name": "uhuruforall.com",
@@ -2259,5 +2263,17 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-07-30T19:54:28.525Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T20:40:18.201Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T20:40:18.201Z"
   }
 ]
