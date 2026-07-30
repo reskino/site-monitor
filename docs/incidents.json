@@ -1239,7 +1239,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T07:31:08.322Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-30T08:07:15.356Z",
+    "downMs": 2167034
   },
   {
     "name": "skinopro.com",
@@ -1306,5 +1308,11 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-30T07:40:14.792Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T08:07:15.356Z"
   }
 ]
