@@ -1928,5 +1928,12 @@
     "type": "down",
     "at": "2026-07-30T16:18:34.630Z",
     "error": "Connection reset"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-30T16:24:19.061Z",
+    "error": "Connection reset"
   }
 ]
