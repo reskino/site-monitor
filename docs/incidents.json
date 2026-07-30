@@ -1510,7 +1510,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-30T10:17:00.313Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T10:31:16.198Z",
+    "downMs": 855885
   },
   {
     "name": "IT Disposal",
@@ -1524,5 +1526,11 @@
     "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-07-30T10:28:16.128Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-30T10:31:16.198Z"
   }
 ]
