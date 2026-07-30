@@ -1809,5 +1809,12 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-07-30T15:39:21.631Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-30T15:40:06.694Z",
+    "error": "HTTP 502"
   }
 ]
