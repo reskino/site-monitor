@@ -2491,12 +2491,5 @@
     "type": "down",
     "at": "2026-07-30T23:39:30.113Z",
     "error": "No response within 45s"
-  },
-  {
-    "name": "airliv8hernetwork.com",
-    "url": "https://airliv8hernetwork.com",
-    "type": "down",
-    "at": "2026-07-30T23:44:58.048Z",
-    "error": "Domain not found (DNS)"
   }
 ]
