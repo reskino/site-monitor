@@ -1403,6 +1403,21 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-30T09:37:16.767Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-07-30T09:38:08.797Z",
+    "downMs": 52030
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-30T09:38:08.797Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-30T09:38:08.797Z",
+    "error": "HTTP 502"
   }
 ]
