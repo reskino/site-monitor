@@ -2026,5 +2026,12 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-30T16:44:40.601Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-30T16:45:05.186Z",
+    "error": "HTTP 502"
   }
 ]
