@@ -1221,7 +1221,9 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T07:31:08.322Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-30T07:40:14.792Z",
+    "downMs": 546470
   },
   {
     "name": "impactcapitalmfi.com",
@@ -1298,5 +1300,11 @@
     "url": "https://impactcapitalmfi.com",
     "type": "up",
     "at": "2026-07-30T07:37:16.862Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T07:40:14.792Z"
   }
 ]
