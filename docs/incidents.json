@@ -1723,7 +1723,9 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-30T15:20:33.897Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-07-30T15:28:18.451Z",
+    "downMs": 464554
   },
   {
     "name": "IT Disposal",
@@ -1779,5 +1781,11 @@
     "url": "https://jassmattazz.com",
     "type": "up",
     "at": "2026-07-30T15:25:14.548Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-30T15:28:18.451Z"
   }
 ]
