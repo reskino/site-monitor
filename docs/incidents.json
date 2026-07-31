@@ -2561,7 +2561,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-31T00:27:08.741Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-31T00:57:31.456Z",
+    "downMs": 1822715
   },
   {
     "name": "airliv8hernetwork.com",
@@ -2581,5 +2583,11 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-31T00:33:31.032Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-31T00:57:31.456Z"
   }
 ]
