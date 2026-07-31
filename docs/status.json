@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T19:53:03.421Z",
+  "generatedAt": "2026-07-31T20:04:03.261Z",
   "dashboardUrl": "https://reskino.github.io/site-monitor/",
   "results": [
     {
@@ -8,7 +8,7 @@
       "host": "skinopro.com",
       "up": true,
       "status": 200,
-      "ms": 707,
+      "ms": 698,
       "slow": false,
       "error": null,
       "finalUrl": "https://skinopro.com",
@@ -24,7 +24,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:57.504Z",
+      "checkedAt": "2026-07-31T20:03:57.314Z",
       "domain": {
         "expiration": "2027-02-13T08:16:33Z",
         "registrar": "Global Domain Group LLC",
@@ -78,7 +78,7 @@
       "host": "ainaghventures.com",
       "up": true,
       "status": 200,
-      "ms": 785,
+      "ms": 779,
       "slow": false,
       "error": null,
       "finalUrl": "https://ainaghventures.com",
@@ -94,7 +94,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:58.776Z",
+      "checkedAt": "2026-07-31T20:03:58.614Z",
       "domain": {
         "expiration": "2027-06-13T19:29:21Z",
         "registrar": "Global Domain Group LLC",
@@ -112,7 +112,7 @@
       "host": "aaandsghana.com",
       "up": true,
       "status": 200,
-      "ms": 783,
+      "ms": 788,
       "slow": false,
       "error": null,
       "finalUrl": "https://aaandsghana.com",
@@ -128,7 +128,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:58.209Z",
+      "checkedAt": "2026-07-31T20:03:58.046Z",
       "domain": {
         "expiration": "2027-06-14T19:54:58Z",
         "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -153,7 +153,7 @@
       "host": "amzendock.com",
       "up": true,
       "status": 200,
-      "ms": 771,
+      "ms": 761,
       "slow": false,
       "error": null,
       "finalUrl": "https://amzendock.com",
@@ -169,7 +169,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:58.203Z",
+      "checkedAt": "2026-07-31T20:03:58.021Z",
       "domain": {
         "expiration": "2027-05-06T13:21:53Z",
         "registrar": "Global Domain Group LLC",
@@ -210,7 +210,7 @@
       "ssl": {
         "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-07-31T19:53:02.498Z",
+      "checkedAt": "2026-07-31T20:04:02.310Z",
       "domain": {
         "expiration": "2026-06-20T11:34:59Z",
         "registrar": "Global Domain Group LLC",
@@ -228,7 +228,7 @@
       "host": "effectivelifeministry.org",
       "up": true,
       "status": 200,
-      "ms": 793,
+      "ms": 779,
       "slow": false,
       "error": null,
       "finalUrl": "https://effectivelifeministry.org",
@@ -240,11 +240,11 @@
       "ssl": {
         "issuer": "Let's Encrypt",
         "validTo": "2026-09-15T20:00:05.000Z",
-        "daysLeft": 46,
+        "daysLeft": 45,
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:58.618Z",
+      "checkedAt": "2026-07-31T20:03:58.441Z",
       "domain": {
         "expiration": "2027-01-04T18:52:15.006Z",
         "registrar": "Global Domain Group LLC",
@@ -271,7 +271,7 @@
       "host": "gmwghana.com",
       "up": true,
       "status": 200,
-      "ms": 1528,
+      "ms": 1377,
       "slow": false,
       "error": null,
       "finalUrl": "https://gmwghana.com",
@@ -287,7 +287,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:59.167Z",
+      "checkedAt": "2026-07-31T20:03:58.896Z",
       "domain": {
         "expiration": "2026-09-06T13:30:20Z",
         "registrar": "Global Domain Group LLC",
@@ -312,7 +312,7 @@
       "host": "opportunitytoexcel.com",
       "up": true,
       "status": 200,
-      "ms": 788,
+      "ms": 778,
       "slow": false,
       "error": null,
       "finalUrl": "https://opportunitytoexcel.com",
@@ -328,7 +328,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:58.964Z",
+      "checkedAt": "2026-07-31T20:03:58.836Z",
       "domain": {
         "expiration": "2027-02-08T12:25:33Z",
         "registrar": "Global Domain Group LLC",
@@ -367,7 +367,7 @@
       "host": "nestechnology.com",
       "up": false,
       "status": 0,
-      "ms": 133,
+      "ms": 138,
       "slow": false,
       "error": "Redirects to edu.nestechnology.com which fails: Domain not found (DNS)",
       "finalUrl": "https://edu.nestechnology.com/",
@@ -389,7 +389,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:53:03.421Z",
+      "checkedAt": "2026-07-31T20:04:03.261Z",
       "domain": {
         "expiration": "2027-07-07T22:20:27Z",
         "registrar": "HOSTINGER operations, UAB",
@@ -410,7 +410,7 @@
       "host": "amorefoundation.org.uk",
       "up": true,
       "status": 200,
-      "ms": 1176,
+      "ms": 1430,
       "slow": false,
       "error": null,
       "finalUrl": "https://amorefoundation.org.uk",
@@ -426,7 +426,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:58.031Z",
+      "checkedAt": "2026-07-31T20:03:58.155Z",
       "domain": {
         "expiration": "2027-02-17T22:02:57Z",
         "registrar": "Realtime Register BV t/a Axidomains",
@@ -445,7 +445,7 @@
       "host": "uhuruforall.com",
       "up": true,
       "status": 200,
-      "ms": 795,
+      "ms": 762,
       "slow": false,
       "error": null,
       "finalUrl": "https://uhuruforall.com",
@@ -457,11 +457,11 @@
       "ssl": {
         "issuer": "Let's Encrypt",
         "validTo": "2026-08-30T19:58:47.000Z",
-        "daysLeft": 30,
+        "daysLeft": 29,
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:58.635Z",
+      "checkedAt": "2026-07-31T20:03:58.430Z",
       "domain": {
         "expiration": "2027-02-07T02:00:22Z",
         "registrar": "Domain.com - Network Solutions, LLC",
@@ -497,7 +497,7 @@
       "host": "jassmattazz.com",
       "up": true,
       "status": 200,
-      "ms": 1802,
+      "ms": 1734,
       "slow": false,
       "error": null,
       "finalUrl": "https://jassmattazz.com",
@@ -513,7 +513,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:59.973Z",
+      "checkedAt": "2026-07-31T20:03:59.770Z",
       "domain": {
         "expiration": "2027-05-16T10:49:39Z",
         "registrar": "Global Domain Group LLC",
@@ -543,7 +543,7 @@
       "host": "lansor.co.uk",
       "up": true,
       "status": 200,
-      "ms": 771,
+      "ms": 774,
       "slow": false,
       "error": null,
       "finalUrl": "https://lansor.co.uk",
@@ -559,7 +559,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:58.961Z",
+      "checkedAt": "2026-07-31T20:03:58.820Z",
       "domain": {
         "expiration": "2027-01-16T20:41:15Z",
         "registrar": "Global Domain Group LLC",
@@ -587,7 +587,7 @@
       "host": "impactcapitalmfi.com",
       "up": true,
       "status": 200,
-      "ms": 2104,
+      "ms": 1859,
       "slow": false,
       "error": null,
       "finalUrl": "https://impactcapitalmfi.com",
@@ -603,7 +603,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:53:00.121Z",
+      "checkedAt": "2026-07-31T20:03:59.687Z",
       "domain": {
         "expiration": "2031-02-03T16:45:16Z",
         "registrar": "GoDaddy.com, LLC",
@@ -631,7 +631,7 @@
       "host": "itdisposal.lansor.co.uk",
       "up": true,
       "status": 200,
-      "ms": 761,
+      "ms": 784,
       "slow": false,
       "error": null,
       "finalUrl": "https://itdisposal.lansor.co.uk",
@@ -647,7 +647,7 @@
         "valid": true,
         "warn": false
       },
-      "checkedAt": "2026-07-31T19:52:58.189Z",
+      "checkedAt": "2026-07-31T20:03:58.047Z",
       "domain": {
         "expiration": "2027-01-16T20:41:15Z",
         "registrar": "Global Domain Group LLC",
