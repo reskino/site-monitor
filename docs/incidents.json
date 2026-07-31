@@ -2696,7 +2696,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-31T12:59:51.338Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-31T13:20:50.645Z",
+    "downMs": 1259307
   },
   {
     "name": "airliv8hernetwork.com",
@@ -2716,5 +2718,11 @@
     "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-07-31T13:17:50.608Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-31T13:20:50.645Z"
   }
 ]
