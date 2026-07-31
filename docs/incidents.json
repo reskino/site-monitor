@@ -2852,5 +2852,12 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-31T15:10:57.230Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-31T15:53:15.011Z",
+    "error": "HTTP 503"
   }
 ]
