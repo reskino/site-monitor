@@ -2858,7 +2858,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-07-31T15:53:15.011Z",
-    "error": "HTTP 503"
+    "error": "HTTP 503",
+    "resolvedAt": "2026-07-31T16:07:51.758Z",
+    "downMs": 876747
   },
   {
     "name": "uhuruforall.com",
@@ -2888,5 +2890,11 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-31T16:04:51.744Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-31T16:07:51.758Z"
   }
 ]
