@@ -2664,12 +2664,20 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-31T03:32:47.879Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-07-31T03:58:32.573Z",
+    "downMs": 1544694
   },
   {
     "name": "airliv8hernetwork.com",
     "url": "https://airliv8hernetwork.com",
     "type": "up",
     "at": "2026-07-31T03:40:32.338Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-31T03:58:32.573Z"
   }
 ]
