@@ -2507,7 +2507,9 @@
     "url": "https://airliv8hernetwork.com",
     "type": "down",
     "at": "2026-07-31T00:09:31.085Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-31T00:30:31.159Z",
+    "downMs": 1260074
   },
   {
     "name": "effectivelifeministry.org",
@@ -2558,5 +2560,11 @@
     "type": "down",
     "at": "2026-07-31T00:27:08.741Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "up",
+    "at": "2026-07-31T00:30:31.159Z"
   }
 ]
