@@ -2859,5 +2859,26 @@
     "type": "down",
     "at": "2026-07-31T15:53:15.011Z",
     "error": "HTTP 503"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-07-31T15:55:51.651Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-31T15:55:51.651Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-31T15:55:51.651Z",
+    "error": "No response within 45s"
   }
 ]
