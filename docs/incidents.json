@@ -2514,5 +2514,19 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-07-31T00:12:31.691Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-31T00:24:31.452Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-31T00:24:31.452Z",
+    "error": "No response within 45s"
   }
 ]
