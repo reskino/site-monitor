@@ -2479,7 +2479,9 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-30T23:39:30.113Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-31T13:17:50.608Z",
+    "downMs": 49100495
   },
   {
     "name": "jassmattazz.com",
@@ -2708,5 +2710,11 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-07-31T13:14:50.645Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-31T13:17:50.608Z"
   }
 ]
