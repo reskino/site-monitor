@@ -2624,6 +2624,14 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-07-31T02:12:32.667Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-07-31T02:15:32.250Z",
+    "downMs": 179583
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-31T02:15:32.250Z"
   }
 ]
