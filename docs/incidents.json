@@ -2837,5 +2837,12 @@
     "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-07-31T15:05:54.422Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-31T15:08:37.129Z",
+    "error": "UND_ERR_SOCKET"
   }
 ]
