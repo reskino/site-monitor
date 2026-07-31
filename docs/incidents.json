@@ -2479,7 +2479,9 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-30T23:39:30.113Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-31T04:43:35.340Z",
+    "downMs": 18245227
   },
   {
     "name": "jassmattazz.com",
@@ -2685,6 +2687,26 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-31T04:01:32.453Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "down",
+    "at": "2026-07-31T04:43:35.340Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-31T04:43:35.340Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-31T04:43:35.340Z",
     "error": "No response within 45s"
   }
 ]
