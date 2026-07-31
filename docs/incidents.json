@@ -2576,7 +2576,9 @@
     "url": "https://airliv8hernetwork.com",
     "type": "down",
     "at": "2026-07-31T00:33:31.032Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-07-31T03:40:32.338Z",
+    "downMs": 11221306
   },
   {
     "name": "lansor.co.uk",
@@ -2663,5 +2665,11 @@
     "type": "down",
     "at": "2026-07-31T03:32:47.879Z",
     "error": "Connection reset"
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "up",
+    "at": "2026-07-31T03:40:32.338Z"
   }
 ]
