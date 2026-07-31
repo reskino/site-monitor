@@ -2769,5 +2769,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-07-31T14:27:44.511Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-31T14:28:37.385Z",
+    "error": "HTTP 502"
   }
 ]
