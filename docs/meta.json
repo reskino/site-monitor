@@ -4,12 +4,12 @@
       "domain": {
         "expiration": "2027-02-13T08:16:33Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 197,
+        "daysLeft": 196,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.632Z",
       "subCheckedAt": "2026-07-23T10:48:59.216Z",
-      "domainOkAt": "2026-07-30T19:40:29.198Z",
+      "domainOkAt": "2026-07-31T12:13:32.298Z",
       "subFailAt": "2026-07-29T20:20:55.296Z",
       "subdomains": [
         "aaands.skinopro.com",
