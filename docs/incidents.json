@@ -2786,7 +2786,9 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-31T14:31:51.092Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-31T15:05:54.422Z",
+    "downMs": 2043330
   },
   {
     "name": "jassmattazz.com",
@@ -2829,5 +2831,11 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-07-31T14:58:51.266Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-31T15:05:54.422Z"
   }
 ]
