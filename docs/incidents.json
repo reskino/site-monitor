@@ -2552,7 +2552,9 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-07-31T00:27:08.741Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-31T00:33:31.032Z",
+    "downMs": 382291
   },
   {
     "name": "IT Disposal",
@@ -2566,5 +2568,18 @@
     "url": "https://airliv8hernetwork.com",
     "type": "up",
     "at": "2026-07-31T00:30:31.159Z"
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "down",
+    "at": "2026-07-31T00:33:31.032Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-31T00:33:31.032Z"
   }
 ]
