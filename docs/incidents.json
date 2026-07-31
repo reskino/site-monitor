@@ -2883,7 +2883,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-07-31T15:55:51.651Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-31T16:13:51.825Z",
+    "downMs": 1080174
   },
   {
     "name": "lansor.co.uk",
@@ -2896,5 +2898,11 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-07-31T16:07:51.758Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-31T16:13:51.825Z"
   }
 ]
