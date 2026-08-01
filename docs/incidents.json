@@ -3122,5 +3122,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-08-01T06:06:32.766Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-08-01T15:20:55.519Z",
+    "error": "Too many redirects"
   }
 ]
