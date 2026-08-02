@@ -3137,5 +3137,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-08-01T18:12:16.918Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-08-02T11:39:19.063Z",
+    "error": "Too many redirects"
   }
 ]
