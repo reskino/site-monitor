@@ -175,7 +175,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-08-02T12:42:46.205Z",
-      "subFailAt": "2026-08-02T15:21:36.951Z",
+      "subFailAt": "2026-08-02T16:27:14.465Z",
       "subdomains": [
         "cpanel.gmwghana.com",
         "cpcalendars.gmwghana.com",
@@ -237,7 +237,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
       "domainOkAt": "2026-08-02T12:42:46.466Z",
-      "subFailAt": "2026-08-02T15:20:52.387Z",
+      "subFailAt": "2026-08-02T16:27:13.965Z",
       "subdomains": [
         "edu.nestechnology.com",
         "nestechnology.com",
@@ -257,7 +257,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-08-02T12:42:46.504Z",
-      "subFailAt": "2026-08-02T15:21:36.952Z",
+      "subFailAt": "2026-08-02T16:27:13.462Z",
       "subdomains": [
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
@@ -339,7 +339,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
       "domainOkAt": "2026-08-02T12:42:46.968Z",
-      "subFailAt": "2026-08-02T15:21:36.953Z",
+      "subFailAt": "2026-08-02T16:27:14.964Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
         "cpanel.lansor.co.uk",
@@ -377,7 +377,7 @@
         "www.impactcapitalmfi.com",
         "www.test.impactcapitalmfi.com"
       ],
-      "subOkAt": "2026-07-29T20:11:28.600Z",
+      "subOkAt": "2026-08-02T16:27:38.465Z",
       "subFailAt": "2026-08-02T15:21:36.953Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     }
