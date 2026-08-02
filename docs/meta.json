@@ -50,7 +50,7 @@
         "www.test.skinopro.com",
         "www.try.skinopro.com"
       ],
-      "subOkAt": "2026-07-29T20:21:43.213Z",
+      "subOkAt": "2026-08-02T14:15:00.100Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "ainaghventures.com": {
@@ -175,7 +175,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-08-02T12:42:46.205Z",
-      "subFailAt": "2026-08-02T12:44:07.793Z",
+      "subFailAt": "2026-08-02T14:15:26.726Z",
       "subdomains": [
         "cpanel.gmwghana.com",
         "cpcalendars.gmwghana.com",
@@ -237,7 +237,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
       "domainOkAt": "2026-08-02T12:42:46.466Z",
-      "subFailAt": "2026-08-02T12:44:51.147Z",
+      "subFailAt": "2026-08-02T14:15:26.727Z",
       "subdomains": [
         "edu.nestechnology.com",
         "nestechnology.com",
@@ -257,7 +257,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-08-02T12:42:46.504Z",
-      "subFailAt": "2026-08-02T12:44:06.702Z",
+      "subFailAt": "2026-08-02T14:15:26.728Z",
       "subdomains": [
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
@@ -326,7 +326,7 @@
         "www.otef.jassmattazz.com",
         "www.uhuru.jassmattazz.com"
       ],
-      "subOkAt": "2026-07-29T20:11:32.769Z",
+      "subOkAt": "2026-08-02T14:14:57.189Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "lansor.co.uk": {
@@ -339,7 +339,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
       "domainOkAt": "2026-08-02T12:42:46.968Z",
-      "subFailAt": "2026-08-02T12:44:35.821Z",
+      "subFailAt": "2026-08-02T14:14:56.141Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
         "cpanel.lansor.co.uk",
@@ -378,7 +378,7 @@
         "www.test.impactcapitalmfi.com"
       ],
       "subOkAt": "2026-07-29T20:11:28.600Z",
-      "subFailAt": "2026-08-02T12:44:31.113Z",
+      "subFailAt": "2026-08-02T14:14:51.574Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     }
   }
