@@ -1,11 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-07-23T11:58:10.871Z"
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "down",
@@ -3746,5 +3740,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-08-04T00:16:08.942Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-08-04T09:08:23.869Z",
+    "error": "Too many redirects"
   }
 ]
