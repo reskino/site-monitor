@@ -10,7 +10,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.632Z",
       "subCheckedAt": "2026-07-23T10:48:59.216Z",
       "domainOkAt": "2026-08-05T07:03:46.810Z",
-      "subFailAt": "2026-08-05T17:33:13.796Z",
+      "subFailAt": "2026-08-05T17:33:29.292Z",
       "subdomains": [
         "aaands.skinopro.com",
         "blogz.skinopro.com",
@@ -50,7 +50,7 @@
         "www.test.skinopro.com",
         "www.try.skinopro.com"
       ],
-      "subOkAt": "2026-08-02T17:30:21.168Z",
+      "subOkAt": "2026-08-05T17:35:10.702Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "ainaghventures.com": {
@@ -175,7 +175,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-08-05T07:03:46.718Z",
-      "subFailAt": "2026-08-05T17:33:13.796Z",
+      "subFailAt": "2026-08-05T17:33:29.261Z",
       "subdomains": [
         "cpanel.gmwghana.com",
         "cpcalendars.gmwghana.com",
@@ -186,7 +186,7 @@
         "webmail.gmwghana.com",
         "www.gmwghana.com"
       ],
-      "subOkAt": "2026-08-02T17:30:26.280Z",
+      "subOkAt": "2026-08-05T17:35:10.323Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "opportunitytoexcel.com": {
