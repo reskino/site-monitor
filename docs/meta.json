@@ -4,12 +4,12 @@
       "domain": {
         "expiration": "2027-02-13T08:16:33Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 192,
+        "daysLeft": 191,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.632Z",
       "subCheckedAt": "2026-07-23T10:48:59.216Z",
-      "domainOkAt": "2026-08-05T07:03:46.810Z",
+      "domainOkAt": "2026-08-05T19:04:30.528Z",
       "subFailAt": "2026-08-05T17:33:29.292Z",
       "subdomains": [
         "aaands.skinopro.com",
@@ -62,7 +62,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
-      "domainOkAt": "2026-08-05T07:03:46.797Z",
+      "domainOkAt": "2026-08-05T19:04:30.529Z",
       "subFailAt": "2026-08-05T13:02:27.429Z",
       "subdomains": [
         "ainaghventures.com"
@@ -79,7 +79,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
-      "domainOkAt": "2026-08-05T07:03:46.740Z",
+      "domainOkAt": "2026-08-05T19:04:30.526Z",
       "subFailAt": "2026-08-03T13:42:44.407Z",
       "subdomains": [
         "aaandsghana.com",
@@ -98,12 +98,12 @@
       "domain": {
         "expiration": "2027-05-06T13:21:53Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 274,
+        "daysLeft": 273,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
-      "domainOkAt": "2026-08-05T07:03:46.749Z",
+      "domainOkAt": "2026-08-05T19:04:30.527Z",
       "subFailAt": "2026-07-29T20:19:55.269Z",
       "subdomains": [
         "amzendock.com",
@@ -126,12 +126,12 @@
       "domain": {
         "expiration": "2026-06-20T11:34:59Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": -46,
+        "daysLeft": -47,
         "warn": true
       },
       "domainCheckedAt": "2026-07-23T10:48:46.642Z",
       "subCheckedAt": "2026-07-23T10:49:04.215Z",
-      "domainOkAt": "2026-08-05T07:03:46.105Z",
+      "domainOkAt": "2026-08-05T19:04:30.523Z",
       "subFailAt": "2026-08-02T12:43:31.132Z",
       "subdomains": [
         "airliv8hernetwork.com"
@@ -143,12 +143,12 @@
       "domain": {
         "expiration": "2027-01-04T18:52:15.006Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 152,
+        "daysLeft": 151,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
-      "domainOkAt": "2026-08-05T07:03:47.278Z",
+      "domainOkAt": "2026-08-05T19:04:31.299Z",
       "subFailAt": "2026-08-03T13:45:28.677Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
@@ -169,12 +169,12 @@
       "domain": {
         "expiration": "2026-09-06T13:30:20Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 32,
+        "daysLeft": 31,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
-      "domainOkAt": "2026-08-05T07:03:46.718Z",
+      "domainOkAt": "2026-08-05T19:04:30.533Z",
       "subFailAt": "2026-08-05T17:33:29.261Z",
       "subdomains": [
         "cpanel.gmwghana.com",
@@ -193,12 +193,12 @@
       "domain": {
         "expiration": "2027-02-08T12:25:33Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 187,
+        "daysLeft": 186,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
-      "domainOkAt": "2026-08-05T07:03:46.785Z",
+      "domainOkAt": "2026-08-05T19:04:30.754Z",
       "subFailAt": "2026-08-05T12:59:11.792Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
@@ -236,7 +236,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-08-05T07:03:46.739Z",
+      "domainOkAt": "2026-08-05T19:04:30.530Z",
       "subFailAt": "2026-08-02T12:45:48.129Z",
       "subdomains": [
         "edu.nestechnology.com",
@@ -256,7 +256,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
-      "domainOkAt": "2026-08-05T07:03:46.752Z",
+      "domainOkAt": "2026-08-05T19:04:30.949Z",
       "subFailAt": "2026-08-05T17:31:29.524Z",
       "subdomains": [
         "amorefoundation.org.uk",
@@ -274,7 +274,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.021Z",
       "subCheckedAt": "2026-07-23T10:48:47.547Z",
-      "domainOkAt": "2026-08-05T07:03:46.770Z",
+      "domainOkAt": "2026-08-05T19:04:30.538Z",
       "subFailAt": "2026-08-05T12:43:52.969Z",
       "subdomains": [
         "abskitchen.uhuruforall.com",
@@ -304,12 +304,12 @@
       "domain": {
         "expiration": "2027-05-16T10:49:39Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 284,
+        "daysLeft": 283,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
-      "domainOkAt": "2026-08-05T07:03:46.818Z",
+      "domainOkAt": "2026-08-05T19:04:30.533Z",
       "subFailAt": "2026-08-05T17:31:29.524Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
@@ -338,7 +338,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-08-05T07:03:46.885Z",
+      "domainOkAt": "2026-08-05T19:04:30.934Z",
       "subFailAt": "2026-08-02T12:46:23.060Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
@@ -360,10 +360,10 @@
       "domain": {
         "expiration": "2031-02-03T16:45:16Z",
         "registrar": "GoDaddy.com, LLC",
-        "daysLeft": 1643,
+        "daysLeft": 1642,
         "warn": false
       },
-      "domainOkAt": "2026-08-05T07:03:46.108Z",
+      "domainOkAt": "2026-08-05T19:04:30.527Z",
       "subdomains": [
         "autodiscover.impactcapitalmfi.com",
         "cpanel.impactcapitalmfi.com",
