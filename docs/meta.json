@@ -63,11 +63,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-08-05T07:03:46.797Z",
-      "subFailAt": "2026-08-05T12:57:27.974Z",
+      "subFailAt": "2026-08-05T13:02:27.429Z",
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-08-02T12:44:45.719Z",
+      "subOkAt": "2026-08-05T13:03:55.853Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "aaandsghana.com": {
@@ -199,7 +199,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
       "domainOkAt": "2026-08-05T07:03:46.785Z",
-      "subFailAt": "2026-08-05T12:57:27.967Z",
+      "subFailAt": "2026-08-05T12:59:11.792Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
         "cpcalendars.opportunitytoexcel.com",
@@ -224,7 +224,7 @@
         "www.vc.opportunitytoexcel.com",
         "www.verify.opportunitytoexcel.com"
       ],
-      "subOkAt": "2026-08-02T12:43:07.142Z",
+      "subOkAt": "2026-08-05T13:00:22.781Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "nestechnology.com": {
