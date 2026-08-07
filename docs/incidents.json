@@ -2,15 +2,6 @@
   {
     "name": "airliv8hernetwork.com",
     "url": "https://airliv8hernetwork.com",
-    "type": "down",
-    "at": "2026-07-27T12:51:31.584Z",
-    "error": "UND_ERR_SOCKET",
-    "resolvedAt": "2026-07-27T12:52:43.806Z",
-    "downMs": 72222
-  },
-  {
-    "name": "airliv8hernetwork.com",
-    "url": "https://airliv8hernetwork.com",
     "type": "up",
     "at": "2026-07-27T12:52:43.806Z"
   },
@@ -3746,6 +3737,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-08-07T08:39:48.850Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-08-07T09:38:12.086Z",
+    "downMs": 3503236
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-07T09:38:12.086Z"
   }
 ]
