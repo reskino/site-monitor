@@ -2,6 +2,57 @@
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-27T12:08:34.828Z"
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "down",
+    "at": "2026-07-27T12:51:31.584Z",
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-07-27T12:52:43.806Z",
+    "downMs": 72222
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "up",
+    "at": "2026-07-27T12:52:43.806Z"
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "down",
+    "at": "2026-07-27T13:41:32.194Z",
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-07-27T13:54:09.995Z",
+    "downMs": 757801
+  },
+  {
+    "name": "airliv8hernetwork.com",
+    "url": "https://airliv8hernetwork.com",
+    "type": "up",
+    "at": "2026-07-27T13:54:09.995Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-27T20:48:08.872Z",
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-27T20:50:20.846Z",
+    "downMs": 131974
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-07-27T20:50:20.846Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-07-28T05:49:53.072Z",
     "error": "No response within 45s",
@@ -3695,57 +3746,5 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-08-07T07:44:53.409Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-07T08:39:48.850Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-08-07T09:38:12.086Z",
-    "downMs": 3503236
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-08-07T09:38:12.086Z"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-07T11:24:14.859Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-08-07T12:05:51.612Z",
-    "downMs": 2496753
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-07T11:24:14.859Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-08-07T12:05:51.612Z",
-    "downMs": 2496753
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-08-07T12:05:51.612Z",
-    "error": "UND_ERR_SOCKET"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-07T12:05:51.612Z"
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-07T12:05:51.612Z"
   }
 ]
