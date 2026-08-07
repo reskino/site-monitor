@@ -3736,15 +3736,15 @@
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
-    "at": "2026-08-07T05:12:25.084Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-08-07T06:16:22.434Z",
-    "downMs": 3837350
+    "at": "2026-08-07T07:42:36.576Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-08-07T07:44:53.409Z",
+    "downMs": 136833
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
-    "at": "2026-08-07T06:16:22.434Z"
+    "at": "2026-08-07T07:44:53.409Z"
   }
 ]
