@@ -2,15 +2,6 @@
   {
     "name": "airliv8hernetwork.com",
     "url": "https://airliv8hernetwork.com",
-    "type": "down",
-    "at": "2026-07-27T12:51:31.584Z",
-    "error": "UND_ERR_SOCKET",
-    "resolvedAt": "2026-07-27T12:52:43.806Z",
-    "downMs": 72222
-  },
-  {
-    "name": "airliv8hernetwork.com",
-    "url": "https://airliv8hernetwork.com",
     "type": "up",
     "at": "2026-07-27T12:52:43.806Z"
   },
@@ -3746,6 +3737,14 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-08-07T14:24:19.093Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-07T14:26:18.385Z",
+    "downMs": 119292
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-07T14:26:18.385Z"
   }
 ]
