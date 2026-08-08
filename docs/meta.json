@@ -63,11 +63,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-08-08T16:57:02.709Z",
-      "subFailAt": "2026-08-08T16:57:10.920Z",
+      "subFailAt": "2026-08-08T16:58:40.495Z",
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-08-05T13:03:55.853Z",
+      "subOkAt": "2026-08-08T17:00:13.299Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "aaandsghana.com": {
@@ -104,7 +104,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
       "domainOkAt": "2026-08-08T16:57:02.703Z",
-      "subFailAt": "2026-08-08T16:57:10.708Z",
+      "subFailAt": "2026-08-08T16:57:40.776Z",
       "subdomains": [
         "amzendock.com",
         "cpanel.amzendock.com",
@@ -119,7 +119,7 @@
         "www.new.amzendock.com",
         "www.uhuru.amzendock.com"
       ],
-      "subOkAt": "2026-08-05T12:43:53.579Z",
+      "subOkAt": "2026-08-08T16:58:42.003Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "airliv8hernetwork.com": {
@@ -132,11 +132,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.642Z",
       "subCheckedAt": "2026-07-23T10:49:04.215Z",
       "domainOkAt": "2026-08-08T16:57:02.732Z",
-      "subFailAt": "2026-08-08T16:57:10.804Z",
+      "subFailAt": "2026-08-08T16:57:41.238Z",
       "subdomains": [
         "airliv8hernetwork.com"
       ],
-      "subOkAt": "2026-08-05T12:45:06.857Z",
+      "subOkAt": "2026-08-08T16:58:42.161Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "effectivelifeministry.org": {
@@ -199,7 +199,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
       "domainOkAt": "2026-08-08T16:57:02.690Z",
-      "subFailAt": "2026-08-08T16:57:10.646Z",
+      "subFailAt": "2026-08-08T16:59:25.036Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
         "cpcalendars.opportunitytoexcel.com",
@@ -224,7 +224,7 @@
         "www.vc.opportunitytoexcel.com",
         "www.verify.opportunitytoexcel.com"
       ],
-      "subOkAt": "2026-08-05T13:00:22.781Z",
+      "subOkAt": "2026-08-08T17:00:12.272Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "nestechnology.com": {
@@ -333,12 +333,12 @@
       "domain": {
         "expiration": "2027-01-16T20:41:15Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 162,
+        "daysLeft": 161,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-08-07T19:43:08.522Z",
+      "domainOkAt": "2026-08-08T16:57:41.254Z",
       "subFailAt": "2026-08-02T12:46:23.060Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
@@ -360,10 +360,10 @@
       "domain": {
         "expiration": "2031-02-03T16:45:16Z",
         "registrar": "GoDaddy.com, LLC",
-        "daysLeft": 1640,
+        "daysLeft": 1639,
         "warn": false
       },
-      "domainOkAt": "2026-08-07T19:43:08.336Z",
+      "domainOkAt": "2026-08-08T16:57:41.004Z",
       "subdomains": [
         "autodiscover.impactcapitalmfi.com",
         "cpanel.impactcapitalmfi.com",
