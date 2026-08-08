@@ -62,7 +62,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
-      "domainOkAt": "2026-08-07T19:43:08.329Z",
+      "domainOkAt": "2026-08-08T09:08:46.982Z",
       "subFailAt": "2026-08-05T13:02:27.429Z",
       "subdomains": [
         "ainaghventures.com"
@@ -363,7 +363,7 @@
         "daysLeft": 1640,
         "warn": false
       },
-      "domainOkAt": "2026-08-07T19:43:08.336Z",
+      "domainOkAt": "2026-08-08T09:08:46.979Z",
       "subdomains": [
         "autodiscover.impactcapitalmfi.com",
         "cpanel.impactcapitalmfi.com",
