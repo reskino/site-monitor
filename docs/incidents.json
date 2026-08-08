@@ -3,36 +3,6 @@
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
-    "at": "2026-07-28T10:36:39.274Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-07-28T13:22:30.642Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-28T13:24:32.604Z",
-    "downMs": 121962
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-07-28T13:24:32.604Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-07-28T13:27:51.122Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-28T17:10:43.448Z",
-    "downMs": 13372326
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
     "at": "2026-07-28T17:10:43.448Z"
   },
   {
@@ -3716,7 +3686,9 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-08-08T06:03:42.608Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-08-08T07:56:04.710Z",
+    "downMs": 6742102
   },
   {
     "name": "uhuruforall.com",
@@ -3729,20 +3701,50 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-08-08T07:09:41.322Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-08T07:56:04.710Z",
+    "downMs": 2783388
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-08-08T07:09:41.322Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-08T07:56:04.710Z",
+    "downMs": 2783388
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-08-08T07:09:41.322Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-08T07:56:04.710Z",
+    "downMs": 2783388
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-08T07:56:04.710Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-08-08T07:56:04.710Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-08-08T07:56:04.710Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-08T07:56:04.710Z"
   }
 ]
