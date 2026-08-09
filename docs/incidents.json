@@ -1,11 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-07-28T08:06:22.815Z"
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
@@ -3743,6 +3737,14 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-08-09T12:13:52.420Z",
-    "error": "HTTP 508"
+    "error": "HTTP 508",
+    "resolvedAt": "2026-08-09T12:23:19.842Z",
+    "downMs": 567422
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-08-09T12:23:19.842Z"
   }
 ]
