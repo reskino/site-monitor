@@ -1,14 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-07-28T22:13:33.199Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-28T22:25:34.114Z",
-    "downMs": 720915
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3740,12 +3731,20 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-08-11T11:10:54.023Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-11T11:13:49.055Z",
+    "downMs": 175032
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-08-11T11:10:54.023Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-08-11T11:13:49.055Z"
   }
 ]
