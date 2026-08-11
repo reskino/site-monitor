@@ -3732,8 +3732,8 @@
     "type": "down",
     "at": "2026-08-11T11:10:54.023Z",
     "error": "No response within 45s",
-    "resolvedAt": "2026-08-11T11:13:49.055Z",
-    "downMs": 175032
+    "resolvedAt": "2026-08-11T11:13:49.534Z",
+    "downMs": 175511
   },
   {
     "name": "IT Disposal",
@@ -3745,6 +3745,6 @@
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
-    "at": "2026-08-11T11:13:49.055Z"
+    "at": "2026-08-11T11:13:49.534Z"
   }
 ]
