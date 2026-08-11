@@ -1,14 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-28T22:13:33.199Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-28T22:27:08.294Z",
-    "downMs": 815095
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
@@ -3743,6 +3734,14 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-08-11T12:47:03.367Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-11T14:06:20.230Z",
+    "downMs": 4756863
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-11T14:06:20.230Z"
   }
 ]
