@@ -65,11 +65,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-08-11T11:57:40.870Z",
-      "subFailAt": "2026-08-08T16:58:40.495Z",
+      "subFailAt": "2026-08-11T17:03:04.004Z",
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-08-08T17:00:13.299Z",
+      "subOkAt": "2026-08-11T17:04:05.317Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "aaandsghana.com": {
@@ -106,7 +106,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
       "domainOkAt": "2026-08-11T11:57:40.869Z",
-      "subFailAt": "2026-08-11T16:59:03.909Z",
+      "subFailAt": "2026-08-11T17:05:04.174Z",
       "subdomains": [
         "amzendock.com",
         "cpanel.amzendock.com",
@@ -121,7 +121,7 @@
         "www.new.amzendock.com",
         "www.uhuru.amzendock.com"
       ],
-      "subOkAt": "2026-08-08T16:58:42.003Z",
+      "subOkAt": "2026-08-11T17:06:26.770Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "airliv8hernetwork.com": {
@@ -134,11 +134,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.642Z",
       "subCheckedAt": "2026-07-23T10:49:04.215Z",
       "domainOkAt": "2026-08-11T11:57:40.878Z",
-      "subFailAt": "2026-08-11T16:59:04.412Z",
+      "subFailAt": "2026-08-11T17:05:04.666Z",
       "subdomains": [
         "airliv8hernetwork.com"
       ],
-      "subOkAt": "2026-08-08T16:58:42.161Z",
+      "subOkAt": "2026-08-11T17:06:22.314Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "effectivelifeministry.org": {
@@ -201,7 +201,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
       "domainOkAt": "2026-08-11T11:57:40.869Z",
-      "subFailAt": "2026-08-08T16:59:25.036Z",
+      "subFailAt": "2026-08-11T17:05:04.667Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
         "cpcalendars.opportunitytoexcel.com",
@@ -226,7 +226,7 @@
         "www.vc.opportunitytoexcel.com",
         "www.verify.opportunitytoexcel.com"
       ],
-      "subOkAt": "2026-08-08T17:00:12.272Z",
+      "subOkAt": "2026-08-11T17:06:28.848Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "nestechnology.com": {
@@ -277,7 +277,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.021Z",
       "subCheckedAt": "2026-07-23T10:48:47.547Z",
       "domainOkAt": "2026-08-11T11:57:41.185Z",
-      "subFailAt": "2026-08-11T16:59:03.922Z",
+      "subFailAt": "2026-08-11T17:05:04.174Z",
       "subdomains": [
         "abskitchen.uhuruforall.com",
         "abtest.uhuruforall.com",
@@ -299,7 +299,7 @@
         "www.test.uhuruforall.com",
         "www.uhuruforall.com"
       ],
-      "subOkAt": "2026-08-08T16:57:04.998Z",
+      "subOkAt": "2026-08-11T17:06:22.705Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "jassmattazz.com": {
