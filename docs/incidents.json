@@ -1,11 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "up",
-    "at": "2026-07-29T12:47:10.730Z"
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "up",
@@ -3737,5 +3731,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-08-12T06:24:10.773Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-08-12T07:59:43.288Z",
+    "error": "No response within 45s"
   }
 ]
