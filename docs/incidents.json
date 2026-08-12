@@ -1,11 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-07-29T12:47:10.730Z"
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "up",
@@ -3740,5 +3734,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-08-12T10:26:09.622Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-08-12T22:22:00.116Z",
+    "error": "Too many redirects"
   }
 ]
