@@ -233,12 +233,12 @@
       "domain": {
         "expiration": "2027-07-07T22:20:27Z",
         "registrar": "HOSTINGER operations, UAB",
-        "daysLeft": 330,
+        "daysLeft": 329,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-08-11T11:57:40.875Z",
+      "domainOkAt": "2026-08-12T03:17:26.047Z",
       "subFailAt": "2026-08-11T17:57:05.219Z",
       "subdomains": [
         "edu.nestechnology.com",
@@ -335,12 +335,12 @@
       "domain": {
         "expiration": "2027-01-16T20:41:15Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 158,
+        "daysLeft": 157,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-08-11T11:57:41.367Z",
+      "domainOkAt": "2026-08-12T03:17:33.113Z",
       "subFailAt": "2026-08-11T18:06:05.306Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
