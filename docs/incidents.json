@@ -1,11 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "up",
-    "at": "2026-07-29T12:47:10.730Z"
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "up",
@@ -3740,6 +3734,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-08-12T22:49:16.353Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-08-12T23:32:00.363Z",
+    "downMs": 2564010
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-12T23:32:00.363Z"
   }
 ]
