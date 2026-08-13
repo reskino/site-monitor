@@ -1,14 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-30T07:31:08.322Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-07-30T07:40:14.792Z",
-    "downMs": 546470
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "down",
@@ -3731,5 +3722,12 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-08-13T21:12:08.466Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-08-13T23:10:33.173Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
