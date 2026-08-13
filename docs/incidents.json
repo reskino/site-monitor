@@ -1,197 +1,5 @@
 [
   {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "up",
-    "at": "2026-07-29T12:47:10.730Z"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-07-29T12:49:57.033Z"
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-07-29T13:00:03.320Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-07-29T13:11:48.376Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-07-29T14:13:22.705Z",
-    "downMs": 3694329
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-07-29T13:23:56.594Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-29T14:33:42.690Z",
-    "downMs": 4186096
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-07-29T13:23:56.594Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-29T13:29:56.682Z",
-    "downMs": 360088
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-29T13:23:56.594Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-29T13:26:56.837Z",
-    "downMs": 180243
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-29T13:23:56.594Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-29T13:35:56.726Z",
-    "downMs": 720132
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-07-29T13:26:56.837Z"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-07-29T13:29:56.682Z"
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-07-29T13:35:56.726Z"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-29T13:50:38.939Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-29T13:53:21.727Z",
-    "downMs": 162788
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-07-29T13:53:21.727Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-07-29T14:13:22.705Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-07-29T14:33:42.690Z"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-29T15:09:59.043Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-29T15:11:12.594Z",
-    "downMs": 73551
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-07-29T15:11:12.594Z"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-29T20:06:50.635Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-29T20:10:06.241Z",
-    "downMs": 195606
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-29T20:06:50.635Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-29T20:10:06.241Z",
-    "downMs": 195606
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-07-29T20:10:06.241Z"
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-07-29T20:10:06.241Z"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-07-29T20:33:24.421Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-29T20:34:10.130Z",
-    "downMs": 45709
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-07-29T20:34:10.130Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-07-29T21:08:24.949Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-29T21:10:55.001Z",
-    "downMs": 150052
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-07-29T21:10:55.001Z"
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-29T21:10:55.001Z",
-    "error": "UND_ERR_SOCKET",
-    "resolvedAt": "2026-07-29T21:11:27.794Z",
-    "downMs": 32793
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
@@ -3743,5 +3551,200 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-08-12T23:32:00.363Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-13T00:03:21.834Z"
   }
 ]
