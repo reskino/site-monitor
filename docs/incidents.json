@@ -1,14 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-07-30T07:31:08.322Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-07-30T08:10:15.427Z",
-    "downMs": 2347105
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "down",
@@ -3734,5 +3725,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-08-13T20:17:20.017Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-08-13T21:10:35.112Z",
+    "error": "No response within 45s"
   }
 ]
