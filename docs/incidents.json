@@ -2,15 +2,6 @@
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-29T23:15:10.294Z",
-    "error": "UND_ERR_SOCKET",
-    "resolvedAt": "2026-07-29T23:15:24.962Z",
-    "downMs": 14668
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-07-29T23:15:24.962Z"
   },
@@ -3746,6 +3737,14 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-08-13T03:23:12.936Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-13T06:46:00.011Z",
+    "downMs": 12167075
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-13T06:46:00.011Z"
   }
 ]
