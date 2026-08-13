@@ -1,14 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-07-30T07:31:08.322Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-07-30T07:37:16.862Z",
-    "downMs": 368540
-  },
-  {
     "name": "airliv8hernetwork.com",
     "url": "https://airliv8hernetwork.com",
     "type": "down",
@@ -3743,5 +3734,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-08-13T13:29:34.599Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-08-13T16:41:41.352Z",
+    "error": "No response within 45s"
   }
 ]
