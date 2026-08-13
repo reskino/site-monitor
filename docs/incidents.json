@@ -1,14 +1,5 @@
 [
   {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-07-30T07:31:08.322Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-07-30T07:37:16.862Z",
-    "downMs": 368540
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
@@ -3728,6 +3719,14 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-08-13T23:10:33.173Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-08-13T23:13:04.108Z",
+    "downMs": 150935
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-08-13T23:13:04.108Z"
   }
 ]
