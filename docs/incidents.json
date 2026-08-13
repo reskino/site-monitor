@@ -1,14 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "down",
-    "at": "2026-07-30T07:31:08.322Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-07-30T07:37:16.862Z",
-    "downMs": 368540
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
@@ -3728,7 +3719,9 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-08-13T20:13:34.523Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-13T20:16:34.567Z",
+    "downMs": 180044
   },
   {
     "name": "IT Disposal",
@@ -3736,5 +3729,11 @@
     "type": "down",
     "at": "2026-08-13T20:13:34.523Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-13T20:16:34.567Z"
   }
 ]
