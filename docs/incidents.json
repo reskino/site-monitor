@@ -1,11 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "up",
-    "at": "2026-07-30T07:37:16.862Z"
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "up",
@@ -3728,5 +3722,12 @@
     "url": "https://opportunitytoexcel.com",
     "type": "up",
     "at": "2026-08-14T02:45:24.708Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-08-14T05:08:11.255Z",
+    "error": "Too many redirects"
   }
 ]
