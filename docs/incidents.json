@@ -1,11 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-07-30T07:37:16.862Z"
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "up",
@@ -3725,6 +3719,14 @@
     "url": "https://opportunitytoexcel.com",
     "type": "down",
     "at": "2026-08-14T02:44:24.960Z",
-    "error": "HTTP 503"
+    "error": "HTTP 503",
+    "resolvedAt": "2026-08-14T02:45:24.708Z",
+    "downMs": 59748
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-08-14T02:45:24.708Z"
   }
 ]
