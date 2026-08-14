@@ -259,12 +259,12 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-08-14T14:45:39.111Z",
-      "subFailAt": "2026-08-11T17:40:41.441Z",
+      "subFailAt": "2026-08-14T17:46:45.103Z",
       "subdomains": [
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
       ],
-      "subOkAt": "2026-08-11T17:41:42.514Z",
+      "subOkAt": "2026-08-14T17:47:39.157Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "uhuruforall.com": {
