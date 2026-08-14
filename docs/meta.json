@@ -4,12 +4,12 @@
       "domain": {
         "expiration": "2027-02-13T08:16:33Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 183,
+        "daysLeft": 182,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.632Z",
       "subCheckedAt": "2026-07-23T10:48:59.216Z",
-      "domainOkAt": "2026-08-13T22:50:22.196Z",
+      "domainOkAt": "2026-08-14T11:29:16.057Z",
       "subFailAt": "2026-08-11T17:57:33.786Z",
       "subdomains": [
         "aaands.skinopro.com",
@@ -64,7 +64,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
-      "domainOkAt": "2026-08-13T22:50:22.207Z",
+      "domainOkAt": "2026-08-14T11:29:16.246Z",
       "subFailAt": "2026-08-11T17:03:04.004Z",
       "subdomains": [
         "ainaghventures.com"
@@ -94,7 +94,7 @@
         "www.aaandsghana.com"
       ],
       "subOkAt": "2026-08-12T14:07:24.225Z",
-      "domainFailAt": "2026-08-01T06:04:38.787Z"
+      "domainFailAt": "2026-08-14T11:29:29.854Z"
     },
     "amzendock.com": {
       "domain": {
@@ -105,7 +105,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
-      "domainOkAt": "2026-08-13T22:50:22.198Z",
+      "domainOkAt": "2026-08-14T11:29:16.060Z",
       "subFailAt": "2026-08-11T17:05:04.174Z",
       "subdomains": [
         "amzendock.com",
@@ -133,7 +133,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.642Z",
       "subCheckedAt": "2026-07-23T10:49:04.215Z",
-      "domainOkAt": "2026-08-13T22:50:22.197Z",
+      "domainOkAt": "2026-08-14T11:29:16.003Z",
       "subFailAt": "2026-08-11T17:05:04.666Z",
       "subdomains": [
         "airliv8hernetwork.com"
@@ -150,7 +150,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
-      "domainOkAt": "2026-08-13T22:50:22.925Z",
+      "domainOkAt": "2026-08-14T11:29:16.720Z",
       "subFailAt": "2026-08-12T14:05:55.197Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
@@ -176,7 +176,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
-      "domainOkAt": "2026-08-13T22:50:22.202Z",
+      "domainOkAt": "2026-08-14T11:29:16.012Z",
       "subFailAt": "2026-08-11T18:24:04.882Z",
       "subdomains": [
         "cpanel.gmwghana.com",
@@ -200,7 +200,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
-      "domainOkAt": "2026-08-13T22:50:22.205Z",
+      "domainOkAt": "2026-08-14T11:29:15.986Z",
       "subFailAt": "2026-08-11T17:05:04.667Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
@@ -238,7 +238,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-08-13T22:50:22.204Z",
+      "domainOkAt": "2026-08-14T11:29:16.024Z",
       "subFailAt": "2026-08-11T17:57:05.219Z",
       "subdomains": [
         "edu.nestechnology.com",
@@ -258,7 +258,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
-      "domainOkAt": "2026-08-13T22:50:23.222Z",
+      "domainOkAt": "2026-08-14T11:29:16.589Z",
       "subFailAt": "2026-08-11T17:40:41.441Z",
       "subdomains": [
         "amorefoundation.org.uk",
@@ -271,12 +271,12 @@
       "domain": {
         "expiration": "2027-02-07T02:00:22Z",
         "registrar": "Domain.com - Network Solutions, LLC",
-        "daysLeft": 177,
+        "daysLeft": 176,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.021Z",
       "subCheckedAt": "2026-07-23T10:48:47.547Z",
-      "domainOkAt": "2026-08-13T22:50:23.194Z",
+      "domainOkAt": "2026-08-14T11:29:15.972Z",
       "subFailAt": "2026-08-11T17:05:04.174Z",
       "subdomains": [
         "abskitchen.uhuruforall.com",
@@ -329,7 +329,7 @@
         "www.uhuru.jassmattazz.com"
       ],
       "subOkAt": "2026-08-11T18:07:17.310Z",
-      "domainFailAt": "2026-08-01T06:04:38.788Z"
+      "domainFailAt": "2026-08-14T11:29:29.858Z"
     },
     "lansor.co.uk": {
       "domain": {
@@ -340,7 +340,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-08-13T22:50:23.377Z",
+      "domainOkAt": "2026-08-14T11:29:16.602Z",
       "subFailAt": "2026-08-11T18:06:05.306Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
@@ -381,7 +381,7 @@
       ],
       "subOkAt": "2026-08-11T18:25:10.588Z",
       "subFailAt": "2026-08-11T18:24:04.383Z",
-      "domainFailAt": "2026-08-08T16:57:02.332Z"
+      "domainFailAt": "2026-08-14T11:29:29.859Z"
     }
   }
 }
