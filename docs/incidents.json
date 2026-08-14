@@ -1,17 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-07-30T07:37:16.862Z"
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "up",
-    "at": "2026-07-30T07:37:16.862Z"
-  },
-  {
     "name": "airliv8hernetwork.com",
     "url": "https://airliv8hernetwork.com",
     "type": "up",
@@ -3728,6 +3716,21 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-08-14T05:08:11.255Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-08-14T06:25:45.959Z",
+    "downMs": 4654704
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-14T06:25:45.959Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-08-14T06:25:45.959Z",
+    "error": "No response within 45s"
   }
 ]
