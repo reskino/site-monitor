@@ -1,14 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-30T07:31:08.322Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-07-30T08:07:15.356Z",
-    "downMs": 2167034
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "up",
@@ -3728,5 +3719,12 @@
     "url": "https://jassmattazz.com",
     "type": "up",
     "at": "2026-08-13T23:13:04.108Z"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "down",
+    "at": "2026-08-14T02:44:24.960Z",
+    "error": "HTTP 503"
   }
 ]
