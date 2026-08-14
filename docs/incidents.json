@@ -1,17 +1,5 @@
 [
   {
-    "name": "airliv8hernetwork.com",
-    "url": "https://airliv8hernetwork.com",
-    "type": "up",
-    "at": "2026-07-30T07:37:16.862Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-07-30T07:37:16.862Z"
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "up",
@@ -3731,6 +3719,21 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-08-14T06:25:45.959Z",
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-14T07:57:45.439Z",
+    "downMs": 5519480
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-08-14T07:57:45.439Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-08-14T07:57:45.439Z",
     "error": "No response within 45s"
   }
 ]
