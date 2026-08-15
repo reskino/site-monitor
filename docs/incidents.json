@@ -1,11 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "up",
-    "at": "2026-07-30T07:37:16.862Z"
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "up",
@@ -3719,7 +3713,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-08-15T04:08:19.000Z",
-    "error": "UND_ERR_SOCKET"
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-08-15T04:18:56.403Z",
+    "downMs": 637403
   },
   {
     "name": "effectivelifeministry.org",
@@ -3738,5 +3734,11 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-08-15T04:16:50.937Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-15T04:18:56.403Z"
   }
 ]
