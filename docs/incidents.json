@@ -1,17 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-07-30T07:37:16.862Z"
-  },
-  {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "up",
-    "at": "2026-07-30T07:37:16.862Z"
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "up",
@@ -3709,28 +3697,44 @@
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
-    "at": "2026-08-15T04:08:17.155Z",
-    "error": "UND_ERR_SOCKET"
+    "at": "2026-08-15T04:08:19.000Z",
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-08-15T04:10:44.413Z",
+    "downMs": 145413
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
-    "at": "2026-08-15T04:08:17.155Z",
-    "error": "UND_ERR_SOCKET"
+    "at": "2026-08-15T04:08:19.000Z",
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-08-15T04:10:44.413Z",
+    "downMs": 145413
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
-    "at": "2026-08-15T04:08:17.155Z",
+    "at": "2026-08-15T04:08:19.000Z",
     "error": "UND_ERR_SOCKET"
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
-    "at": "2026-08-15T04:08:17.155Z",
+    "at": "2026-08-15T04:08:19.000Z",
     "error": "UND_ERR_SOCKET"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-08-15T04:10:44.413Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-08-15T04:10:44.413Z"
   }
 ]
