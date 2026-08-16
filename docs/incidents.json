@@ -2,12 +2,6 @@
   {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
-    "type": "up",
-    "at": "2026-07-30T08:10:15.427Z"
-  },
-  {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-07-30T08:14:46.138Z",
     "error": "HTTP 500",
@@ -3746,5 +3740,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-08-15T23:31:54.649Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-08-16T05:43:38.960Z",
+    "error": "Too many redirects"
   }
 ]
