@@ -1,5 +1,47 @@
 [
   {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-07-30T08:10:15.427Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-07-30T08:10:15.427Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-30T08:10:15.427Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-07-30T08:14:46.138Z",
+    "error": "HTTP 500",
+    "resolvedAt": "2026-07-30T08:18:16.961Z",
+    "downMs": 210823
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-07-30T08:18:16.961Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-30T08:44:09.583Z",
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T09:40:14.827Z",
+    "downMs": 3365244
+  },
+  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
@@ -3701,50 +3743,5 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-08-15T10:20:20.360Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-15T22:34:16.360Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-08-15T23:31:54.649Z",
-    "downMs": 3458289
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-08-15T23:31:54.649Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-16T05:43:38.960Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-08-16T06:02:29.547Z",
-    "downMs": 1130587
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-08-16T06:02:29.547Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-16T10:41:22.045Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-08-16T10:59:34.578Z",
-    "downMs": 1092533
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-08-16T10:59:34.578Z"
   }
 ]
