@@ -1,11 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-07-30T08:10:15.427Z"
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
@@ -3743,5 +3737,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-08-15T10:20:20.360Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-08-16T17:45:02.379Z",
+    "error": "Connection reset"
   }
 ]
