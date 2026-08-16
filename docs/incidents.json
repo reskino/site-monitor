@@ -2,15 +2,6 @@
   {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-07-30T08:14:46.138Z",
-    "error": "HTTP 500",
-    "resolvedAt": "2026-07-30T08:18:16.961Z",
-    "downMs": 210823
-  },
-  {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
     "type": "up",
     "at": "2026-07-30T08:18:16.961Z"
   },
@@ -3746,6 +3737,14 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-08-16T17:46:06.401Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-16T17:47:00.734Z",
+    "downMs": 54333
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-08-16T17:47:00.734Z"
   }
 ]
