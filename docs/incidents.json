@@ -1,11 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "up",
-    "at": "2026-07-30T08:18:16.961Z"
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3746,5 +3740,12 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-08-16T17:47:00.734Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-08-17T07:30:08.791Z",
+    "error": "Too many redirects"
   }
 ]
