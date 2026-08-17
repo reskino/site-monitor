@@ -65,7 +65,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-08-17T12:29:18.680Z",
-      "subFailAt": "2026-08-17T18:14:47.006Z",
+      "subFailAt": "2026-08-17T18:24:57.159Z",
       "subdomains": [
         "ainaghventures.com"
       ],
@@ -106,7 +106,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
       "domainOkAt": "2026-08-17T12:29:18.800Z",
-      "subFailAt": "2026-08-17T18:14:29.694Z",
+      "subFailAt": "2026-08-17T18:18:46.509Z",
       "subdomains": [
         "amzendock.com",
         "cpanel.amzendock.com",
@@ -121,7 +121,7 @@
         "www.new.amzendock.com",
         "www.uhuru.amzendock.com"
       ],
-      "subOkAt": "2026-08-14T17:11:51.878Z",
+      "subOkAt": "2026-08-17T18:19:53.910Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "airliv8hernetwork.com": {
@@ -259,12 +259,12 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-08-17T12:29:19.167Z",
-      "subFailAt": "2026-08-17T18:14:28.845Z",
+      "subFailAt": "2026-08-17T18:22:12.458Z",
       "subdomains": [
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
       ],
-      "subOkAt": "2026-08-14T17:47:39.157Z",
+      "subOkAt": "2026-08-17T18:23:17.812Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "uhuruforall.com": {
@@ -312,7 +312,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
       "domainOkAt": "2026-08-17T12:29:52.008Z",
-      "subFailAt": "2026-08-17T18:14:34.962Z",
+      "subFailAt": "2026-08-17T18:22:12.458Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
         "jassmattazz.com",
@@ -328,7 +328,7 @@
         "www.otef.jassmattazz.com",
         "www.uhuru.jassmattazz.com"
       ],
-      "subOkAt": "2026-08-14T18:07:46.285Z",
+      "subOkAt": "2026-08-17T18:23:18.362Z",
       "domainFailAt": "2026-08-17T12:29:18.560Z"
     },
     "lansor.co.uk": {
@@ -341,7 +341,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
       "domainOkAt": "2026-08-17T12:29:52.087Z",
-      "subFailAt": "2026-08-17T18:14:28.839Z",
+      "subFailAt": "2026-08-17T18:24:57.159Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
         "cpanel.lansor.co.uk",
