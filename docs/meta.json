@@ -65,11 +65,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-08-17T12:29:18.680Z",
-      "subFailAt": "2026-08-17T18:35:10.077Z",
+      "subFailAt": "2026-08-17T18:25:12.549Z",
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-08-14T17:12:52.139Z",
+      "subOkAt": "2026-08-17T18:26:17.350Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "aaandsghana.com": {
@@ -177,7 +177,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-08-17T12:29:18.808Z",
-      "subFailAt": "2026-08-14T18:25:38.277Z",
+      "subFailAt": "2026-08-17T18:34:12.881Z",
       "subdomains": [
         "cpanel.gmwghana.com",
         "cpcalendars.gmwghana.com",
@@ -188,7 +188,7 @@
         "webmail.gmwghana.com",
         "www.gmwghana.com"
       ],
-      "subOkAt": "2026-08-17T18:35:16.063Z",
+      "subOkAt": "2026-08-17T18:35:14.351Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "opportunitytoexcel.com": {
@@ -341,7 +341,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
       "domainOkAt": "2026-08-17T12:29:52.087Z",
-      "subFailAt": "2026-08-17T18:24:57.159Z",
+      "subFailAt": "2026-08-17T18:31:12.573Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
         "cpanel.lansor.co.uk",
@@ -355,7 +355,7 @@
         "www.itdisposal.lansor.co.uk",
         "www.lansor.co.uk"
       ],
-      "subOkAt": "2026-08-17T18:35:11.819Z",
+      "subOkAt": "2026-08-17T18:32:13.748Z",
       "domainFailAt": "2026-08-17T12:29:18.660Z"
     },
     "impactcapitalmfi.com": {
@@ -379,8 +379,8 @@
         "www.impactcapitalmfi.com",
         "www.test.impactcapitalmfi.com"
       ],
-      "subOkAt": "2026-08-17T18:35:12.605Z",
-      "subFailAt": "2026-08-11T18:24:04.383Z",
+      "subOkAt": "2026-08-17T18:33:45.155Z",
+      "subFailAt": "2026-08-17T18:32:12.617Z",
       "domainFailAt": "2026-08-17T12:29:18.661Z"
     }
   }
