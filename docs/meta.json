@@ -65,7 +65,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-08-17T12:29:18.680Z",
-      "subFailAt": "2026-08-17T18:24:57.159Z",
+      "subFailAt": "2026-08-17T18:35:10.077Z",
       "subdomains": [
         "ainaghventures.com"
       ],
@@ -188,7 +188,7 @@
         "webmail.gmwghana.com",
         "www.gmwghana.com"
       ],
-      "subOkAt": "2026-08-14T18:26:43.389Z",
+      "subOkAt": "2026-08-17T18:35:16.063Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "opportunitytoexcel.com": {
@@ -355,7 +355,7 @@
         "www.itdisposal.lansor.co.uk",
         "www.lansor.co.uk"
       ],
-      "subOkAt": "2026-08-14T18:07:45.727Z",
+      "subOkAt": "2026-08-17T18:35:11.819Z",
       "domainFailAt": "2026-08-17T12:29:18.660Z"
     },
     "impactcapitalmfi.com": {
@@ -379,7 +379,7 @@
         "www.impactcapitalmfi.com",
         "www.test.impactcapitalmfi.com"
       ],
-      "subOkAt": "2026-08-14T18:25:44.807Z",
+      "subOkAt": "2026-08-17T18:35:12.605Z",
       "subFailAt": "2026-08-11T18:24:04.383Z",
       "domainFailAt": "2026-08-17T12:29:18.661Z"
     }
