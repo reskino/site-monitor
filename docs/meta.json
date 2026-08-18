@@ -82,7 +82,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
       "domainOkAt": "2026-08-18T12:31:11.726Z",
-      "subFailAt": "2026-08-12T14:05:55.197Z",
+      "subFailAt": "2026-08-18T14:09:12.452Z",
       "subdomains": [
         "aaandsghana.com",
         "cpanel.aaandsghana.com",
@@ -93,7 +93,7 @@
         "webmail.aaandsghana.com",
         "www.aaandsghana.com"
       ],
-      "subOkAt": "2026-08-15T14:07:32.874Z",
+      "subOkAt": "2026-08-18T14:10:27.887Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "amzendock.com": {
@@ -151,7 +151,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
       "domainOkAt": "2026-08-18T12:31:12.481Z",
-      "subFailAt": "2026-08-15T14:09:32.462Z",
+      "subFailAt": "2026-08-18T14:14:01.792Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
         "cpcalendars.effectivelifeministry.org",
