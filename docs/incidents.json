@@ -1,29 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "up",
-    "at": "2026-07-30T12:11:46.064Z"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-07-30T12:34:17.115Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-30T15:25:14.548Z",
-    "downMs": 10257433
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-30T12:54:42.795Z",
-    "error": "UND_ERR_SOCKET",
-    "resolvedAt": "2026-07-30T13:34:18.626Z",
-    "downMs": 2375831
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
@@ -3746,5 +3722,26 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-08-19T14:09:51.886Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-08-19T19:12:35.580Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-08-19T19:12:35.580Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "down",
+    "at": "2026-08-19T19:12:35.580Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
