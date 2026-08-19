@@ -1,11 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-07-30T12:09:02.901Z"
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "up",
@@ -3743,6 +3737,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-08-19T14:08:58.362Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-08-19T14:09:51.886Z",
+    "downMs": 53524
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-19T14:09:51.886Z"
   }
 ]
