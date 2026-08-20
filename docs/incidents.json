@@ -1,5 +1,23 @@
 [
   {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-07-30T14:31:18.030Z",
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T15:25:14.548Z",
+    "downMs": 3236518
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-07-30T14:31:18.030Z",
+    "error": "No response within 45s",
+    "resolvedAt": "2026-07-30T14:34:18.060Z",
+    "downMs": 180030
+  },
+  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "up",
@@ -3728,20 +3746,5 @@
     "url": "https://impactcapitalmfi.com",
     "type": "up",
     "at": "2026-08-19T19:13:06.791Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-20T05:21:38.445Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-08-20T07:13:49.624Z",
-    "downMs": 6731179
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-08-20T07:13:49.624Z"
   }
 ]
