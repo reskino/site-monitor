@@ -76,12 +76,12 @@
       "domain": {
         "expiration": "2027-06-14T19:54:58Z",
         "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-        "daysLeft": 299,
+        "daysLeft": 298,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
-      "domainOkAt": "2026-08-19T12:40:16.304Z",
+      "domainOkAt": "2026-08-20T03:36:59.291Z",
       "subFailAt": "2026-08-18T14:09:12.452Z",
       "subdomains": [
         "aaandsghana.com",
@@ -335,12 +335,12 @@
       "domain": {
         "expiration": "2027-01-16T20:41:15Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 150,
+        "daysLeft": 149,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-08-19T12:40:16.331Z",
+      "domainOkAt": "2026-08-20T03:36:59.841Z",
       "subFailAt": "2026-08-17T18:31:12.573Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
