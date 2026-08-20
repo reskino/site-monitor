@@ -1,11 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "up",
-    "at": "2026-07-30T15:22:43.926Z"
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
@@ -3740,5 +3734,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-08-20T13:13:24.906Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-08-20T19:10:08.230Z",
+    "error": "HTTP 503"
   }
 ]
