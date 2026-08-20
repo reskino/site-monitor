@@ -177,7 +177,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-08-20T07:58:13.093Z",
-      "subFailAt": "2026-08-17T18:34:12.881Z",
+      "subFailAt": "2026-08-20T18:37:07.874Z",
       "subdomains": [
         "cpanel.gmwghana.com",
         "cpcalendars.gmwghana.com",
@@ -188,7 +188,7 @@
         "webmail.gmwghana.com",
         "www.gmwghana.com"
       ],
-      "subOkAt": "2026-08-17T18:35:14.351Z",
+      "subOkAt": "2026-08-20T18:38:11.716Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "opportunitytoexcel.com": {
@@ -341,7 +341,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
       "domainOkAt": "2026-08-20T07:58:13.366Z",
-      "subFailAt": "2026-08-17T18:31:12.573Z",
+      "subFailAt": "2026-08-20T18:43:13.091Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
         "cpanel.lansor.co.uk",
@@ -379,8 +379,8 @@
         "www.impactcapitalmfi.com",
         "www.test.impactcapitalmfi.com"
       ],
-      "subOkAt": "2026-08-17T18:33:45.155Z",
-      "subFailAt": "2026-08-17T18:32:12.617Z",
+      "subOkAt": "2026-08-20T18:39:50.201Z",
+      "subFailAt": "2026-08-20T18:38:08.060Z",
       "domainFailAt": "2026-08-17T12:29:18.661Z"
     }
   }
