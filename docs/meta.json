@@ -52,7 +52,7 @@
         "www.test.skinopro.com",
         "www.try.skinopro.com"
       ],
-      "subOkAt": "2026-08-17T18:13:43.682Z",
+      "subOkAt": "2026-08-20T18:14:33.915Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "ainaghventures.com": {
@@ -106,7 +106,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
       "domainOkAt": "2026-08-20T07:58:13.262Z",
-      "subFailAt": "2026-08-17T18:18:46.509Z",
+      "subFailAt": "2026-08-20T18:21:52.300Z",
       "subdomains": [
         "amzendock.com",
         "cpanel.amzendock.com",
@@ -134,7 +134,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.642Z",
       "subCheckedAt": "2026-07-23T10:49:04.215Z",
       "domainOkAt": "2026-08-20T07:58:13.095Z",
-      "subFailAt": "2026-08-14T17:11:38.404Z",
+      "subFailAt": "2026-08-20T18:21:52.300Z",
       "subdomains": [
         "airliv8hernetwork.com"
       ],
@@ -201,7 +201,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
       "domainOkAt": "2026-08-20T07:58:13.141Z",
-      "subFailAt": "2026-08-14T17:08:39.225Z",
+      "subFailAt": "2026-08-20T18:16:07.960Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
         "cpcalendars.opportunitytoexcel.com",
@@ -226,7 +226,7 @@
         "www.vc.opportunitytoexcel.com",
         "www.verify.opportunitytoexcel.com"
       ],
-      "subOkAt": "2026-08-17T18:13:38.695Z",
+      "subOkAt": "2026-08-20T18:17:46.403Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "nestechnology.com": {
@@ -246,7 +246,7 @@
         "www.edu.nestechnology.com",
         "www.nestechnology.com"
       ],
-      "subOkAt": "2026-08-17T18:13:33.855Z",
+      "subOkAt": "2026-08-20T18:14:33.130Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "amorefoundation.org.uk": {
@@ -277,7 +277,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.021Z",
       "subCheckedAt": "2026-07-23T10:48:47.547Z",
       "domainOkAt": "2026-08-20T07:58:13.118Z",
-      "subFailAt": "2026-08-14T17:08:37.727Z",
+      "subFailAt": "2026-08-20T18:21:52.300Z",
       "subdomains": [
         "abskitchen.uhuruforall.com",
         "abtest.uhuruforall.com",
