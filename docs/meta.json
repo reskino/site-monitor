@@ -341,7 +341,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
       "domainOkAt": "2026-08-20T07:58:13.366Z",
-      "subFailAt": "2026-08-20T18:43:13.091Z",
+      "subFailAt": "2026-08-20T18:48:08.119Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
         "cpanel.lansor.co.uk",
@@ -355,7 +355,7 @@
         "www.itdisposal.lansor.co.uk",
         "www.lansor.co.uk"
       ],
-      "subOkAt": "2026-08-17T18:32:13.748Z",
+      "subOkAt": "2026-08-20T18:49:37.038Z",
       "domainFailAt": "2026-08-17T12:29:18.660Z"
     },
     "impactcapitalmfi.com": {
