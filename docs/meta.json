@@ -65,11 +65,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-08-20T07:58:13.087Z",
-      "subFailAt": "2026-08-17T18:25:12.549Z",
+      "subFailAt": "2026-08-20T18:31:07.841Z",
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-08-17T18:26:17.350Z",
+      "subOkAt": "2026-08-20T18:32:38.268Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "aaandsghana.com": {
@@ -106,7 +106,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
       "domainOkAt": "2026-08-20T07:58:13.262Z",
-      "subFailAt": "2026-08-20T18:21:52.300Z",
+      "subFailAt": "2026-08-20T18:22:08.748Z",
       "subdomains": [
         "amzendock.com",
         "cpanel.amzendock.com",
@@ -121,7 +121,7 @@
         "www.new.amzendock.com",
         "www.uhuru.amzendock.com"
       ],
-      "subOkAt": "2026-08-17T18:19:53.910Z",
+      "subOkAt": "2026-08-20T18:23:44.506Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "airliv8hernetwork.com": {
@@ -134,11 +134,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.642Z",
       "subCheckedAt": "2026-07-23T10:49:04.215Z",
       "domainOkAt": "2026-08-20T07:58:13.095Z",
-      "subFailAt": "2026-08-20T18:21:52.300Z",
+      "subFailAt": "2026-08-20T18:22:08.237Z",
       "subdomains": [
         "airliv8hernetwork.com"
       ],
-      "subOkAt": "2026-08-17T18:14:06.083Z",
+      "subOkAt": "2026-08-20T18:23:45.565Z",
       "domainFailAt": "2026-08-01T06:04:38.787Z"
     },
     "effectivelifeministry.org": {
@@ -259,12 +259,12 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-08-20T07:58:13.338Z",
-      "subFailAt": "2026-08-17T18:22:12.458Z",
+      "subFailAt": "2026-08-20T18:31:08.341Z",
       "subdomains": [
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
       ],
-      "subOkAt": "2026-08-17T18:23:17.812Z",
+      "subOkAt": "2026-08-20T18:32:47.110Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "uhuruforall.com": {
@@ -277,7 +277,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.021Z",
       "subCheckedAt": "2026-07-23T10:48:47.547Z",
       "domainOkAt": "2026-08-20T07:58:13.118Z",
-      "subFailAt": "2026-08-20T18:21:52.300Z",
+      "subFailAt": "2026-08-20T18:22:08.258Z",
       "subdomains": [
         "abskitchen.uhuruforall.com",
         "abtest.uhuruforall.com",
@@ -299,7 +299,7 @@
         "www.test.uhuruforall.com",
         "www.uhuruforall.com"
       ],
-      "subOkAt": "2026-08-17T18:13:33.787Z",
+      "subOkAt": "2026-08-20T18:23:44.511Z",
       "domainFailAt": "2026-08-01T06:04:38.788Z"
     },
     "jassmattazz.com": {
@@ -312,7 +312,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
       "domainOkAt": "2026-08-20T07:58:13.154Z",
-      "subFailAt": "2026-08-17T18:22:12.458Z",
+      "subFailAt": "2026-08-20T18:31:07.855Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
         "jassmattazz.com",
@@ -328,7 +328,7 @@
         "www.otef.jassmattazz.com",
         "www.uhuru.jassmattazz.com"
       ],
-      "subOkAt": "2026-08-17T18:23:18.362Z",
+      "subOkAt": "2026-08-20T18:32:33.071Z",
       "domainFailAt": "2026-08-17T12:29:18.560Z"
     },
     "lansor.co.uk": {
