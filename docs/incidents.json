@@ -1,14 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-07-30T22:30:15.725Z",
-    "error": "HTTP 502",
-    "resolvedAt": "2026-07-30T22:34:29.755Z",
-    "downMs": 254030
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "up",
@@ -3743,6 +3734,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-08-21T13:57:51.850Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-08-21T14:05:37.728Z",
+    "downMs": 465878
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-21T14:05:37.728Z"
   }
 ]
