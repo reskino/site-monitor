@@ -1,14 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-07-30T22:34:29.755Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-30T22:36:30.850Z",
-    "downMs": 121095
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "up",
@@ -3743,6 +3734,14 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-08-22T06:27:54.807Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-22T07:07:39.447Z",
+    "downMs": 2384640
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-22T07:07:39.447Z"
   }
 ]
