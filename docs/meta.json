@@ -10,7 +10,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.632Z",
       "subCheckedAt": "2026-07-23T10:48:59.216Z",
       "domainOkAt": "2026-08-23T11:27:43.434Z",
-      "subFailAt": "2026-08-11T17:57:33.786Z",
+      "subFailAt": "2026-08-23T18:16:24.645Z",
       "subdomains": [
         "aaands.skinopro.com",
         "autoconfig.skinopro.com",
@@ -239,7 +239,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
       "domainOkAt": "2026-08-23T11:27:43.259Z",
-      "subFailAt": "2026-08-11T17:57:05.219Z",
+      "subFailAt": "2026-08-23T18:16:24.641Z",
       "subdomains": [
         "edu.nestechnology.com",
         "nestechnology.com",
