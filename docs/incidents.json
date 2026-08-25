@@ -1,12 +1,5 @@
 [
   {
-    "name": "airliv8hernetwork.com",
-    "url": "https://airliv8hernetwork.com",
-    "type": "down",
-    "at": "2026-07-31T13:02:06.904Z",
-    "error": "Domain not found (DNS)"
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "up",
@@ -3740,6 +3733,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-08-25T07:08:12.449Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-08-25T07:37:35.464Z",
+    "downMs": 1763015
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-25T07:37:35.464Z"
   }
 ]
