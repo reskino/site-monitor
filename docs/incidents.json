@@ -1,14 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-07-31T14:16:50.999Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-07-31T14:27:44.511Z",
-    "downMs": 653512
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
@@ -3745,6 +3736,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-08-25T14:37:07.844Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-08-25T16:49:31.706Z",
+    "downMs": 7943862
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-25T16:49:31.706Z"
   }
 ]
