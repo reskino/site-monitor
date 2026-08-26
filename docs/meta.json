@@ -81,7 +81,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
-      "domainOkAt": "2026-08-25T20:00:01.962Z",
+      "domainOkAt": "2026-08-26T08:55:41.580Z",
       "subFailAt": "2026-08-24T15:43:44.947Z",
       "subdomains": [
         "aaandsghana.com",
@@ -381,7 +381,7 @@
       ],
       "subOkAt": "2026-08-24T17:08:14.512Z",
       "subFailAt": "2026-08-24T17:07:19.121Z",
-      "domainFailAt": "2026-08-26T08:05:25.128Z"
+      "domainFailAt": "2026-08-26T08:55:55.812Z"
     }
   }
 }
