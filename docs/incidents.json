@@ -1,14 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-04T00:14:21.227Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-04T00:16:08.942Z",
-    "downMs": 107715
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "down",
@@ -3733,5 +3724,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-08-26T13:10:20.330Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-08-26T14:01:18.656Z",
+    "error": "Too many redirects"
   }
 ]
