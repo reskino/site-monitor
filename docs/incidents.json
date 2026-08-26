@@ -1,23 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-03T04:09:39.760Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-03T04:21:54.320Z",
-    "downMs": 734560
-  },
-  {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-08-03T04:09:39.760Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-08-03T04:21:54.320Z",
-    "downMs": 734560
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3748,5 +3730,19 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-08-26T01:06:17.146Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-08-26T01:11:26.694Z",
+    "error": "HTTP 502"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "down",
+    "at": "2026-08-26T01:11:26.694Z",
+    "error": "HTTP 502"
   }
 ]
