@@ -1,14 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-08-04T00:14:21.227Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-04T00:16:08.942Z",
-    "downMs": 107715
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
@@ -3736,6 +3727,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-08-26T11:24:21.938Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-08-26T11:38:15.430Z",
+    "downMs": 833492
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-26T11:38:15.430Z"
   }
 ]
