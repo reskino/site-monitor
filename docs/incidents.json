@@ -1,5 +1,23 @@
 [
   {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-08-04T00:14:21.227Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-08-04T00:16:08.942Z",
+    "downMs": 107715
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "down",
+    "at": "2026-08-04T00:14:21.227Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-08-04T00:16:08.942Z",
+    "downMs": 107715
+  },
+  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
@@ -3720,22 +3738,7 @@
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
-    "at": "2026-08-26T08:05:25.792Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-08-26T08:55:55.813Z",
-    "downMs": 3030021
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-08-26T08:55:55.813Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-26T11:13:19.517Z",
+    "at": "2026-08-26T11:13:23.917Z",
     "error": "Too many redirects"
   }
 ]
