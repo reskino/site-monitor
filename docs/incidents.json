@@ -1,14 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-08-05T12:56:22.469Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-05T12:57:27.974Z",
-    "downMs": 65505
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3739,6 +3730,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-08-27T20:25:27.482Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-08-27T21:08:21.413Z",
+    "downMs": 2573931
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-27T21:08:21.413Z"
   }
 ]
