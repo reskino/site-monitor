@@ -65,11 +65,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-08-27T11:14:17.765Z",
-      "subFailAt": "2026-08-27T17:03:35.141Z",
+      "subFailAt": "2026-08-27T17:10:10.119Z",
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-08-24T17:01:20.291Z",
+      "subOkAt": "2026-08-27T17:10:26.875Z",
       "domainFailAt": "2026-08-25T17:11:28.344Z"
     },
     "aaandsghana.com": {
@@ -151,7 +151,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
       "domainOkAt": "2026-08-27T11:14:18.388Z",
-      "subFailAt": "2026-08-24T17:05:30.168Z",
+      "subFailAt": "2026-08-27T17:10:10.120Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
         "cpcalendars.effectivelifeministry.org",
@@ -164,7 +164,7 @@
         "www.effectivelifeministry.org",
         "www.ngo.effectivelifeministry.org"
       ],
-      "subOkAt": "2026-08-24T17:06:25.368Z",
+      "subOkAt": "2026-08-27T17:10:21.568Z",
       "domainFailAt": "2026-08-25T17:11:28.345Z"
     },
     "gmwghana.com": {
@@ -341,7 +341,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
       "domainOkAt": "2026-08-27T11:14:17.871Z",
-      "subFailAt": "2026-08-24T17:05:18.601Z",
+      "subFailAt": "2026-08-27T17:10:10.120Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
         "cpanel.lansor.co.uk",
@@ -355,7 +355,7 @@
         "www.itdisposal.lansor.co.uk",
         "www.lansor.co.uk"
       ],
-      "subOkAt": "2026-08-24T17:06:07.248Z",
+      "subOkAt": "2026-08-27T17:10:22.949Z",
       "domainFailAt": "2026-08-25T17:11:28.348Z"
     },
     "impactcapitalmfi.com": {
@@ -379,8 +379,8 @@
         "www.impactcapitalmfi.com",
         "www.test.impactcapitalmfi.com"
       ],
-      "subOkAt": "2026-08-24T17:08:14.512Z",
-      "subFailAt": "2026-08-24T17:07:19.121Z",
+      "subOkAt": "2026-08-27T17:10:22.140Z",
+      "subFailAt": "2026-08-27T17:10:10.120Z",
       "domainFailAt": "2026-08-25T17:11:28.348Z"
     }
   }
