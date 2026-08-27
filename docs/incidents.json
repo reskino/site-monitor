@@ -1,17 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-08-04T07:44:12.714Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-08-04T07:44:12.714Z"
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "up",
@@ -3732,6 +3720,20 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-08-27T16:16:19.463Z",
+    "error": "HTTP 502"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-08-27T16:17:19.594Z",
+    "error": "HTTP 502"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-08-27T16:17:19.594Z",
     "error": "HTTP 502"
   }
 ]
