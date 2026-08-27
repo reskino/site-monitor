@@ -1,26 +1,5 @@
 [
   {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "up",
-    "at": "2026-08-04T07:44:12.714Z"
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-04T07:44:12.714Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-08-05T12:46:36.005Z",
-    "error": "EHOSTUNREACH",
-    "resolvedAt": "2026-08-05T12:57:27.974Z",
-    "downMs": 651969
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
@@ -3745,5 +3724,26 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-08-27T16:19:34.257Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-08-27T16:31:06.443Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-08-27T16:31:06.443Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "down",
+    "at": "2026-08-27T16:31:06.443Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
