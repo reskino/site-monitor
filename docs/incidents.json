@@ -1,35 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "up",
-    "at": "2026-08-04T07:44:12.714Z"
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-08-04T07:44:12.714Z"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-08-04T07:44:12.714Z"
-  },
-  {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "up",
-    "at": "2026-08-04T07:44:12.714Z"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-04T07:44:12.714Z"
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "up",
@@ -3706,34 +3676,74 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-08-27T16:14:25.379Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-08-27T16:19:34.257Z",
+    "downMs": 308878
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-08-27T16:14:25.379Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-08-27T16:19:34.257Z",
+    "downMs": 308878
   },
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-08-27T16:16:19.463Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-08-27T16:19:34.257Z",
+    "downMs": 194794
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-08-27T16:17:19.594Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-08-27T16:19:34.257Z",
+    "downMs": 134663
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-08-27T16:17:19.594Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-08-27T16:19:34.257Z",
+    "downMs": 134663
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-08-27T16:19:34.257Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-08-27T16:19:34.257Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-27T16:19:34.257Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-27T16:19:34.257Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-08-27T16:19:34.257Z"
   }
 ]
