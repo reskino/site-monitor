@@ -253,12 +253,12 @@
       "domain": {
         "expiration": "2027-02-17T22:02:57Z",
         "registrar": "Realtime Register BV t/a Axidomains",
-        "daysLeft": 175,
+        "daysLeft": 174,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
-      "domainOkAt": "2026-08-26T11:14:02.302Z",
+      "domainOkAt": "2026-08-27T00:48:04.112Z",
       "subFailAt": "2026-08-24T17:21:45.803Z",
       "subdomains": [
         "amorefoundation.org.uk",
