@@ -201,7 +201,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
       "domainOkAt": "2026-08-27T11:14:17.764Z",
-      "subFailAt": "2026-08-27T17:25:04.699Z",
+      "subFailAt": "2026-08-27T17:26:20.783Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
         "cpcalendars.opportunitytoexcel.com",
@@ -226,7 +226,7 @@
         "www.vc.opportunitytoexcel.com",
         "www.verify.opportunitytoexcel.com"
       ],
-      "subOkAt": "2026-08-24T17:23:09.437Z",
+      "subOkAt": "2026-08-27T17:28:00.150Z",
       "domainFailAt": "2026-08-25T17:11:28.346Z"
     },
     "nestechnology.com": {
@@ -259,12 +259,12 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-08-27T11:15:17.543Z",
-      "subFailAt": "2026-08-27T17:25:04.699Z",
+      "subFailAt": "2026-08-27T17:26:20.283Z",
       "subdomains": [
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
       ],
-      "subOkAt": "2026-08-24T17:23:07.985Z",
+      "subOkAt": "2026-08-27T17:27:59.540Z",
       "domainFailAt": "2026-08-26T11:13:22.564Z"
     },
     "uhuruforall.com": {
