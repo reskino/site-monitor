@@ -1,14 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-05T12:56:22.469Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-05T12:57:27.974Z",
-    "downMs": 65505
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "down",
@@ -3742,5 +3733,12 @@
     "url": "https://impactcapitalmfi.com",
     "type": "up",
     "at": "2026-08-27T16:42:19.406Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-08-27T20:25:27.482Z",
+    "error": "Too many redirects"
   }
 ]
