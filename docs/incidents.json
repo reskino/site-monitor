@@ -1,32 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-08-05T12:46:36.005Z",
-    "error": "EHOSTUNREACH",
-    "resolvedAt": "2026-08-05T12:57:27.974Z",
-    "downMs": 651969
-  },
-  {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-08-05T12:46:36.005Z",
-    "error": "EHOSTUNREACH",
-    "resolvedAt": "2026-08-05T12:57:27.974Z",
-    "downMs": 651969
-  },
-  {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-08-05T12:46:36.005Z",
-    "error": "EHOSTUNREACH",
-    "resolvedAt": "2026-08-05T12:57:27.974Z",
-    "downMs": 651969
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
@@ -3730,20 +3703,44 @@
     "url": "https://amzendock.com",
     "type": "down",
     "at": "2026-08-27T16:31:06.443Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-08-27T16:42:19.406Z",
+    "downMs": 672963
   },
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-08-27T16:31:06.443Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-08-27T16:42:19.406Z",
+    "downMs": 672963
   },
   {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "down",
     "at": "2026-08-27T16:31:06.443Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-08-27T16:42:19.406Z",
+    "downMs": 672963
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-08-27T16:42:19.406Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-08-27T16:42:19.406Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "up",
+    "at": "2026-08-27T16:42:19.406Z"
   }
 ]
