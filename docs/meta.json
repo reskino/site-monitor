@@ -10,7 +10,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.632Z",
       "subCheckedAt": "2026-07-23T10:48:59.216Z",
       "domainOkAt": "2026-08-27T11:14:17.765Z",
-      "subFailAt": "2026-08-27T15:17:03.666Z",
+      "subFailAt": "2026-08-27T15:27:19.215Z",
       "subdomains": [
         "aaands.skinopro.com",
         "autoconfig.skinopro.com",
@@ -312,7 +312,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
       "domainOkAt": "2026-08-27T11:14:17.764Z",
-      "subFailAt": "2026-08-24T15:15:44.679Z",
+      "subFailAt": "2026-08-27T15:23:35.949Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
         "jassmattazz.com",
@@ -328,7 +328,7 @@
         "www.otef.jassmattazz.com",
         "www.uhuru.jassmattazz.com"
       ],
-      "subOkAt": "2026-08-24T15:17:29.452Z",
+      "subOkAt": "2026-08-27T15:24:30.707Z",
       "domainFailAt": "2026-08-25T17:11:28.347Z"
     },
     "lansor.co.uk": {
