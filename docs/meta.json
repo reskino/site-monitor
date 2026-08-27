@@ -134,11 +134,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.642Z",
       "subCheckedAt": "2026-07-23T10:49:04.215Z",
       "domainOkAt": "2026-08-27T11:14:17.766Z",
-      "subFailAt": "2026-08-27T16:42:19.406Z",
+      "subFailAt": "2026-08-27T16:51:50.713Z",
       "subdomains": [
         "airliv8hernetwork.com"
       ],
-      "subOkAt": "2026-08-24T16:41:20.185Z",
+      "subOkAt": "2026-08-27T16:53:10.940Z",
       "domainFailAt": "2026-08-25T17:11:28.345Z"
     },
     "effectivelifeministry.org": {
@@ -177,7 +177,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-08-27T11:14:17.763Z",
-      "subFailAt": "2026-08-24T16:45:01.602Z",
+      "subFailAt": "2026-08-27T16:51:50.713Z",
       "subdomains": [
         "cpanel.gmwghana.com",
         "cpcalendars.gmwghana.com",
@@ -188,7 +188,7 @@
         "webmail.gmwghana.com",
         "www.gmwghana.com"
       ],
-      "subOkAt": "2026-08-24T16:46:26.743Z",
+      "subOkAt": "2026-08-27T16:53:14.093Z",
       "domainFailAt": "2026-08-25T17:11:28.346Z"
     },
     "opportunitytoexcel.com": {
@@ -277,7 +277,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.021Z",
       "subCheckedAt": "2026-07-23T10:48:47.547Z",
       "domainOkAt": "2026-08-27T11:14:17.766Z",
-      "subFailAt": "2026-08-27T16:42:19.406Z",
+      "subFailAt": "2026-08-27T16:51:50.725Z",
       "subdomains": [
         "abskitchen.uhuruforall.com",
         "abtest.uhuruforall.com",
@@ -299,7 +299,7 @@
         "www.test.uhuruforall.com",
         "www.uhuruforall.com"
       ],
-      "subOkAt": "2026-08-24T16:41:19.526Z",
+      "subOkAt": "2026-08-27T16:53:12.478Z",
       "domainFailAt": "2026-08-25T17:11:28.347Z"
     },
     "jassmattazz.com": {
