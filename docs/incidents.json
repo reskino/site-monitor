@@ -1,17 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "up",
-    "at": "2026-08-04T07:44:12.714Z"
-  },
-  {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-08-04T07:44:12.714Z"
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "up",
@@ -3730,5 +3718,19 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-08-27T09:58:16.236Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-08-27T16:14:25.379Z",
+    "error": "HTTP 502"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-08-27T16:14:25.379Z",
+    "error": "HTTP 502"
   }
 ]
