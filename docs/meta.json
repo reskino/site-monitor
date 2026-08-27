@@ -82,7 +82,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
       "domainOkAt": "2026-08-27T11:14:17.710Z",
-      "subFailAt": "2026-08-27T16:00:19.631Z",
+      "subFailAt": "2026-08-27T16:02:20.672Z",
       "subdomains": [
         "aaandsghana.com",
         "cpanel.aaandsghana.com",
@@ -93,7 +93,7 @@
         "webmail.aaandsghana.com",
         "www.aaandsghana.com"
       ],
-      "subOkAt": "2026-08-24T15:45:18.655Z",
+      "subOkAt": "2026-08-27T16:03:46.890Z",
       "domainFailAt": "2026-08-25T17:11:28.344Z"
     },
     "amzendock.com": {
@@ -106,7 +106,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
       "domainOkAt": "2026-08-27T11:14:17.764Z",
-      "subFailAt": "2026-08-27T16:01:04.139Z",
+      "subFailAt": "2026-08-27T16:02:20.173Z",
       "subdomains": [
         "amzendock.com",
         "cpanel.amzendock.com",
@@ -121,7 +121,7 @@
         "www.new.amzendock.com",
         "www.uhuru.amzendock.com"
       ],
-      "subOkAt": "2026-08-24T15:45:18.601Z",
+      "subOkAt": "2026-08-27T16:03:49.836Z",
       "domainFailAt": "2026-08-25T17:11:28.345Z"
     },
     "airliv8hernetwork.com": {
@@ -239,14 +239,14 @@
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
       "domainOkAt": "2026-08-27T11:14:17.765Z",
-      "subFailAt": "2026-08-27T16:00:19.637Z",
+      "subFailAt": "2026-08-27T16:02:19.674Z",
       "subdomains": [
         "edu.nestechnology.com",
         "nestechnology.com",
         "www.edu.nestechnology.com",
         "www.nestechnology.com"
       ],
-      "subOkAt": "2026-08-24T15:53:48.546Z",
+      "subOkAt": "2026-08-27T16:03:50.152Z",
       "domainFailAt": "2026-08-25T17:11:28.346Z"
     },
     "amorefoundation.org.uk": {
