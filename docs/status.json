@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T07:36:05.014Z",
+  "generatedAt": "2026-08-28T07:36:58.998Z",
   "dashboardUrl": "https://reskino.github.io/site-monitor/",
   "results": [
     {
@@ -8,9 +8,9 @@
       "host": "skinopro.com",
       "up": false,
       "status": 0,
-      "ms": 10720,
+      "ms": 4,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://skinopro.com",
       "redirects": [],
       "redirected": false,
@@ -20,7 +20,7 @@
       "ssl": {
         "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:35:49.790Z",
+      "checkedAt": "2026-08-28T07:36:58.980Z",
       "domain": {
         "expiration": "2027-02-13T08:16:33Z",
         "registrar": "Global Domain Group LLC",
@@ -76,9 +76,9 @@
       "host": "ainaghventures.com",
       "up": false,
       "status": 0,
-      "ms": 10732,
+      "ms": 6,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://ainaghventures.com",
       "redirects": [],
       "redirected": false,
@@ -86,9 +86,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:36:05.014Z",
+      "checkedAt": "2026-08-28T07:36:58.998Z",
       "domain": {
         "expiration": "2027-06-13T19:29:21Z",
         "registrar": "Global Domain Group LLC",
@@ -106,9 +106,9 @@
       "host": "aaandsghana.com",
       "up": false,
       "status": 0,
-      "ms": 10732,
+      "ms": 5,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://aaandsghana.com",
       "redirects": [],
       "redirected": false,
@@ -116,9 +116,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:36:05.014Z",
+      "checkedAt": "2026-08-28T07:36:58.998Z",
       "domain": {
         "expiration": "2027-06-14T19:54:58Z",
         "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -143,9 +143,9 @@
       "host": "amzendock.com",
       "up": false,
       "status": 0,
-      "ms": 10730,
+      "ms": 5,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://amzendock.com",
       "redirects": [],
       "redirected": false,
@@ -153,9 +153,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:36:05.014Z",
+      "checkedAt": "2026-08-28T07:36:58.998Z",
       "domain": {
         "expiration": "2027-05-06T13:21:53Z",
         "registrar": "Global Domain Group LLC",
@@ -184,9 +184,9 @@
       "host": "airliv8hernetwork.com",
       "up": false,
       "status": 0,
-      "ms": 10576,
+      "ms": 5,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://airliv8hernetwork.com",
       "redirects": [],
       "redirected": false,
@@ -196,7 +196,7 @@
       "ssl": {
         "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:35:24.693Z",
+      "checkedAt": "2026-08-28T07:36:58.998Z",
       "domain": {
         "expiration": "2026-06-20T11:34:59Z",
         "registrar": "Global Domain Group LLC",
@@ -214,9 +214,9 @@
       "host": "effectivelifeministry.org",
       "up": false,
       "status": 0,
-      "ms": 10728,
+      "ms": 6,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://effectivelifeministry.org",
       "redirects": [],
       "redirected": false,
@@ -224,9 +224,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:36:05.014Z",
+      "checkedAt": "2026-08-28T07:36:58.998Z",
       "domain": {
         "expiration": "2027-01-04T18:52:15.006Z",
         "registrar": "Global Domain Group LLC",
@@ -253,9 +253,9 @@
       "host": "gmwghana.com",
       "up": false,
       "status": 0,
-      "ms": 10727,
+      "ms": 14,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://gmwghana.com",
       "redirects": [],
       "redirected": false,
@@ -263,9 +263,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:36:05.014Z",
+      "checkedAt": "2026-08-28T07:36:58.997Z",
       "domain": {
         "expiration": "2026-09-06T13:30:20Z",
         "registrar": "Global Domain Group LLC",
@@ -290,9 +290,9 @@
       "host": "opportunitytoexcel.com",
       "up": false,
       "status": 0,
-      "ms": 10726,
+      "ms": 4,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://opportunitytoexcel.com",
       "redirects": [],
       "redirected": false,
@@ -300,9 +300,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:36:05.014Z",
+      "checkedAt": "2026-08-28T07:36:58.993Z",
       "domain": {
         "expiration": "2027-02-08T12:25:33Z",
         "registrar": "Global Domain Group LLC",
@@ -341,9 +341,9 @@
       "host": "nestechnology.com",
       "up": false,
       "status": 0,
-      "ms": 10725,
+      "ms": 4,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://nestechnology.com",
       "redirects": [],
       "redirected": false,
@@ -353,7 +353,7 @@
       "ssl": {
         "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:35:49.790Z",
+      "checkedAt": "2026-08-28T07:36:58.993Z",
       "domain": {
         "expiration": "2027-07-07T22:20:27Z",
         "registrar": "HOSTINGER operations, UAB",
@@ -374,9 +374,9 @@
       "host": "amorefoundation.org.uk",
       "up": false,
       "status": 0,
-      "ms": 10724,
+      "ms": 4,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://amorefoundation.org.uk",
       "redirects": [],
       "redirected": false,
@@ -384,9 +384,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:35:53.644Z",
+      "checkedAt": "2026-08-28T07:36:58.993Z",
       "domain": {
         "expiration": "2027-02-17T22:02:57Z",
         "registrar": "Realtime Register BV t/a Axidomains",
@@ -405,9 +405,9 @@
       "host": "uhuruforall.com",
       "up": false,
       "status": 0,
-      "ms": 10722,
+      "ms": 4,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://uhuruforall.com",
       "redirects": [],
       "redirected": false,
@@ -415,9 +415,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:35:53.644Z",
+      "checkedAt": "2026-08-28T07:36:58.992Z",
       "domain": {
         "expiration": "2027-02-07T02:00:22Z",
         "registrar": "Domain.com - Network Solutions, LLC",
@@ -453,9 +453,9 @@
       "host": "jassmattazz.com",
       "up": false,
       "status": 0,
-      "ms": 10721,
+      "ms": 8,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://jassmattazz.com",
       "redirects": [],
       "redirected": false,
@@ -463,9 +463,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:35:53.644Z",
+      "checkedAt": "2026-08-28T07:36:58.992Z",
       "domain": {
         "expiration": "2027-05-16T10:49:39Z",
         "registrar": "Global Domain Group LLC",
@@ -495,9 +495,9 @@
       "host": "lansor.co.uk",
       "up": false,
       "status": 0,
-      "ms": 10720,
+      "ms": 5,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://lansor.co.uk",
       "redirects": [],
       "redirected": false,
@@ -505,9 +505,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:35:53.644Z",
+      "checkedAt": "2026-08-28T07:36:58.980Z",
       "domain": {
         "expiration": "2027-01-16T20:41:15Z",
         "registrar": "Global Domain Group LLC",
@@ -535,9 +535,9 @@
       "host": "impactcapitalmfi.com",
       "up": false,
       "status": 0,
-      "ms": 10718,
+      "ms": 5,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://impactcapitalmfi.com",
       "redirects": [],
       "redirected": false,
@@ -545,9 +545,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:35:53.644Z",
+      "checkedAt": "2026-08-28T07:36:58.980Z",
       "domain": {
         "expiration": "2031-02-03T16:45:16Z",
         "registrar": "GoDaddy.com, LLC",
@@ -575,9 +575,9 @@
       "host": "itdisposal.lansor.co.uk",
       "up": false,
       "status": 0,
-      "ms": 10717,
+      "ms": 5,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://itdisposal.lansor.co.uk",
       "redirects": [],
       "redirected": false,
@@ -585,9 +585,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:35:53.644Z",
+      "checkedAt": "2026-08-28T07:36:58.980Z",
       "domain": {
         "expiration": "2027-01-16T20:41:15Z",
         "registrar": "Global Domain Group LLC",
@@ -615,9 +615,9 @@
       "host": "abskitchen.uhuruforall.com",
       "up": false,
       "status": 0,
-      "ms": 10729,
+      "ms": 5,
       "slow": false,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "Domain not found (DNS)",
       "finalUrl": "https://abskitchen.uhuruforall.com",
       "redirects": [],
       "redirected": false,
@@ -625,9 +625,9 @@
       "expectText": null,
       "tries": 3,
       "ssl": {
-        "error": "TLS timeout"
+        "error": "ENOTFOUND"
       },
-      "checkedAt": "2026-08-28T07:36:05.014Z",
+      "checkedAt": "2026-08-28T07:36:58.980Z",
       "domain": {
         "expiration": "2027-02-07T02:00:22Z",
         "registrar": "Domain.com - Network Solutions, LLC",
