@@ -1,14 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "down",
-    "at": "2026-08-05T12:56:22.469Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-05T12:57:27.974Z",
-    "downMs": 65505
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "down",
@@ -3739,5 +3730,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-08-27T21:08:21.413Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-08-28T04:29:49.493Z",
+    "error": "Too many redirects"
   }
 ]
