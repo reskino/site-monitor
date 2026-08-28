@@ -1,14 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-08-05T12:56:22.469Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-05T12:57:27.974Z",
-    "downMs": 65505
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "down",
@@ -3736,5 +3727,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-08-28T05:29:24.400Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-08-28T07:33:59.580Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
