@@ -1,14 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-08-13T00:02:00.478Z",
-    "error": "Connection reset",
-    "resolvedAt": "2026-08-13T00:03:21.834Z",
-    "downMs": 81356
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3730,7 +3721,9 @@
     "url": "https://amzendock.com",
     "type": "down",
     "at": "2026-08-29T23:49:43.643Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-08-29T23:50:08.301Z",
+    "downMs": 24658
   },
   {
     "name": "gmwghana.com",
@@ -3745,5 +3738,11 @@
     "type": "down",
     "at": "2026-08-29T23:49:43.643Z",
     "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-08-29T23:50:08.301Z"
   }
 ]
