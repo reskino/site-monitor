@@ -1,17 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-08-12T10:26:09.622Z"
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-12T10:26:09.622Z"
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
@@ -3730,19 +3718,35 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-08-29T23:41:28.238Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-08-29T23:45:57.357Z",
+    "downMs": 269119
   },
   {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "down",
     "at": "2026-08-29T23:41:28.238Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-08-29T23:45:57.357Z",
+    "downMs": 269119
   },
   {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "up",
     "at": "2026-08-29T23:44:26.253Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-08-29T23:45:57.357Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "up",
+    "at": "2026-08-29T23:45:57.357Z"
   }
 ]
