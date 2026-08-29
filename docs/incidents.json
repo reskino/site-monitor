@@ -2,15 +2,6 @@
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-08-10T11:20:22.400Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-08-10T11:21:11.052Z",
-    "downMs": 48652
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-08-10T11:21:11.052Z"
   },
@@ -3748,5 +3739,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-08-29T14:22:55.394Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-08-29T17:10:37.354Z",
+    "error": "No response within 45s"
   }
 ]
