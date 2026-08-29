@@ -233,12 +233,12 @@
       "domain": {
         "expiration": "2027-07-07T22:20:27Z",
         "registrar": "HOSTINGER operations, UAB",
-        "daysLeft": 313,
+        "daysLeft": 312,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-08-28T11:14:41.197Z",
+      "domainOkAt": "2026-08-29T07:27:06.370Z",
       "subFailAt": "2026-08-27T16:02:19.674Z",
       "subdomains": [
         "edu.nestechnology.com",
