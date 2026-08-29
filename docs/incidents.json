@@ -1,29 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-11T11:07:44.698Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-08-11T11:10:54.023Z",
-    "downMs": 189325
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-08-11T11:10:54.023Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-08-11T11:13:49.534Z",
-    "downMs": 175511
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-11T11:10:54.023Z"
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
@@ -3731,20 +3707,44 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-08-29T07:27:06.370Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-29T13:16:27.560Z",
+    "downMs": 20961190
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-08-29T07:27:06.370Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-29T13:16:27.560Z",
+    "downMs": 20961190
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-08-29T07:27:06.370Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-08-29T13:16:27.560Z",
+    "downMs": 20961190
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-29T13:16:27.560Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-08-29T13:16:27.560Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-08-29T13:16:27.560Z"
   }
 ]
