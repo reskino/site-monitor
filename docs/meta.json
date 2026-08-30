@@ -82,7 +82,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
       "domainOkAt": "2026-08-30T17:41:43.896Z",
-      "subFailAt": "2026-08-30T18:26:43.952Z",
+      "subFailAt": "2026-08-30T18:37:01.693Z",
       "subdomains": [
         "aaandsghana.com",
         "cpanel.aaandsghana.com",
@@ -106,7 +106,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
       "domainOkAt": "2026-08-30T17:41:43.876Z",
-      "subFailAt": "2026-08-30T18:26:46.034Z",
+      "subFailAt": "2026-08-30T18:37:46.164Z",
       "subdomains": [
         "amzendock.com",
         "cpanel.amzendock.com",
@@ -151,7 +151,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
       "domainOkAt": "2026-08-30T17:41:44.359Z",
-      "subFailAt": "2026-08-30T18:26:01.553Z",
+      "subFailAt": "2026-08-30T18:37:46.164Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
         "cpcalendars.effectivelifeministry.org",
@@ -177,7 +177,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-08-30T17:41:43.885Z",
-      "subFailAt": "2026-08-30T18:26:43.952Z",
+      "subFailAt": "2026-08-30T18:37:01.676Z",
       "subdomains": [
         "cpanel.gmwghana.com",
         "cpcalendars.gmwghana.com",
@@ -201,7 +201,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
       "domainOkAt": "2026-08-30T17:41:43.902Z",
-      "subFailAt": "2026-08-30T18:26:01.553Z",
+      "subFailAt": "2026-08-30T18:37:46.165Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
         "cpcalendars.opportunitytoexcel.com",
@@ -239,7 +239,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
       "domainOkAt": "2026-08-30T17:41:43.901Z",
-      "subFailAt": "2026-08-30T18:26:01.547Z",
+      "subFailAt": "2026-08-30T18:37:46.165Z",
       "subdomains": [
         "edu.nestechnology.com",
         "nestechnology.com",
@@ -259,7 +259,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-08-30T17:41:44.020Z",
-      "subFailAt": "2026-08-30T18:26:01.553Z",
+      "subFailAt": "2026-08-30T18:37:46.165Z",
       "subdomains": [
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
@@ -380,7 +380,7 @@
         "www.test.impactcapitalmfi.com"
       ],
       "subOkAt": "2026-08-27T17:10:22.140Z",
-      "subFailAt": "2026-08-30T18:26:46.037Z",
+      "subFailAt": "2026-08-30T18:37:46.165Z",
       "domainFailAt": "2026-08-25T17:11:28.348Z"
     }
   }
