@@ -176,7 +176,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
-      "domainOkAt": "2026-08-29T13:48:43.785Z",
+      "domainOkAt": "2026-08-30T13:06:40.505Z",
       "subFailAt": "2026-08-27T16:51:50.713Z",
       "subdomains": [
         "cpanel.gmwghana.com",
@@ -253,12 +253,12 @@
       "domain": {
         "expiration": "2027-02-17T22:02:57Z",
         "registrar": "Realtime Register BV t/a Axidomains",
-        "daysLeft": 172,
+        "daysLeft": 171,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
-      "domainOkAt": "2026-08-29T13:48:43.881Z",
+      "domainOkAt": "2026-08-30T13:06:41.121Z",
       "subFailAt": "2026-08-27T17:26:20.283Z",
       "subdomains": [
         "amorefoundation.org.uk",
