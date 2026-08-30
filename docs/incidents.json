@@ -1,5 +1,23 @@
 [
   {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-08-13T00:02:00.478Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-08-13T00:03:21.834Z",
+    "downMs": 81356
+  },
+  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "down",
@@ -3724,20 +3742,5 @@
     "url": "https://impactcapitalmfi.com",
     "type": "up",
     "at": "2026-08-29T23:51:57.381Z"
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-30T13:06:41.122Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-08-30T17:23:08.640Z",
-    "downMs": 15387518
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-30T17:23:08.640Z"
   }
 ]
