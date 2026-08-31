@@ -4,12 +4,12 @@
       "domain": {
         "expiration": "2027-02-13T08:16:33Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 166,
+        "daysLeft": 165,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.632Z",
       "subCheckedAt": "2026-07-23T10:48:59.216Z",
-      "domainOkAt": "2026-08-31T07:32:39.811Z",
+      "domainOkAt": "2026-08-31T19:36:25.742Z",
       "subFailAt": "2026-08-30T18:02:01.411Z",
       "subdomains": [
         "aaands.skinopro.com",
@@ -145,12 +145,12 @@
       "domain": {
         "expiration": "2027-01-04T18:52:15.006Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 126,
+        "daysLeft": 125,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
-      "domainOkAt": "2026-08-31T07:32:40.508Z",
+      "domainOkAt": "2026-08-31T19:36:30.495Z",
       "subFailAt": "2026-08-30T18:42:46.266Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
@@ -171,12 +171,12 @@
       "domain": {
         "expiration": "2026-09-06T13:30:20Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 6,
+        "daysLeft": 5,
         "warn": true
       },
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
-      "domainOkAt": "2026-08-31T07:32:39.823Z",
+      "domainOkAt": "2026-08-31T19:36:25.688Z",
       "subFailAt": "2026-08-30T18:38:01.789Z",
       "subdomains": [
         "cpanel.gmwghana.com",
@@ -238,7 +238,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-08-31T07:32:39.820Z",
+      "domainOkAt": "2026-08-31T19:36:25.379Z",
       "subFailAt": "2026-08-30T18:48:01.836Z",
       "subdomains": [
         "edu.nestechnology.com",
