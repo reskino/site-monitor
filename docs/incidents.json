@@ -1,14 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-13T00:02:00.478Z",
-    "error": "Connection reset",
-    "resolvedAt": "2026-08-13T00:03:21.834Z",
-    "downMs": 81356
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "up",
@@ -3730,5 +3721,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-09-02T15:59:25.015Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-09-02T22:03:46.527Z",
+    "error": "Too many redirects"
   }
 ]
