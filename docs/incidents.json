@@ -1,14 +1,5 @@
 [
   {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-08-13T00:02:00.478Z",
-    "error": "Connection reset",
-    "resolvedAt": "2026-08-13T00:03:21.834Z",
-    "downMs": 81356
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
@@ -3730,6 +3721,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-09-02T15:36:43.330Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-09-02T15:59:25.015Z",
+    "downMs": 1361685
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-09-02T15:59:25.015Z"
   }
 ]
