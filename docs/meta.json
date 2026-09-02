@@ -52,7 +52,7 @@
         "www.test.skinopro.com",
         "www.try.skinopro.com"
       ],
-      "subOkAt": "2026-08-30T18:03:43.487Z",
+      "subOkAt": "2026-09-02T20:21:43.586Z",
       "domainFailAt": "2026-08-31T19:33:14.981Z"
     },
     "ainaghventures.com": {
@@ -69,7 +69,7 @@
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-08-30T18:23:32.111Z",
+      "subOkAt": "2026-09-02T20:21:41.523Z",
       "domainFailAt": "2026-08-25T17:11:28.344Z"
     },
     "aaandsghana.com": {
@@ -164,7 +164,7 @@
         "www.effectivelifeministry.org",
         "www.ngo.effectivelifeministry.org"
       ],
-      "subOkAt": "2026-08-30T18:43:44.086Z",
+      "subOkAt": "2026-09-02T20:21:44.229Z",
       "domainFailAt": "2026-08-31T19:33:22.054Z"
     },
     "gmwghana.com": {
@@ -188,7 +188,7 @@
         "webmail.gmwghana.com",
         "www.gmwghana.com"
       ],
-      "subOkAt": "2026-08-30T18:39:35.924Z",
+      "subOkAt": "2026-09-02T20:21:43.473Z",
       "domainFailAt": "2026-08-31T19:33:13.705Z"
     },
     "opportunitytoexcel.com": {
@@ -226,7 +226,7 @@
         "www.vc.opportunitytoexcel.com",
         "www.verify.opportunitytoexcel.com"
       ],
-      "subOkAt": "2026-08-30T18:49:20.841Z",
+      "subOkAt": "2026-09-02T20:21:53.753Z",
       "domainFailAt": "2026-08-25T17:11:28.346Z"
     },
     "nestechnology.com": {
@@ -246,7 +246,7 @@
         "www.edu.nestechnology.com",
         "www.nestechnology.com"
       ],
-      "subOkAt": "2026-08-30T18:49:31.806Z",
+      "subOkAt": "2026-09-02T20:21:45.435Z",
       "domainFailAt": "2026-08-31T19:33:13.732Z"
     },
     "amorefoundation.org.uk": {
@@ -264,7 +264,7 @@
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
       ],
-      "subOkAt": "2026-08-30T18:46:37.085Z",
+      "subOkAt": "2026-09-02T20:21:44.450Z",
       "domainFailAt": "2026-08-26T11:13:22.564Z"
     },
     "uhuruforall.com": {
@@ -379,7 +379,7 @@
         "www.impactcapitalmfi.com",
         "www.test.impactcapitalmfi.com"
       ],
-      "subOkAt": "2026-08-30T18:39:36.248Z",
+      "subOkAt": "2026-09-02T20:21:44.415Z",
       "subFailAt": "2026-09-02T20:20:00.309Z",
       "domainFailAt": "2026-09-01T10:02:45.532Z"
     }
