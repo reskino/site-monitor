@@ -59,12 +59,12 @@
       "domain": {
         "expiration": "2027-06-13T19:29:21Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 285,
+        "daysLeft": 284,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
-      "domainOkAt": "2026-09-01T10:02:45.837Z",
+      "domainOkAt": "2026-09-02T01:25:47.818Z",
       "subFailAt": "2026-08-30T18:22:46.061Z",
       "subdomains": [
         "ainaghventures.com"
@@ -100,12 +100,12 @@
       "domain": {
         "expiration": "2027-05-06T13:21:53Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 247,
+        "daysLeft": 246,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
-      "domainOkAt": "2026-09-01T10:02:45.793Z",
+      "domainOkAt": "2026-09-02T01:25:47.836Z",
       "subFailAt": "2026-08-30T18:48:13.512Z",
       "subdomains": [
         "amzendock.com",
@@ -306,12 +306,12 @@
       "domain": {
         "expiration": "2027-05-16T10:49:39Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 257,
+        "daysLeft": 256,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
-      "domainOkAt": "2026-09-01T10:02:45.933Z",
+      "domainOkAt": "2026-09-02T01:25:47.772Z",
       "subFailAt": "2026-08-30T18:10:01.646Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
