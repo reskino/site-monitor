@@ -1,11 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "up",
-    "at": "2026-08-13T00:03:21.834Z"
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "up",
@@ -3730,5 +3724,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-09-02T22:46:40.402Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-09-03T01:10:19.385Z",
+    "error": "Too many redirects"
   }
 ]
