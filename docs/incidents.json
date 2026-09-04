@@ -1,14 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-08-15T04:08:19.000Z",
-    "error": "UND_ERR_SOCKET",
-    "resolvedAt": "2026-08-15T04:10:44.413Z",
-    "downMs": 145413
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
@@ -3748,5 +3739,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-09-04T09:03:52.578Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-09-04T09:42:59.271Z",
+    "error": "Too many redirects"
   }
 ]
