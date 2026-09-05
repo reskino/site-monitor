@@ -1,23 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-15T04:08:19.000Z",
-    "error": "UND_ERR_SOCKET",
-    "resolvedAt": "2026-08-15T04:16:50.937Z",
-    "downMs": 511937
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-15T04:08:19.000Z",
-    "error": "UND_ERR_SOCKET",
-    "resolvedAt": "2026-08-15T04:18:56.403Z",
-    "downMs": 637403
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
@@ -3745,5 +3727,19 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-09-04T09:58:52.749Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-09-05T05:12:59.914Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-09-05T05:12:59.914Z",
+    "error": "No response within 45s"
   }
 ]
