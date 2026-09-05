@@ -2,30 +2,6 @@
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-08-15T04:10:44.413Z"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-08-15T04:10:44.413Z"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-15T04:16:50.937Z"
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-15T04:18:56.403Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-08-15T08:37:24.624Z",
     "error": "No response within 45s",
@@ -3733,13 +3709,43 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-09-05T05:12:59.914Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-09-05T09:08:11.415Z",
+    "downMs": 14111501
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-09-05T05:12:59.914Z",
+    "error": "No response within 45s",
+    "resolvedAt": "2026-09-05T09:08:11.415Z",
+    "downMs": 14111501
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-09-05T09:08:11.415Z",
+    "error": "Too many redirects"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-09-05T09:08:11.415Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-09-05T09:08:11.415Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-09-05T09:08:11.415Z"
   }
 ]
