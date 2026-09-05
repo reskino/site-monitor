@@ -1,20 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-18T00:03:23.544Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-18T00:05:19.469Z",
-    "downMs": 115925
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-08-18T00:05:19.469Z"
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "up",
@@ -3721,13 +3706,29 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-09-05T13:05:30.889Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-09-05T13:06:36.491Z",
+    "downMs": 65602
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-09-05T13:05:30.889Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-09-05T13:06:36.491Z",
+    "downMs": 65602
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-09-05T13:06:36.491Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-09-05T13:06:36.491Z"
   }
 ]
