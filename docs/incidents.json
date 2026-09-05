@@ -1,23 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-18T00:03:23.544Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-18T00:05:19.469Z",
-    "downMs": 115925
-  },
-  {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-08-18T00:03:23.544Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-18T00:05:19.469Z",
-    "downMs": 115925
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
@@ -3733,5 +3715,19 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-09-05T10:21:14.908Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-09-05T13:05:30.889Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-09-05T13:05:30.889Z",
+    "error": "No response within 45s"
   }
 ]
