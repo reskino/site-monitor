@@ -1,11 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-08-18T00:05:19.469Z"
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "up",
@@ -3736,5 +3730,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-09-07T09:29:49.824Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-07T20:35:32.602Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
