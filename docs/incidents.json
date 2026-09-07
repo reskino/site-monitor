@@ -1,11 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-08-18T00:05:19.469Z"
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "up",
@@ -3733,6 +3727,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-09-07T09:27:42.059Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-09-07T09:29:49.824Z",
+    "downMs": 127765
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-09-07T09:29:49.824Z"
   }
 ]
