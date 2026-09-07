@@ -1,113 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-08-19T12:07:41.292Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-08-19T12:10:18.612Z",
-    "downMs": 157320
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-08-19T12:10:18.612Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-19T14:08:58.362Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-08-19T14:09:51.886Z",
-    "downMs": 53524
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-08-19T14:09:51.886Z"
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-08-19T19:12:35.580Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-08-19T19:13:06.791Z",
-    "downMs": 31211
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-08-19T19:12:35.580Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-08-19T19:13:06.791Z",
-    "downMs": 31211
-  },
-  {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-08-19T19:12:35.580Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-08-19T19:13:06.791Z",
-    "downMs": 31211
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "up",
-    "at": "2026-08-19T19:13:06.791Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-08-19T19:13:06.791Z"
-  },
-  {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "up",
-    "at": "2026-08-19T19:13:06.791Z"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-08-20T09:05:53.326Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-08-20T09:06:36.565Z",
-    "downMs": 43239
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-08-20T09:06:36.565Z"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-08-20T13:11:19.086Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-08-20T13:13:24.906Z",
-    "downMs": 125820
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-20T13:11:19.086Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-08-20T13:13:24.906Z",
-    "downMs": 125820
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
@@ -3748,5 +3640,103 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-09-07T20:39:17.491Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-09-07T20:41:52.960Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
