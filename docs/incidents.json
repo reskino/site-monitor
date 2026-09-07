@@ -1,29 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "up",
-    "at": "2026-08-20T22:05:09.896Z"
-  },
-  {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-08-20T22:05:09.896Z"
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "up",
-    "at": "2026-08-20T22:05:09.896Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-08-20T22:05:09.896Z"
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "up",
@@ -3706,27 +3682,59 @@
     "url": "https://ainaghventures.com",
     "type": "down",
     "at": "2026-09-07T23:20:21.308Z",
-    "error": "SSL certificate name mismatch"
+    "error": "SSL certificate name mismatch",
+    "resolvedAt": "2026-09-07T23:21:20.125Z",
+    "downMs": 58817
   },
   {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
     "at": "2026-09-07T23:20:21.308Z",
-    "error": "SSL certificate name mismatch"
+    "error": "SSL certificate name mismatch",
+    "resolvedAt": "2026-09-07T23:21:20.125Z",
+    "downMs": 58817
   },
   {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "down",
     "at": "2026-09-07T23:20:21.308Z",
-    "error": "SSL certificate name mismatch"
+    "error": "SSL certificate name mismatch",
+    "resolvedAt": "2026-09-07T23:21:20.125Z",
+    "downMs": 58817
   },
   {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-09-07T23:20:21.308Z",
-    "error": "SSL certificate name mismatch"
+    "error": "SSL certificate name mismatch",
+    "resolvedAt": "2026-09-07T23:21:20.125Z",
+    "downMs": 58817
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-09-07T23:21:20.125Z"
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "up",
+    "at": "2026-09-07T23:21:20.125Z"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-09-07T23:21:20.125Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-09-07T23:21:20.125Z"
   }
 ]
