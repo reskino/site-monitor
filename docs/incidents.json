@@ -1,32 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-08-20T13:13:24.906Z"
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-20T13:13:24.906Z"
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-08-20T19:10:08.230Z",
-    "error": "HTTP 503",
-    "resolvedAt": "2026-08-20T19:15:07.764Z",
-    "downMs": 299534
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-08-20T19:15:07.764Z"
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
@@ -3646,7 +3619,9 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-09-07T20:41:52.960Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-09-07T20:43:44.143Z",
+    "downMs": 111183
   },
   {
     "name": "ainaghventures.com",
@@ -3667,7 +3642,9 @@
     "url": "https://amzendock.com",
     "type": "down",
     "at": "2026-09-07T20:41:52.960Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-09-07T20:43:44.143Z",
+    "downMs": 111183
   },
   {
     "name": "effectivelifeministry.org",
@@ -3681,7 +3658,9 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-09-07T20:41:52.960Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-09-07T20:43:44.143Z",
+    "downMs": 111183
   },
   {
     "name": "opportunitytoexcel.com",
@@ -3695,7 +3674,9 @@
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-09-07T20:41:52.960Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-09-07T20:43:44.143Z",
+    "downMs": 111183
   },
   {
     "name": "uhuruforall.com",
@@ -3738,5 +3719,29 @@
     "type": "down",
     "at": "2026-09-07T20:41:52.960Z",
     "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-09-07T20:43:44.143Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-09-07T20:43:44.143Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-09-07T20:43:44.143Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-09-07T20:43:44.143Z"
   }
 ]
