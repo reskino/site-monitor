@@ -1,11 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-08-20T22:31:09.227Z"
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "up",
@@ -3739,6 +3733,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-09-08T13:10:19.725Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-09-08T13:24:07.383Z",
+    "downMs": 827658
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-09-08T13:24:07.383Z"
   }
 ]
