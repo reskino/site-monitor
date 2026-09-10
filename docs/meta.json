@@ -59,12 +59,12 @@
       "domain": {
         "expiration": "2027-06-13T19:29:21Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 276,
+        "daysLeft": 275,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
-      "domainOkAt": "2026-09-10T08:16:43.675Z",
+      "domainOkAt": "2026-09-10T20:16:48.048Z",
       "subFailAt": "2026-09-08T20:24:10.683Z",
       "subdomains": [
         "ainaghventures.com"
@@ -139,18 +139,18 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-09-08T20:22:27.994Z",
-      "domainFailAt": "2026-09-10T20:15:48.144Z"
+      "domainFailAt": "2026-09-10T20:26:48.146Z"
     },
     "effectivelifeministry.org": {
       "domain": {
         "expiration": "2027-01-04T18:52:15.006Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 116,
+        "daysLeft": 115,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
-      "domainOkAt": "2026-09-10T08:14:44.747Z",
+      "domainOkAt": "2026-09-10T20:16:51.651Z",
       "subFailAt": "2026-09-08T20:24:11.678Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
@@ -258,7 +258,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
-      "domainOkAt": "2026-09-10T08:16:44.014Z",
+      "domainOkAt": "2026-09-10T20:16:48.451Z",
       "subFailAt": "2026-09-05T20:25:04.886Z",
       "subdomains": [
         "amorefoundation.org.uk",
@@ -340,7 +340,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-09-10T08:16:44.010Z",
+      "domainOkAt": "2026-09-10T20:16:48.244Z",
       "subFailAt": "2026-09-05T20:21:04.880Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
