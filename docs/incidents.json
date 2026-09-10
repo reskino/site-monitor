@@ -1,14 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "down",
-    "at": "2026-08-24T18:29:43.986Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-24T18:35:46.708Z",
-    "downMs": 362722
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
@@ -3739,5 +3730,12 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-09-09T07:48:37.666Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-10T15:51:31.995Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
