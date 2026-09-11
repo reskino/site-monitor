@@ -1,14 +1,5 @@
 [
   {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-08-24T18:29:43.986Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-24T18:35:46.708Z",
-    "downMs": 362722
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "up",
@@ -3727,6 +3718,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-09-11T16:40:23.562Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-09-11T17:10:54.039Z",
+    "downMs": 1830477
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-09-11T17:10:54.039Z"
   }
 ]
