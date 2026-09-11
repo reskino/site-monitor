@@ -1,14 +1,5 @@
 [
   {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-08-24T18:29:43.986Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-24T18:35:46.708Z",
-    "downMs": 362722
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
@@ -3730,6 +3721,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-09-11T08:09:21.615Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-09-11T08:23:14.120Z",
+    "downMs": 832505
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-09-11T08:23:14.120Z"
   }
 ]
