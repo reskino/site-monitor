@@ -1,11 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-08-24T18:35:46.708Z"
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
@@ -3736,6 +3730,14 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-09-12T20:53:51.130Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-09-12T21:00:16.522Z",
+    "downMs": 385392
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-09-12T21:00:16.522Z"
   }
 ]
