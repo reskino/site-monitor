@@ -1,14 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-08-25T10:49:35.614Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-25T20:00:02.687Z",
-    "downMs": 33027073
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
@@ -3742,5 +3733,12 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-09-12T22:09:13.333Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-12T22:16:54.138Z",
+    "error": "Connection reset"
   }
 ]
