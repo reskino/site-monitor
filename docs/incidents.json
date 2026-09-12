@@ -3740,13 +3740,13 @@
     "type": "down",
     "at": "2026-09-12T21:41:51.714Z",
     "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-12T21:42:26.387Z",
-    "downMs": 34673
+    "resolvedAt": "2026-09-12T21:43:05.953Z",
+    "downMs": 74239
   },
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "up",
-    "at": "2026-09-12T21:42:26.387Z"
+    "at": "2026-09-12T21:43:05.953Z"
   }
 ]
