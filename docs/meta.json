@@ -52,7 +52,7 @@
         "www.test.skinopro.com",
         "www.try.skinopro.com"
       ],
-      "subOkAt": "2026-09-08T20:26:43.630Z",
+      "subOkAt": "2026-09-12T02:04:29.303Z",
       "domainFailAt": "2026-08-31T19:33:14.981Z"
     },
     "ainaghventures.com": {
@@ -69,7 +69,7 @@
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-09-08T20:25:14.996Z",
+      "subOkAt": "2026-09-12T02:04:51.385Z",
       "domainFailAt": "2026-09-09T20:14:44.338Z"
     },
     "aaandsghana.com": {
@@ -93,7 +93,7 @@
         "webmail.aaandsghana.com",
         "www.aaandsghana.com"
       ],
-      "subOkAt": "2026-09-08T20:25:17.439Z",
+      "subOkAt": "2026-09-12T02:04:27.533Z",
       "domainFailAt": "2026-08-25T17:11:28.344Z"
     },
     "amzendock.com": {
@@ -121,7 +121,7 @@
         "www.new.amzendock.com",
         "www.uhuru.amzendock.com"
       ],
-      "subOkAt": "2026-09-08T20:22:25.753Z",
+      "subOkAt": "2026-09-12T02:04:27.085Z",
       "domainFailAt": "2026-08-25T17:11:28.345Z"
     },
     "airliv8hernetwork.com": {
@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-09-12T02:02:27.076Z",
-      "domainFailAt": "2026-09-12T02:02:15.251Z"
+      "domainFailAt": "2026-09-12T02:13:19.905Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -164,7 +164,7 @@
         "www.effectivelifeministry.org",
         "www.ngo.effectivelifeministry.org"
       ],
-      "subOkAt": "2026-09-08T20:25:14.966Z",
+      "subOkAt": "2026-09-12T02:04:29.167Z",
       "domainFailAt": "2026-09-10T20:15:58.043Z"
     },
     "gmwghana.com": {
@@ -188,7 +188,7 @@
         "webmail.gmwghana.com",
         "www.gmwghana.com"
       ],
-      "subOkAt": "2026-09-08T20:26:45.126Z",
+      "subOkAt": "2026-09-12T02:04:52.580Z",
       "domainFailAt": "2026-08-31T19:33:13.705Z"
     },
     "opportunitytoexcel.com": {
@@ -246,7 +246,7 @@
         "www.edu.nestechnology.com",
         "www.nestechnology.com"
       ],
-      "subOkAt": "2026-09-08T20:25:15.977Z",
+      "subOkAt": "2026-09-12T02:04:50.197Z",
       "domainFailAt": "2026-08-31T19:33:13.732Z"
     },
     "amorefoundation.org.uk": {
@@ -379,7 +379,7 @@
         "www.impactcapitalmfi.com",
         "www.test.impactcapitalmfi.com"
       ],
-      "subOkAt": "2026-09-08T20:25:17.208Z",
+      "subOkAt": "2026-09-12T02:04:56.381Z",
       "subFailAt": "2026-09-12T02:02:14.995Z",
       "domainFailAt": "2026-09-01T10:02:45.532Z"
     }
