@@ -1,11 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-24T18:35:46.708Z"
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "up",
@@ -3742,5 +3736,12 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-09-12T21:35:31.625Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-12T21:36:43.238Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
