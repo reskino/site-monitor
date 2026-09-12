@@ -1,11 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "up",
-    "at": "2026-08-24T18:35:46.708Z"
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "up",
@@ -3736,5 +3730,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-09-12T17:17:03.837Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-12T20:53:51.130Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
