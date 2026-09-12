@@ -1,11 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-08-24T18:35:46.708Z"
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "up",
@@ -3739,5 +3733,12 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-09-12T21:00:16.522Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-12T21:16:46.989Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
