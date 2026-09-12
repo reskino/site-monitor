@@ -1,5 +1,17 @@
 [
   {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-08-24T18:35:46.708Z"
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-08-24T18:35:46.708Z"
+  },
+  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "up",
@@ -3715,20 +3727,5 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-09-11T17:10:54.039Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-09-11T22:51:01.307Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-09-12T00:45:26.926Z",
-    "downMs": 6865619
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-09-12T00:45:26.926Z"
   }
 ]
