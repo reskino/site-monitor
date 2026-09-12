@@ -1,14 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-25T10:49:35.614Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-25T20:00:02.687Z",
-    "downMs": 33027073
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "down",
@@ -3748,5 +3739,12 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-09-12T21:52:31.053Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-12T21:53:38.239Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
