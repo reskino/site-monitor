@@ -2,12 +2,6 @@
   {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-08-25T07:37:35.464Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-08-25T10:49:35.614Z",
     "error": "Domain not found (DNS)",
@@ -3745,6 +3739,14 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-09-12T21:51:37.285Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-09-12T21:52:31.053Z",
+    "downMs": 53768
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-09-12T21:52:31.053Z"
   }
 ]
