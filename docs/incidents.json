@@ -1,11 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-24T18:35:46.708Z"
-  },
-  {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
@@ -3745,5 +3739,12 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-09-12T21:40:17.247Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-12T21:41:51.714Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
