@@ -1,11 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-08-24T18:35:46.708Z"
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "up",
@@ -3727,5 +3721,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-09-11T17:10:54.039Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-12T02:28:01.964Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
