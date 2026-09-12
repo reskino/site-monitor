@@ -2,15 +2,6 @@
   {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-25T07:08:12.449Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-08-25T07:37:35.464Z",
-    "downMs": 1763015
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-08-25T07:37:35.464Z"
   },
@@ -3748,5 +3739,12 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-09-12T21:43:05.953Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-12T21:51:37.285Z",
+    "error": "Connection reset"
   }
 ]
