@@ -1,14 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-08-25T10:49:35.614Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-25T20:00:02.687Z",
-    "downMs": 33027073
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
@@ -3736,6 +3727,14 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-09-12T22:18:51.189Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-09-12T22:23:31.706Z",
+    "downMs": 280517
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-09-12T22:23:31.706Z"
   }
 ]
