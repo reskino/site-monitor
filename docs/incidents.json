@@ -1,11 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "up",
-    "at": "2026-08-24T18:35:46.708Z"
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "up",
@@ -3727,6 +3721,14 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-09-12T02:28:01.964Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-09-12T02:28:19.797Z",
+    "downMs": 17833
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-09-12T02:28:19.797Z"
   }
 ]
