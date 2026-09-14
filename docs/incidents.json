@@ -1,14 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-08-25T23:05:14.306Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-25T23:09:16.302Z",
-    "downMs": 241996
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3733,6 +3724,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-09-14T16:32:57.143Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-09-14T20:28:40.075Z",
+    "downMs": 14142932
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-09-14T20:28:40.075Z"
   }
 ]
