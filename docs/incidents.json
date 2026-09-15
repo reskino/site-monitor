@@ -1,14 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-08-25T23:05:14.306Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-25T23:09:16.302Z",
-    "downMs": 241996
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "down",
@@ -3736,5 +3727,12 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-09-14T00:59:08.721Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-09-15T01:30:34.938Z",
+    "error": "Too many redirects"
   }
 ]
