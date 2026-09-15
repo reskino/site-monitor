@@ -138,8 +138,8 @@
       "subdomains": [
         "airliv8hernetwork.com"
       ],
-      "subOkAt": "2026-09-12T02:02:27.076Z",
-      "domainFailAt": "2026-09-15T09:27:42.468Z"
+      "subOkAt": "2026-09-15T09:30:08.043Z",
+      "domainFailAt": "2026-09-15T09:38:40.931Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -151,7 +151,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
       "domainOkAt": "2026-09-15T09:27:42.442Z",
-      "subFailAt": "2026-09-15T09:28:27.456Z",
+      "subFailAt": "2026-09-15T09:30:46.140Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
         "cpcalendars.effectivelifeministry.org",
@@ -164,7 +164,7 @@
         "www.effectivelifeministry.org",
         "www.ngo.effectivelifeministry.org"
       ],
-      "subOkAt": "2026-09-12T02:04:29.167Z",
+      "subOkAt": "2026-09-15T09:31:54.401Z",
       "domainFailAt": "2026-09-10T20:15:58.043Z"
     },
     "gmwghana.com": {
@@ -188,7 +188,7 @@
         "webmail.gmwghana.com",
         "www.gmwghana.com"
       ],
-      "subOkAt": "2026-09-12T02:04:52.580Z",
+      "subOkAt": "2026-09-15T09:29:43.910Z",
       "domainFailAt": "2026-08-31T19:33:13.705Z"
     },
     "opportunitytoexcel.com": {
@@ -259,12 +259,12 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-09-15T09:27:43.045Z",
-      "subFailAt": "2026-09-15T09:27:43.620Z",
+      "subFailAt": "2026-09-15T09:30:46.774Z",
       "subdomains": [
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
       ],
-      "subOkAt": "2026-09-12T02:02:16.510Z",
+      "subOkAt": "2026-09-15T09:31:55.060Z",
       "domainFailAt": "2026-09-09T20:14:43.509Z"
     },
     "uhuruforall.com": {
@@ -277,7 +277,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.021Z",
       "subCheckedAt": "2026-07-23T10:48:47.547Z",
       "domainOkAt": "2026-09-15T09:27:42.452Z",
-      "subFailAt": "2026-09-15T09:28:27.456Z",
+      "subFailAt": "2026-09-15T09:30:46.139Z",
       "subdomains": [
         "abskitchen.uhuruforall.com",
         "abtest.uhuruforall.com",
@@ -299,7 +299,7 @@
         "www.test.uhuruforall.com",
         "www.uhuruforall.com"
       ],
-      "subOkAt": "2026-09-12T02:02:15.168Z",
+      "subOkAt": "2026-09-15T09:31:54.450Z",
       "domainFailAt": "2026-08-25T17:11:28.347Z"
     },
     "jassmattazz.com": {
@@ -312,7 +312,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
       "domainOkAt": "2026-09-15T09:27:42.469Z",
-      "subFailAt": "2026-09-15T09:28:27.471Z",
+      "subFailAt": "2026-09-15T09:30:46.159Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
         "jassmattazz.com",
@@ -328,7 +328,7 @@
         "www.otef.jassmattazz.com",
         "www.uhuru.jassmattazz.com"
       ],
-      "subOkAt": "2026-09-12T02:02:15.670Z",
+      "subOkAt": "2026-09-15T09:31:55.188Z",
       "domainFailAt": "2026-08-25T17:11:28.347Z"
     },
     "lansor.co.uk": {
@@ -362,10 +362,10 @@
       "domain": {
         "expiration": "2031-02-03T16:45:16Z",
         "registrar": "GoDaddy.com, LLC",
-        "daysLeft": 1603,
+        "daysLeft": 1602,
         "warn": false
       },
-      "domainOkAt": "2026-09-14T13:34:06.767Z",
+      "domainOkAt": "2026-09-15T09:29:41.546Z",
       "subdomains": [
         "autodiscover.impactcapitalmfi.com",
         "cpanel.impactcapitalmfi.com",
