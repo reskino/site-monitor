@@ -1,14 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-08-25T23:05:14.306Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-25T23:09:16.302Z",
-    "downMs": 241996
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3729,10 +3720,17 @@
     "at": "2026-09-14T00:59:08.721Z"
   },
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
     "type": "down",
-    "at": "2026-09-16T00:34:35.848Z",
-    "error": "Too many redirects"
+    "at": "2026-09-16T08:19:22.078Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-09-16T08:19:22.078Z",
+    "error": "No response within 45s"
   }
 ]
