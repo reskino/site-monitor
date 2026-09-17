@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-09-15T09:30:08.043Z",
-      "domainFailAt": "2026-09-17T09:29:43.705Z"
+      "domainFailAt": "2026-09-17T09:40:43.748Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -176,7 +176,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
-      "domainOkAt": "2026-09-16T21:30:11.725Z",
+      "domainOkAt": "2026-09-17T09:30:43.648Z",
       "subFailAt": "2026-09-15T09:28:27.393Z",
       "subdomains": [
         "cpanel.gmwghana.com",
@@ -365,7 +365,7 @@
         "daysLeft": 1600,
         "warn": false
       },
-      "domainOkAt": "2026-09-16T21:31:10.956Z",
+      "domainOkAt": "2026-09-17T09:31:43.631Z",
       "subdomains": [
         "autodiscover.impactcapitalmfi.com",
         "cpanel.impactcapitalmfi.com",
