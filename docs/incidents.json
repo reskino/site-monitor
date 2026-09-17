@@ -1,11 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-08-26T00:14:16.934Z"
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "up",
@@ -3733,5 +3727,12 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-09-17T18:34:15.549Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-09-17T20:25:37.058Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
