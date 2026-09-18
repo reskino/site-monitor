@@ -1,11 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "up",
-    "at": "2026-08-26T00:14:16.934Z"
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "up",
@@ -3736,5 +3730,12 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-09-17T20:26:59.032Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-09-18T10:10:35.451Z",
+    "error": "HTTP 503"
   }
 ]
