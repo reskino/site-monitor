@@ -139,18 +139,18 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-09-18T09:30:41.533Z",
-      "domainFailAt": "2026-09-19T21:31:49.590Z"
+      "domainFailAt": "2026-09-19T23:28:24.131Z"
     },
     "effectivelifeministry.org": {
       "domain": {
         "expiration": "2027-01-04T18:52:15.006Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 107,
+        "daysLeft": 106,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
-      "domainOkAt": "2026-09-19T09:32:49.190Z",
+      "domainOkAt": "2026-09-19T23:28:24.507Z",
       "subFailAt": "2026-09-15T09:30:46.140Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
@@ -171,12 +171,12 @@
       "domain": {
         "expiration": "2027-09-06T13:30:20Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 352,
+        "daysLeft": 351,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
-      "domainOkAt": "2026-09-19T09:32:48.323Z",
+      "domainOkAt": "2026-09-19T23:28:24.086Z",
       "subFailAt": "2026-09-15T09:28:27.393Z",
       "subdomains": [
         "cpanel.gmwghana.com",
@@ -233,12 +233,12 @@
       "domain": {
         "expiration": "2027-07-07T22:20:27Z",
         "registrar": "HOSTINGER operations, UAB",
-        "daysLeft": 291,
+        "daysLeft": 290,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-09-19T09:32:48.311Z",
+      "domainOkAt": "2026-09-19T23:28:24.088Z",
       "subFailAt": "2026-09-12T02:02:14.996Z",
       "subdomains": [
         "edu.nestechnology.com",
@@ -362,10 +362,10 @@
       "domain": {
         "expiration": "2031-02-03T16:45:16Z",
         "registrar": "GoDaddy.com, LLC",
-        "daysLeft": 1598,
+        "daysLeft": 1597,
         "warn": false
       },
-      "domainOkAt": "2026-09-19T09:33:47.714Z",
+      "domainOkAt": "2026-09-19T23:28:24.089Z",
       "subdomains": [
         "autodiscover.impactcapitalmfi.com",
         "cpanel.impactcapitalmfi.com",

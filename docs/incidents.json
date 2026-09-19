@@ -1,11 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-08-26T00:14:16.934Z"
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "up",
@@ -3742,5 +3736,12 @@
     "url": "https://amorefoundation.org.uk",
     "type": "up",
     "at": "2026-09-18T13:49:36.887Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-09-19T23:28:24.507Z",
+    "error": "Too many redirects"
   }
 ]
