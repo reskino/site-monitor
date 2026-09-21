@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-09-21T09:52:08.932Z",
-      "domainFailAt": "2026-09-21T16:18:58.090Z"
+      "domainFailAt": "2026-09-21T16:26:52.042Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -382,6 +382,17 @@
       "subOkAt": "2026-09-21T09:52:06.296Z",
       "subFailAt": "2026-09-12T02:02:14.995Z",
       "domainFailAt": "2026-09-15T09:27:41.992Z"
+    },
+    "mapleleafhlogistics.com": {
+      "domain": {
+        "expiration": "2027-09-15T12:44:58Z",
+        "registrar": "Global Domain Group LLC",
+        "daysLeft": 358,
+        "warn": false
+      },
+      "domainOkAt": "2026-09-21T16:26:52.015Z",
+      "subdomains": [],
+      "subOkAt": "2026-09-21T16:27:05.146Z"
     }
   }
 }
