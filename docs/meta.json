@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-09-21T09:52:08.932Z",
-      "domainFailAt": "2026-09-22T21:15:36.423Z"
+      "domainFailAt": "2026-09-22T21:26:36.915Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -387,10 +387,10 @@
       "domain": {
         "expiration": "2027-09-15T12:44:58Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 358,
+        "daysLeft": 357,
         "warn": false
       },
-      "domainOkAt": "2026-09-22T09:21:19.701Z",
+      "domainOkAt": "2026-09-22T21:21:36.668Z",
       "subdomains": [],
       "subOkAt": "2026-09-21T16:28:17.555Z"
     }
