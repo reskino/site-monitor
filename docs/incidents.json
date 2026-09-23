@@ -1,11 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-08-26T03:34:19.798Z"
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "up",
@@ -3739,5 +3733,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-09-23T08:19:18.264Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-09-23T10:08:32.170Z",
+    "error": "No response within 45s"
   }
 ]
