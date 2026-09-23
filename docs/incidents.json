@@ -1,11 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-08-26T03:34:19.798Z"
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
@@ -3721,7 +3715,9 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-09-23T08:06:11.435Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-09-23T08:19:18.264Z",
+    "downMs": 786829
   },
   {
     "name": "ainaghventures.com",
@@ -3737,5 +3733,11 @@
     "url": "https://ainaghventures.com",
     "type": "up",
     "at": "2026-09-23T08:09:22.262Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-09-23T08:19:18.264Z"
   }
 ]
