@@ -1,11 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-08-27T09:58:16.236Z"
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
@@ -3732,10 +3726,18 @@
     "at": "2026-09-23T14:02:22.205Z"
   },
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
     "type": "down",
-    "at": "2026-09-23T17:00:42.418Z",
-    "error": "Too many redirects"
+    "at": "2026-09-23T18:05:39.892Z",
+    "error": "Connection reset",
+    "resolvedAt": "2026-09-23T18:10:29.164Z",
+    "downMs": 289272
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-09-23T18:10:29.164Z"
   }
 ]
