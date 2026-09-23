@@ -1,11 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "up",
-    "at": "2026-08-27T09:58:16.236Z"
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "up",
@@ -3736,5 +3730,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-09-23T14:02:22.205Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-09-23T17:00:42.418Z",
+    "error": "Too many redirects"
   }
 ]
