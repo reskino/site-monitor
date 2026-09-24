@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-09-21T09:52:08.932Z",
-      "domainFailAt": "2026-09-24T09:14:39.267Z"
+      "domainFailAt": "2026-09-24T09:25:39.367Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -390,7 +390,7 @@
         "daysLeft": 356,
         "warn": false
       },
-      "domainOkAt": "2026-09-23T21:22:38.943Z",
+      "domainOkAt": "2026-09-24T09:23:39.369Z",
       "subdomains": [],
       "subOkAt": "2026-09-21T16:28:17.555Z"
     }
