@@ -1,14 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "down",
-    "at": "2026-08-28T07:36:05.014Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-08-28T07:37:19.156Z",
-    "downMs": 74142
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
@@ -3526,7 +3517,9 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-09-24T12:15:00.560Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-09-24T17:26:46.723Z",
+    "downMs": 18706163
   },
   {
     "name": "ainaghventures.com",
@@ -3737,5 +3730,11 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-09-24T16:47:33.872Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-09-24T17:26:46.723Z"
   }
 ]
