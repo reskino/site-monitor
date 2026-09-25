@@ -1,14 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-08-28T07:36:05.014Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-08-28T07:37:19.156Z",
-    "downMs": 74142
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "down",
@@ -3730,6 +3721,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-09-25T00:32:54.599Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-09-25T05:26:28.019Z",
+    "downMs": 17613420
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-09-25T05:26:28.019Z"
   }
 ]
