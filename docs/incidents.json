@@ -1,14 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-08-29T17:06:54.867Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-29T17:32:57.536Z",
-    "downMs": 1562669
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "down",
@@ -3748,5 +3739,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-09-25T15:27:30.645Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-09-25T22:26:18.536Z",
+    "error": "Too many redirects"
   }
 ]
