@@ -3722,13 +3722,13 @@
     "type": "down",
     "at": "2026-09-25T00:32:54.599Z",
     "error": "Too many redirects",
-    "resolvedAt": "2026-09-25T05:26:28.019Z",
-    "downMs": 17613420
+    "resolvedAt": "2026-09-25T07:46:25.068Z",
+    "downMs": 26010469
   },
   {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "up",
-    "at": "2026-09-25T05:26:28.019Z"
+    "at": "2026-09-25T07:46:25.068Z"
   }
 ]
