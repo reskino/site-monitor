@@ -1,11 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "up",
-    "at": "2026-08-29T23:44:26.253Z"
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "up",
@@ -3604,7 +3598,9 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-09-27T18:38:29.637Z",
+    "downMs": 10301643
   },
   {
     "name": "jassmattazz.com",
@@ -3743,5 +3739,11 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-09-27T18:37:47.845Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-09-27T18:38:29.637Z"
   }
 ]
