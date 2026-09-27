@@ -1,14 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-08-29T17:06:54.867Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-08-29T17:32:57.536Z",
-    "downMs": 1562669
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
@@ -3736,6 +3727,14 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-09-27T13:16:01.064Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-09-27T13:18:05.841Z",
+    "downMs": 124777
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-09-27T13:18:05.841Z"
   }
 ]
