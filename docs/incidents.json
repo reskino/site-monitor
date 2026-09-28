@@ -1,14 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-09-04T07:48:19.734Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-04T08:00:38.333Z",
-    "downMs": 738599
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3655,7 +3646,9 @@
     "url": "https://impactcapitalmfi.com",
     "type": "down",
     "at": "2026-09-28T15:14:30.513Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-09-28T15:38:23.695Z",
+    "downMs": 1433182
   },
   {
     "name": "IT Disposal",
@@ -3734,5 +3727,11 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-09-28T15:25:27.074Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "up",
+    "at": "2026-09-28T15:38:23.695Z"
   }
 ]
