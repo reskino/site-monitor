@@ -1,11 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "up",
-    "at": "2026-08-29T23:50:08.301Z"
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "up",
@@ -3742,6 +3736,14 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-09-28T08:56:50.582Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-09-28T09:00:37.506Z",
+    "downMs": 226924
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-09-28T09:00:37.506Z"
   }
 ]
