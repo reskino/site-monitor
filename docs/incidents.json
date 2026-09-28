@@ -1,11 +1,5 @@
 [
   {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "up",
-    "at": "2026-08-29T23:51:57.381Z"
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "down",
@@ -3745,6 +3739,13 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-09-28T10:35:51.598Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-09-28T10:38:51.475Z",
     "error": "No response within 45s"
   }
 ]
