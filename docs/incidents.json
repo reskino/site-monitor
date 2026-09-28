@@ -1,14 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-09-04T07:48:19.734Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-04T08:00:38.333Z",
-    "downMs": 738599
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
@@ -3737,5 +3728,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-09-28T15:16:35.608Z"
+  },
+  {
+    "name": "Maple Leaf logistics",
+    "url": "https://mapleleafhlogistics.com/",
+    "type": "down",
+    "at": "2026-09-28T15:23:33.719Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
