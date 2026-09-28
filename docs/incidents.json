@@ -1,83 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-01T21:02:40.138Z"
-  },
-  {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "up",
-    "at": "2026-09-01T21:02:40.138Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-09-02T15:36:43.330Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-09-02T15:59:25.015Z",
-    "downMs": 1361685
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-09-02T15:59:25.015Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-09-02T22:03:46.527Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-09-02T22:46:40.402Z",
-    "downMs": 2573875
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-09-02T22:46:40.402Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-09-04T07:48:19.734Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-04T08:00:38.333Z",
-    "downMs": 738599
-  },
-  {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-09-04T07:48:19.734Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-04T08:00:38.333Z",
-    "downMs": 738599
-  },
-  {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "down",
-    "at": "2026-09-04T07:48:19.734Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-04T08:00:38.333Z",
-    "downMs": 738599
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-09-04T07:48:19.734Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-04T08:00:38.333Z",
-    "downMs": 738599
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3745,5 +3667,75 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-09-28T13:57:42.125Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-09-28T14:32:20.891Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "down",
+    "at": "2026-09-28T14:32:20.891Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-09-28T14:32:20.891Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-09-28T14:32:20.891Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-09-28T14:32:20.891Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-09-28T14:32:20.891Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "down",
+    "at": "2026-09-28T14:32:20.891Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-09-28T14:32:20.891Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-09-28T14:32:20.891Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "Maple Leaf logistics",
+    "url": "https://mapleleafhlogistics.com/",
+    "type": "down",
+    "at": "2026-09-28T14:32:20.891Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
