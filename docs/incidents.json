@@ -1,14 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-08-29T23:49:43.643Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-08-29T23:50:08.301Z",
-    "downMs": 24658
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
@@ -3748,5 +3739,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-09-28T08:43:02.038Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-09-28T08:50:50.742Z",
+    "error": "No response within 45s"
   }
 ]
