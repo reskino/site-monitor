@@ -1,14 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-09-01T21:02:20.963Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-01T21:02:40.138Z",
-    "downMs": 19175
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
@@ -3746,6 +3737,14 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-09-28T10:38:51.475Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-09-28T10:41:52.062Z",
+    "downMs": 180587
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-09-28T10:41:52.062Z"
   }
 ]
