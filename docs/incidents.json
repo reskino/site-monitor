@@ -1,29 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-09-05T05:48:48.831Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-05T05:49:15.817Z",
-    "downMs": 26986
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-09-05T05:48:48.831Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-05T05:49:15.817Z",
-    "downMs": 26986
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-09-05T05:49:15.817Z"
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "up",
@@ -3730,5 +3706,26 @@
     "url": "https://impactcapitalmfi.com",
     "type": "up",
     "at": "2026-09-29T00:23:45.645Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-09-29T00:42:52.644Z",
+    "error": "DNS lookup failed"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-09-29T00:42:52.644Z",
+    "error": "DNS lookup failed"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-09-29T00:42:52.644Z",
+    "error": "DNS lookup failed"
   }
 ]
