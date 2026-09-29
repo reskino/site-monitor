@@ -1,14 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-09-05T05:48:48.831Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-05T05:49:15.817Z",
-    "downMs": 26986
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "down",
@@ -3733,5 +3724,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-09-28T23:56:43.623Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "down",
+    "at": "2026-09-29T00:20:44.491Z",
+    "error": "DNS lookup failed"
   }
 ]
