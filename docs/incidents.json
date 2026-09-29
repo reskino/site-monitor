@@ -1,14 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-09-07T23:20:21.308Z",
-    "error": "SSL certificate name mismatch",
-    "resolvedAt": "2026-09-07T23:21:20.125Z",
-    "downMs": 58817
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3748,5 +3739,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-09-29T16:44:21.047Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-09-29T19:06:35.462Z",
+    "error": "No response within 45s"
   }
 ]
