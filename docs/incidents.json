@@ -1,17 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "up",
-    "at": "2026-09-05T05:49:15.817Z"
-  },
-  {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-09-05T05:49:15.817Z"
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "up",
@@ -3712,7 +3700,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-09-29T00:42:52.644Z",
-    "error": "DNS lookup failed"
+    "error": "DNS lookup failed",
+    "resolvedAt": "2026-09-29T00:44:49.250Z",
+    "downMs": 116606
   },
   {
     "name": "amorefoundation.org.uk",
@@ -3726,6 +3716,20 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-09-29T00:42:52.644Z",
-    "error": "DNS lookup failed"
+    "error": "DNS lookup failed",
+    "resolvedAt": "2026-09-29T00:44:49.250Z",
+    "downMs": 116606
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-09-29T00:44:49.250Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-09-29T00:44:49.250Z"
   }
 ]
