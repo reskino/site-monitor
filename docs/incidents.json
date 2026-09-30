@@ -1,23 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "down",
-    "at": "2026-09-07T23:20:21.308Z",
-    "error": "SSL certificate name mismatch",
-    "resolvedAt": "2026-09-07T23:21:20.125Z",
-    "downMs": 58817
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-09-07T23:20:21.308Z",
-    "error": "SSL certificate name mismatch",
-    "resolvedAt": "2026-09-07T23:21:20.125Z",
-    "downMs": 58817
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "up",
@@ -3745,5 +3727,19 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-09-29T19:07:20.896Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-09-30T00:04:11.616Z",
+    "error": "UND_ERR_SOCKET"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-09-30T00:04:11.616Z",
+    "error": "UND_ERR_SOCKET"
   }
 ]
