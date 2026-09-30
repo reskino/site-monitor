@@ -65,11 +65,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-09-30T08:03:50.589Z",
-      "subFailAt": "2026-09-30T10:43:11.644Z",
+      "subFailAt": "2026-09-30T10:43:52.141Z",
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-09-27T10:21:01.192Z",
+      "subOkAt": "2026-09-30T10:45:01.161Z",
       "domainFailAt": "2026-09-09T20:14:44.338Z"
     },
     "aaandsghana.com": {
@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-09-30T10:22:18.398Z",
-      "domainFailAt": "2026-09-30T10:42:51.749Z"
+      "domainFailAt": "2026-09-30T10:53:51.891Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -312,7 +312,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
       "domainOkAt": "2026-09-30T08:03:50.597Z",
-      "subFailAt": "2026-09-30T10:43:04.608Z",
+      "subFailAt": "2026-09-30T10:43:51.643Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
         "jassmattazz.com",
@@ -328,7 +328,7 @@
         "www.otef.jassmattazz.com",
         "www.uhuru.jassmattazz.com"
       ],
-      "subOkAt": "2026-09-27T10:21:15.739Z",
+      "subOkAt": "2026-09-30T10:45:01.139Z",
       "domainFailAt": "2026-08-25T17:11:28.347Z"
     },
     "lansor.co.uk": {
