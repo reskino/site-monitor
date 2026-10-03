@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-10-03T20:01:52.843Z",
-      "domainFailAt": "2026-10-03T20:01:38.121Z"
+      "domainFailAt": "2026-10-03T20:12:17.649Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -277,7 +277,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.021Z",
       "subCheckedAt": "2026-07-23T10:48:47.547Z",
       "domainOkAt": "2026-10-03T09:27:11.328Z",
-      "subFailAt": "2026-10-03T20:01:37.895Z",
+      "subFailAt": "2026-10-03T20:03:26.354Z",
       "subdomains": [
         "abskitchen.uhuruforall.com",
         "abtest.uhuruforall.com",
@@ -299,7 +299,7 @@
         "www.test.uhuruforall.com",
         "www.uhuruforall.com"
       ],
-      "subOkAt": "2026-09-30T10:24:19.462Z",
+      "subOkAt": "2026-10-03T20:04:59.006Z",
       "domainFailAt": "2026-09-26T14:15:51.295Z"
     },
     "jassmattazz.com": {
@@ -379,8 +379,8 @@
         "www.impactcapitalmfi.com",
         "www.test.impactcapitalmfi.com"
       ],
-      "subOkAt": "2026-09-30T10:41:35.529Z",
-      "subFailAt": "2026-10-03T20:01:37.895Z",
+      "subOkAt": "2026-10-03T20:04:58.070Z",
+      "subFailAt": "2026-10-03T20:03:38.408Z",
       "domainFailAt": "2026-09-15T09:27:41.992Z"
     },
     "mapleleafhlogistics.com": {
