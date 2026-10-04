@@ -1,14 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-09-09T07:48:29.024Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-09T07:48:37.666Z",
-    "downMs": 8642
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "down",
@@ -3748,5 +3739,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-09-30T17:38:39.560Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-10-04T17:24:51.595Z",
+    "error": "Too many redirects"
   }
 ]
