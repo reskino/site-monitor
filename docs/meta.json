@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-10-03T20:01:52.843Z",
-      "domainFailAt": "2026-10-04T21:36:48.470Z"
+      "domainFailAt": "2026-10-04T21:47:48.572Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -395,8 +395,8 @@
         "maple.mapleleafhlogistics.com",
         "www.maple.mapleleafhlogistics.com"
       ],
-      "subOkAt": "2026-10-01T21:34:23.762Z",
-      "subFailAt": "2026-10-04T21:37:32.798Z"
+      "subOkAt": "2026-10-04T21:43:26.616Z",
+      "subFailAt": "2026-10-04T21:41:47.932Z"
     }
   }
 }
