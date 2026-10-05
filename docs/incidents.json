@@ -2,30 +2,6 @@
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-09-12T21:36:43.238Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-12T21:40:17.247Z",
-    "downMs": 214009
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-12T21:40:17.247Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-09-12T21:41:51.714Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-12T21:43:05.953Z",
-    "downMs": 74239
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-09-12T21:43:05.953Z"
   },
@@ -3739,13 +3715,36 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-10-05T15:03:36.598Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-05T15:06:03.726Z",
+    "downMs": 147128
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-05T15:03:36.598Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-05T15:06:03.726Z",
+    "downMs": 147128
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-10-05T15:06:03.726Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-10-05T15:06:03.726Z",
+    "error": "UND_ERR_SOCKET"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-05T15:06:03.726Z"
   }
 ]
