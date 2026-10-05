@@ -1,20 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-09-12T17:16:10.092Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-09-12T17:17:03.837Z",
-    "downMs": 53745
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-09-12T17:17:03.837Z"
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
@@ -3748,5 +3733,19 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-10-05T12:11:07.846Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-10-05T13:20:35.602Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-10-05T13:20:35.602Z",
+    "error": "No response within 45s"
   }
 ]
