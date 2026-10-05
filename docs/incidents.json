@@ -3,21 +3,6 @@
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
-    "at": "2026-09-12T21:16:46.989Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-12T21:35:31.625Z",
-    "downMs": 1124636
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-12T21:35:31.625Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
     "at": "2026-09-12T21:36:43.238Z",
     "error": "UND_ERR_CONNECT_TIMEOUT",
     "resolvedAt": "2026-09-12T21:40:17.247Z",
@@ -3748,5 +3733,19 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-10-05T14:39:21.781Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-10-05T15:03:36.598Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-05T15:03:36.598Z",
+    "error": "No response within 45s"
   }
 ]
