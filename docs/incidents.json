@@ -2,12 +2,6 @@
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-12T02:28:19.797Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-09-12T02:30:48.629Z",
     "error": "UND_ERR_SOCKET",
@@ -3745,6 +3739,14 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-10-05T10:16:34.149Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-05T10:17:19.862Z",
+    "downMs": 45713
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-05T10:17:19.862Z"
   }
 ]
