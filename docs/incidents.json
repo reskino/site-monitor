@@ -3,21 +3,6 @@
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
-    "at": "2026-09-11T08:09:21.615Z",
-    "error": "Too many redirects",
-    "resolvedAt": "2026-09-11T08:23:14.120Z",
-    "downMs": 832505
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-09-11T08:23:14.120Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
     "at": "2026-09-11T16:40:23.562Z",
     "error": "Too many redirects",
     "resolvedAt": "2026-09-11T17:10:54.039Z",
@@ -3748,5 +3733,19 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-10-04T22:55:18.492Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-10-05T02:10:58.097Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-05T02:10:58.097Z",
+    "error": "No response within 45s"
   }
 ]
