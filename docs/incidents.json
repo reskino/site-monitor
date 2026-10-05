@@ -1,11 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-12T22:23:31.706Z"
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
@@ -3685,7 +3679,9 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-10-05T16:08:37.118Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-05T19:22:06.318Z",
+    "downMs": 11609200
   },
   {
     "name": "effectivelifeministry.org",
@@ -3746,5 +3742,11 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-10-05T19:19:38.779Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-05T19:22:06.318Z"
   }
 ]
