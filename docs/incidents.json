@@ -2,15 +2,6 @@
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-09-12T21:51:37.285Z",
-    "error": "Connection reset",
-    "resolvedAt": "2026-09-12T21:52:31.053Z",
-    "downMs": 53768
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-09-12T21:52:31.053Z"
   },
@@ -3748,5 +3739,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-10-05T15:12:22.369Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-05T16:08:37.118Z",
+    "error": "No response within 45s"
   }
 ]
