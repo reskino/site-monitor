@@ -2,12 +2,6 @@
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-12T21:43:05.953Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-09-12T21:51:37.285Z",
     "error": "Connection reset",
@@ -3739,12 +3733,20 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-05T15:06:03.726Z",
-    "error": "UND_ERR_SOCKET"
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-10-05T15:12:22.369Z",
+    "downMs": 378643
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-10-05T15:06:03.726Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-05T15:12:22.369Z"
   }
 ]
