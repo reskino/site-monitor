@@ -2,12 +2,6 @@
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-12T21:59:05.601Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-09-12T22:04:46.711Z",
     "error": "Connection reset",
@@ -3744,6 +3738,13 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-05T16:17:37.273Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-05T16:20:36.990Z",
     "error": "No response within 45s"
   }
 ]
