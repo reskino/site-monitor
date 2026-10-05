@@ -2,12 +2,6 @@
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-12T22:17:29.539Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-09-12T22:18:51.189Z",
     "error": "UND_ERR_CONNECT_TIMEOUT",
@@ -3707,7 +3701,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-10-05T16:11:36.949Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-05T18:40:00.031Z",
+    "downMs": 8903082
   },
   {
     "name": "IT Disposal",
@@ -3745,5 +3741,11 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-10-05T17:17:37.610Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-10-05T18:40:00.031Z"
   }
 ]
