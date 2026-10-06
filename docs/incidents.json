@@ -1,14 +1,5 @@
 [
   {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-09-14T00:53:48.304Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-14T00:59:08.721Z",
-    "downMs": 320417
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
@@ -3655,7 +3646,9 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-10-06T06:43:00.742Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-06T08:25:43.420Z",
+    "downMs": 6162678
   },
   {
     "name": "IT Disposal",
@@ -3731,5 +3724,11 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-10-06T08:14:10.380Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-06T08:25:43.420Z"
   }
 ]
