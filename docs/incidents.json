@@ -1,14 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-09-14T00:53:48.304Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-14T00:59:08.721Z",
-    "downMs": 320417
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "down",
@@ -3740,5 +3731,12 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-10-06T07:13:23.595Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-06T07:16:23.683Z",
+    "error": "No response within 45s"
   }
 ]
