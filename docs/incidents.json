@@ -1,14 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-09-14T00:53:48.304Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-14T00:59:08.721Z",
-    "downMs": 320417
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3734,7 +3725,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-06T06:43:00.742Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-06T06:49:23.048Z",
+    "downMs": 382306
   },
   {
     "name": "Ab's Kitchen",
@@ -3742,5 +3735,11 @@
     "type": "down",
     "at": "2026-10-06T06:43:00.742Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-06T06:49:23.048Z"
   }
 ]
