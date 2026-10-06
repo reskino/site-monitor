@@ -1,11 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-09-14T00:59:08.721Z"
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
@@ -3736,6 +3730,14 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-10-06T13:06:19.297Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-06T13:07:01.857Z",
+    "downMs": 42560
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-10-06T13:07:01.857Z"
   }
 ]
