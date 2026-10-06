@@ -69,7 +69,7 @@
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-10-03T20:01:51.184Z",
+      "subOkAt": "2026-10-06T20:09:59.466Z",
       "domainFailAt": "2026-09-09T20:14:44.338Z"
     },
     "aaandsghana.com": {
@@ -138,8 +138,8 @@
       "subdomains": [
         "airliv8hernetwork.com"
       ],
-      "subOkAt": "2026-10-03T20:01:52.843Z",
-      "domainFailAt": "2026-10-06T20:08:11.519Z"
+      "subOkAt": "2026-10-06T20:09:59.856Z",
+      "domainFailAt": "2026-10-06T20:19:50.510Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -164,7 +164,7 @@
         "www.effectivelifeministry.org",
         "www.ngo.effectivelifeministry.org"
       ],
-      "subOkAt": "2026-10-03T20:01:52.229Z",
+      "subOkAt": "2026-10-06T20:09:57.935Z",
       "domainFailAt": "2026-09-26T14:15:51.286Z"
     },
     "gmwghana.com": {
@@ -379,7 +379,7 @@
         "www.impactcapitalmfi.com",
         "www.test.impactcapitalmfi.com"
       ],
-      "subOkAt": "2026-10-03T20:04:58.070Z",
+      "subOkAt": "2026-10-06T20:09:58.612Z",
       "subFailAt": "2026-10-06T20:08:55.794Z",
       "domainFailAt": "2026-10-03T21:27:21.963Z"
     },
