@@ -76,12 +76,12 @@
       "domain": {
         "expiration": "2027-06-14T19:54:58Z",
         "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-        "daysLeft": 251,
+        "daysLeft": 250,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
-      "domainOkAt": "2026-10-06T09:30:12.844Z",
+      "domainOkAt": "2026-10-06T21:30:51.945Z",
       "subFailAt": "2026-10-06T20:07:34.905Z",
       "subdomains": [
         "aaandsghana.com",
@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-10-06T20:09:59.856Z",
-      "domainFailAt": "2026-10-06T21:29:52.260Z"
+      "domainFailAt": "2026-10-06T21:40:52.086Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -171,12 +171,12 @@
       "domain": {
         "expiration": "2027-09-06T13:30:20Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 335,
+        "daysLeft": 334,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
-      "domainOkAt": "2026-10-06T09:30:12.868Z",
+      "domainOkAt": "2026-10-06T21:30:51.952Z",
       "subFailAt": "2026-10-06T20:02:50.534Z",
       "subdomains": [
         "cpanel.gmwghana.com",
@@ -258,7 +258,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
-      "domainOkAt": "2026-10-06T09:30:13.002Z",
+      "domainOkAt": "2026-10-06T21:30:52.348Z",
       "subFailAt": "2026-09-27T10:21:00.282Z",
       "subdomains": [
         "amorefoundation.org.uk",
@@ -362,10 +362,10 @@
       "domain": {
         "expiration": "2031-02-03T16:45:16Z",
         "registrar": "GoDaddy.com, LLC",
-        "daysLeft": 1581,
+        "daysLeft": 1580,
         "warn": false
       },
-      "domainOkAt": "2026-10-06T09:30:12.864Z",
+      "domainOkAt": "2026-10-06T21:30:51.945Z",
       "subdomains": [
         "autodiscover.impactcapitalmfi.com",
         "cpanel.impactcapitalmfi.com",
