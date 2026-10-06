@@ -1,11 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-09-16T15:52:37.899Z"
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
@@ -3736,6 +3730,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-10-06T15:50:54.974Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-10-06T16:49:49.518Z",
+    "downMs": 3534544
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-10-06T16:49:49.518Z"
   }
 ]
