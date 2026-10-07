@@ -1,20 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-09-18T13:47:38.989Z",
-    "error": "HTTP 503",
-    "resolvedAt": "2026-09-18T13:49:36.887Z",
-    "downMs": 117898
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-09-18T13:49:36.887Z"
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
@@ -3739,13 +3724,29 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-10-07T10:37:48.167Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-07T10:40:41.030Z",
+    "downMs": 172863
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-07T10:37:48.167Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-07T10:40:41.030Z",
+    "downMs": 172863
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-10-07T10:40:41.030Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-07T10:40:41.030Z"
   }
 ]
