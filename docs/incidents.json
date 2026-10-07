@@ -2,15 +2,6 @@
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-09-17T20:25:37.058Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-17T20:26:59.032Z",
-    "downMs": 81974
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-09-17T20:26:59.032Z"
   },
@@ -3748,5 +3739,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-10-07T08:46:47.324Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-10-07T10:04:33.934Z",
+    "error": "HTTP 503"
   }
 ]
