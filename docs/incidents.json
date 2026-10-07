@@ -1,20 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-09-17T07:33:25.014Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-09-17T07:40:39.279Z",
-    "downMs": 434265
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-09-17T07:40:39.279Z"
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
@@ -3731,7 +3716,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-07T07:33:46.359Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-07T07:42:46.543Z",
+    "downMs": 540184
   },
   {
     "name": "uhuruforall.com",
@@ -3747,5 +3734,18 @@
     "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-10-07T07:39:46.374Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-07T07:42:46.543Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-07T07:42:46.543Z",
+    "error": "No response within 45s"
   }
 ]
