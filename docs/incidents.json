@@ -2,12 +2,6 @@
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-17T08:34:52.275Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-09-17T18:33:32.179Z",
     "error": "UND_ERR_CONNECT_TIMEOUT",
@@ -3700,7 +3694,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-10-07T07:33:46.359Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-07T07:55:32.510Z",
+    "downMs": 1306151
   },
   {
     "name": "IT Disposal",
@@ -3746,5 +3742,11 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-10-07T07:45:46.445Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-10-07T07:55:32.510Z"
   }
 ]
