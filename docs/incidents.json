@@ -1,14 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-09-22T14:36:44.829Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-22T17:38:55.165Z",
-    "downMs": 10930336
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3745,6 +3736,14 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-07T13:08:35.427Z",
-    "error": "HTTP 503"
+    "error": "HTTP 503",
+    "resolvedAt": "2026-10-07T13:09:38.028Z",
+    "downMs": 62601
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-07T13:09:38.028Z"
   }
 ]
