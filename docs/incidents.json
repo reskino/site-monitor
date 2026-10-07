@@ -1,11 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-17T20:26:59.032Z"
-  },
-  {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
@@ -3745,6 +3739,14 @@
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-10-07T10:04:33.934Z",
-    "error": "HTTP 503"
+    "error": "HTTP 503",
+    "resolvedAt": "2026-10-07T10:05:33.438Z",
+    "downMs": 59504
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-10-07T10:05:33.438Z"
   }
 ]
