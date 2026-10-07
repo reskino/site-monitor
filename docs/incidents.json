@@ -1,14 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-09-22T14:36:44.829Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-22T17:38:55.165Z",
-    "downMs": 10930336
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
@@ -3742,5 +3733,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-10-07T13:53:16.961Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-10-07T18:12:51.971Z",
+    "error": "No response within 45s"
   }
 ]
