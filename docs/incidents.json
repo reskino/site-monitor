@@ -1,11 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "up",
-    "at": "2026-09-22T17:38:55.165Z"
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "up",
@@ -3726,12 +3720,20 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-08T10:12:14.688Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-08T10:18:14.724Z",
+    "downMs": 360036
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-10-08T10:15:14.776Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-08T10:18:14.724Z"
   }
 ]
