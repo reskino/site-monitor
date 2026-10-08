@@ -1,14 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-09-22T14:36:44.829Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-22T17:38:55.165Z",
-    "downMs": 10930336
-  },
-  {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
@@ -3730,5 +3721,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-10-08T07:47:24.928Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-08T08:41:13.888Z",
+    "error": "No response within 45s"
   }
 ]
