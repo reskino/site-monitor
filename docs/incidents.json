@@ -1,11 +1,5 @@
 [
   {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "up",
-    "at": "2026-09-22T17:38:55.165Z"
-  },
-  {
     "name": "Maple Leaf logistics",
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
@@ -3745,5 +3739,12 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-10-08T11:48:00.764Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-10-08T12:52:44.971Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
