@@ -1,11 +1,5 @@
 [
   {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "up",
-    "at": "2026-09-22T17:38:55.165Z"
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
@@ -3740,6 +3734,14 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-10-08T11:17:14.875Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-08T11:23:14.801Z",
+    "downMs": 359926
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-08T11:23:14.801Z"
   }
 ]
