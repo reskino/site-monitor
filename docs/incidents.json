@@ -1,14 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-09-22T14:36:44.829Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-22T17:38:55.165Z",
-    "downMs": 10930336
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "down",
@@ -3725,12 +3716,20 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-08T07:39:25.584Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-08T07:45:13.925Z",
+    "downMs": 348341
   },
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-10-08T07:42:13.233Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-08T07:45:13.925Z"
   }
 ]
