@@ -1,14 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-09-23T13:53:16.605Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-23T14:02:22.205Z",
-    "downMs": 545600
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "down",
@@ -3748,5 +3739,12 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-10-08T17:37:01.499Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-10-08T18:07:44.011Z",
+    "error": "No response within 45s"
   }
 ]
