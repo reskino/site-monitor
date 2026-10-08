@@ -1,11 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-09-22T17:38:55.165Z"
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "up",
@@ -3716,7 +3710,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-08T08:50:14.046Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-08T08:56:13.896Z",
+    "downMs": 359850
   },
   {
     "name": "Ab's Kitchen",
@@ -3724,5 +3720,11 @@
     "type": "down",
     "at": "2026-10-08T08:50:14.046Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-08T08:56:13.896Z"
   }
 ]
