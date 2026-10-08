@@ -1,11 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-09-22T17:38:55.165Z"
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "up",
@@ -3728,5 +3722,12 @@
     "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-10-08T09:02:00.682Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-08T09:04:54.762Z",
+    "error": "No response within 45s"
   }
 ]
