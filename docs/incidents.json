@@ -1,5 +1,23 @@
 [
   {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-09-24T12:15:00.560Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-09-24T16:47:33.872Z",
+    "downMs": 16353312
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-09-24T12:15:00.560Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-09-24T16:47:33.872Z",
+    "downMs": 16353312
+  },
+  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
@@ -3720,24 +3738,10 @@
     "at": "2026-10-09T04:26:06.857Z"
   },
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-09T07:46:32.291Z",
-    "error": "No response within 45s"
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
-    "at": "2026-10-09T07:46:32.291Z",
-    "error": "No response within 45s"
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-09T07:46:32.291Z",
+    "at": "2026-10-09T12:47:23.826Z",
     "error": "No response within 45s"
   }
 ]
