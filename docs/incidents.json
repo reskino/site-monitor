@@ -1,11 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-09-24T16:47:33.872Z"
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "up",
@@ -3730,5 +3724,12 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-10-09T19:09:45.608Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-10-09T20:07:06.007Z",
+    "error": "No response within 45s"
   }
 ]
