@@ -1,11 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-24T16:47:33.872Z"
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "up",
@@ -3730,6 +3724,14 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-10-09T20:07:06.007Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-09T20:07:50.997Z",
+    "downMs": 44990
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-09T20:07:50.997Z"
   }
 ]
