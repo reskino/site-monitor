@@ -1,14 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-09-24T12:15:00.560Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-24T16:47:33.872Z",
-    "downMs": 16353312
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3742,6 +3733,14 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-09T12:47:23.826Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-09T12:49:53.945Z",
+    "downMs": 150119
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-09T12:49:53.945Z"
   }
 ]
