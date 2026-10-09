@@ -1,5 +1,20 @@
 [
   {
+    "name": "Maple Leaf logistics",
+    "url": "https://mapleleafhlogistics.com/",
+    "type": "down",
+    "at": "2026-09-24T12:15:00.560Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-09-24T16:47:33.872Z",
+    "downMs": 16353312
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-09-24T16:47:33.872Z"
+  },
+  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "up",
@@ -3712,19 +3727,5 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-10-09T13:19:44.038Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-10-09T14:43:35.109Z",
-    "error": "No response within 45s"
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-09T14:43:35.109Z",
-    "error": "No response within 45s"
   }
 ]
