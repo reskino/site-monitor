@@ -1,14 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-09-24T12:15:00.560Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-24T16:47:33.872Z",
-    "downMs": 16353312
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "down",
@@ -3739,6 +3730,14 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-09T13:09:45.495Z",
-    "error": "HTTP 503"
+    "error": "HTTP 503",
+    "resolvedAt": "2026-10-09T13:13:43.824Z",
+    "downMs": 238329
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-09T13:13:43.824Z"
   }
 ]
