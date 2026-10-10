@@ -1,14 +1,5 @@
 [
   {
-    "name": "Maple Leaf logistics",
-    "url": "https://mapleleafhlogistics.com/",
-    "type": "down",
-    "at": "2026-09-25T15:26:48.865Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-25T15:27:30.645Z",
-    "downMs": 41780
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "up",
@@ -3725,6 +3716,14 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-10T16:09:18.838Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-10T16:18:19.088Z",
+    "downMs": 540250
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-10T16:18:19.088Z"
   }
 ]
