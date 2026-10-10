@@ -1,23 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-09-25T15:26:48.865Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-25T15:27:30.645Z",
-    "downMs": 41780
-  },
-  {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-09-25T15:26:48.865Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-25T15:27:30.645Z",
-    "downMs": 41780
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3712,14 +3694,18 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-10-10T13:10:17.489Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-10T13:14:40.199Z",
+    "downMs": 262710
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-10-10T13:10:17.489Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-10T13:14:40.199Z",
+    "downMs": 262710
   },
   {
     "name": "lansor.co.uk",
@@ -3735,5 +3721,17 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-10-10T13:13:17.545Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-10-10T13:14:40.199Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-10T13:14:40.199Z"
   }
 ]
