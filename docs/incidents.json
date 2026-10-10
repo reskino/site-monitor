@@ -1,14 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-09-25T15:26:48.865Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-25T15:27:30.645Z",
-    "downMs": 41780
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3721,7 +3712,9 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-10-10T11:38:16.753Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-10T11:49:22.960Z",
+    "downMs": 666207
   },
   {
     "name": "uhuruforall.com",
@@ -3743,5 +3736,11 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-10-10T11:41:16.803Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-10-10T11:49:22.960Z"
   }
 ]
