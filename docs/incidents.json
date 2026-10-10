@@ -1,11 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-09-24T16:47:33.872Z"
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
@@ -3729,10 +3723,17 @@
     "at": "2026-10-09T20:07:50.997Z"
   },
   {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
     "type": "down",
-    "at": "2026-10-10T02:42:17.892Z",
+    "at": "2026-10-10T07:57:26.554Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-10-10T07:57:26.554Z",
     "error": "No response within 45s"
   }
 ]
