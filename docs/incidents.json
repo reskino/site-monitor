@@ -1,23 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3748,5 +3730,19 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-10-11T08:39:03.138Z"
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "down",
+    "at": "2026-10-11T09:40:16.851Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-10-11T09:40:16.851Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
