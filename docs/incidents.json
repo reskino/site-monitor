@@ -1,11 +1,5 @@
 [
   {
-    "name": "Maple Leaf logistics",
-    "url": "https://mapleleafhlogistics.com/",
-    "type": "up",
-    "at": "2026-09-25T15:27:30.645Z"
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3745,6 +3739,14 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-11T01:11:23.293Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-11T01:12:08.669Z",
+    "downMs": 45376
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-11T01:12:08.669Z"
   }
 ]
