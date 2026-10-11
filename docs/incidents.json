@@ -1,11 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-09-27T18:37:47.845Z"
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "up",
@@ -3728,12 +3722,20 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-11T13:07:54.870Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-11T13:13:30.650Z",
+    "downMs": 335780
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-10-11T13:10:30.608Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-11T13:13:30.650Z"
   }
 ]
