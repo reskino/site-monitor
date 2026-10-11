@@ -1,50 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:38:29.637Z",
-    "downMs": 10301643
-  },
-  {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3739,6 +3694,42 @@
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-10-11T09:42:38.116Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-11T09:46:34.211Z",
+    "downMs": 236095
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-10-11T09:46:34.211Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "down",
+    "at": "2026-10-11T09:46:34.211Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-10-11T09:46:34.211Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "down",
+    "at": "2026-10-11T09:46:34.211Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-11T09:46:34.211Z",
+    "error": "UND_ERR_CONNECT_TIMEOUT"
   }
 ]
