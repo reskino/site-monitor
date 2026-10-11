@@ -1,41 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
     "name": "Maple Leaf logistics",
     "url": "https://mapleleafhlogistics.com/",
     "type": "down",
@@ -3703,14 +3667,18 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-10-11T09:46:34.211Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-11T09:47:11.896Z",
+    "downMs": 37685
   },
   {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "down",
     "at": "2026-10-11T09:46:34.211Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-11T09:47:11.896Z",
+    "downMs": 37685
   },
   {
     "name": "amorefoundation.org.uk",
@@ -3723,13 +3691,41 @@
     "url": "https://impactcapitalmfi.com",
     "type": "down",
     "at": "2026-10-11T09:46:34.211Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-11T09:47:11.896Z",
+    "downMs": 37685
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-11T09:46:34.211Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-11T09:47:11.896Z",
+    "downMs": 37685
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-10-11T09:47:11.896Z"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-10-11T09:47:11.896Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "up",
+    "at": "2026-10-11T09:47:11.896Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-11T09:47:11.896Z"
   }
 ]
