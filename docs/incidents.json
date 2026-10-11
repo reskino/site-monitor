@@ -1,32 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-09-27T15:46:47.994Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-27T18:37:47.845Z",
-    "downMs": 10259851
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
@@ -3736,13 +3709,36 @@
     "url": "https://aaandsghana.com",
     "type": "down",
     "at": "2026-10-11T09:40:16.851Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-11T09:42:38.116Z",
+    "downMs": 141265
   },
   {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "down",
     "at": "2026-10-11T09:40:16.851Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-11T09:42:38.116Z",
+    "downMs": 141265
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "up",
+    "at": "2026-10-11T09:42:38.116Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-10-11T09:42:38.116Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-10-11T09:42:38.116Z",
+    "error": "No response within 45s"
   }
 ]
