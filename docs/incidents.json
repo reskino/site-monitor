@@ -1,23 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "up",
-    "at": "2026-09-27T18:37:47.845Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-09-27T18:37:47.845Z"
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-09-27T18:37:47.845Z"
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "up",
@@ -3730,5 +3712,26 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-10-11T10:41:52.066Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-11T13:07:54.870Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-10-11T13:07:54.870Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-10-11T13:07:54.870Z",
+    "error": "No response within 45s"
   }
 ]
