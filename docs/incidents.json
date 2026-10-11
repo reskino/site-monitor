@@ -1,11 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-09-27T18:37:47.845Z"
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "up",
@@ -3737,6 +3731,13 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-11T13:16:30.757Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-10-11T14:07:31.009Z",
     "error": "No response within 45s"
   }
 ]
