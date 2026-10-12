@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-10-09T20:11:57.947Z",
-      "domainFailAt": "2026-10-12T08:00:24.511Z"
+      "domainFailAt": "2026-10-12T08:11:24.893Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -200,7 +200,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
-      "domainOkAt": "2026-10-11T20:00:27.462Z",
+      "domainOkAt": "2026-10-12T08:01:24.810Z",
       "subFailAt": "2026-10-06T20:06:35.392Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
@@ -335,12 +335,12 @@
       "domain": {
         "expiration": "2027-01-16T20:41:15Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 97,
+        "daysLeft": 96,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-10-11T20:00:27.583Z",
+      "domainOkAt": "2026-10-12T08:01:25.235Z",
       "subFailAt": "2026-09-30T10:32:51.466Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
@@ -365,7 +365,7 @@
         "daysLeft": 1575,
         "warn": false
       },
-      "domainOkAt": "2026-10-11T20:00:27.476Z",
+      "domainOkAt": "2026-10-12T08:01:25.052Z",
       "subdomains": [
         "autodiscover.impactcapitalmfi.com",
         "cpanel.impactcapitalmfi.com",
@@ -390,7 +390,7 @@
         "daysLeft": 338,
         "warn": false
       },
-      "domainOkAt": "2026-10-11T20:00:27.466Z",
+      "domainOkAt": "2026-10-12T08:01:25.057Z",
       "subdomains": [
         "maple.mapleleafhlogistics.com",
         "www.maple.mapleleafhlogistics.com"
