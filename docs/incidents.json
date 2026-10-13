@@ -1,14 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-09-29T00:42:52.644Z",
-    "error": "DNS lookup failed",
-    "resolvedAt": "2026-09-29T00:48:53.332Z",
-    "downMs": 360688
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3745,6 +3736,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-10-13T12:14:37.793Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-10-13T12:16:30.559Z",
+    "downMs": 112766
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-10-13T12:16:30.559Z"
   }
 ]
