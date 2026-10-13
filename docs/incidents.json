@@ -1,14 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-09-29T00:42:52.644Z",
-    "error": "DNS lookup failed",
-    "resolvedAt": "2026-09-29T00:44:49.250Z",
-    "downMs": 116606
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
@@ -3748,5 +3739,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-10-13T00:16:34.413Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-10-13T12:14:37.793Z",
+    "error": "Too many redirects"
   }
 ]
