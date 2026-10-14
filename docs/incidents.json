@@ -1,11 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-09-29T00:48:53.332Z"
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
@@ -3739,12 +3733,20 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-10-14T13:19:24.643Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-10-14T13:24:51.395Z",
+    "downMs": 326752
   },
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-10-14T13:19:24.643Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-10-14T13:24:51.395Z"
   }
 ]
