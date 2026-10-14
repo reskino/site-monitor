@@ -1,14 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-09-29T00:42:52.644Z",
-    "error": "DNS lookup failed",
-    "resolvedAt": "2026-09-29T00:44:49.250Z",
-    "downMs": 116606
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
@@ -3745,5 +3736,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-10-13T12:16:30.559Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-10-14T05:29:37.967Z",
+    "error": "Domain not found (DNS)"
   }
 ]
