@@ -1,23 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-09-29T07:29:47.907Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-09-29T08:03:07.450Z",
-    "downMs": 1999543
-  },
-  {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-09-29T07:29:47.907Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-09-29T08:03:07.450Z",
-    "downMs": 1999543
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3748,5 +3730,19 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-10-14T13:24:51.395Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-10-15T06:23:54.809Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-15T06:23:54.809Z",
+    "error": "No response within 45s"
   }
 ]
