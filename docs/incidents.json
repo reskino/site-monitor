@@ -1,14 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "down",
-    "at": "2026-09-29T10:26:55.580Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-29T16:44:21.047Z",
-    "downMs": 22645467
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "down",
@@ -3745,5 +3736,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-10-15T15:45:35.848Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-10-16T04:08:22.202Z",
+    "error": "No response within 45s"
   }
 ]
