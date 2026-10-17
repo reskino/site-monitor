@@ -1,5 +1,26 @@
 [
   {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-09-30T00:05:18.728Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-09-30T00:05:18.728Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-09-30T10:10:49.190Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-09-30T10:22:18.398Z",
+    "downMs": 689208
+  },
+  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "down",
@@ -3724,26 +3745,5 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-10-16T20:24:39.211Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-10-17T05:39:20.727Z",
-    "error": "No response within 45s"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-17T05:39:20.727Z",
-    "error": "No response within 45s"
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-17T05:39:20.727Z",
-    "error": "No response within 45s"
   }
 ]
