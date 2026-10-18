@@ -1,23 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-09-30T14:06:02.074Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-30T17:38:39.560Z",
-    "downMs": 12757486
-  },
-  {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-09-30T14:06:02.074Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-09-30T17:38:39.560Z",
-    "downMs": 12757486
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3739,13 +3721,29 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-18T06:48:12.750Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-18T06:50:44.951Z",
+    "downMs": 152201
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-18T06:48:12.750Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-18T06:50:44.951Z",
+    "downMs": 152201
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-18T06:50:44.951Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-18T06:50:44.951Z"
   }
 ]
