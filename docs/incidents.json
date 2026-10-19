@@ -1,14 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "down",
-    "at": "2026-10-04T22:38:45.735Z",
-    "error": "ENOBUFS",
-    "resolvedAt": "2026-10-04T22:55:18.492Z",
-    "downMs": 992757
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "down",
@@ -3745,5 +3736,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-10-18T19:32:52.524Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-10-19T08:45:40.783Z",
+    "error": "No response within 45s"
   }
 ]
