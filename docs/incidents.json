@@ -1,14 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-10-04T22:38:45.735Z",
-    "error": "ENOBUFS",
-    "resolvedAt": "2026-10-04T22:55:18.492Z",
-    "downMs": 992757
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3742,6 +3733,14 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-10-19T08:45:40.783Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-19T08:54:01.984Z",
+    "downMs": 501201
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-10-19T08:54:01.984Z"
   }
 ]
