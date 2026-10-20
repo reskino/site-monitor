@@ -1,14 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "down",
-    "at": "2026-10-04T22:38:45.735Z",
-    "error": "ENOBUFS",
-    "resolvedAt": "2026-10-04T22:55:18.492Z",
-    "downMs": 992757
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
@@ -3737,6 +3728,14 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-10-20T07:36:34.127Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-20T07:39:34.124Z",
+    "downMs": 179997
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-20T07:39:34.124Z"
   }
 ]
