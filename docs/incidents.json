@@ -1,11 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "up",
-    "at": "2026-10-04T22:55:18.492Z"
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
@@ -3730,5 +3724,12 @@
     "url": "https://amzendock.com",
     "type": "up",
     "at": "2026-10-20T11:46:22.217Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-10-20T12:03:36.810Z",
+    "error": "No response within 45s"
   }
 ]
