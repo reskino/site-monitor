@@ -1,14 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-10-04T22:38:45.735Z",
-    "error": "ENOBUFS",
-    "resolvedAt": "2026-10-04T22:55:18.492Z",
-    "downMs": 992757
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "down",
@@ -3739,6 +3730,13 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-20T07:33:34.057Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-10-20T07:36:34.127Z",
     "error": "No response within 45s"
   }
 ]
