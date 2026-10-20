@@ -1,11 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-10-04T22:55:18.492Z"
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "up",
@@ -3727,6 +3721,14 @@
     "url": "https://amzendock.com",
     "type": "down",
     "at": "2026-10-20T11:45:22.762Z",
-    "error": "SSL certificate name mismatch"
+    "error": "SSL certificate name mismatch",
+    "resolvedAt": "2026-10-20T11:46:22.217Z",
+    "downMs": 59455
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-10-20T11:46:22.217Z"
   }
 ]
