@@ -1,11 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-10-04T22:55:18.492Z"
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "up",
@@ -3730,6 +3724,14 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-10-20T12:03:36.810Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-20T12:04:43.286Z",
+    "downMs": 66476
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-10-20T12:04:43.286Z"
   }
 ]
