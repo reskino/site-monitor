@@ -1,11 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-10-04T22:55:18.492Z"
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "up",
@@ -3733,5 +3727,12 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-10-20T12:04:43.286Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "down",
+    "at": "2026-10-20T19:52:49.480Z",
+    "error": "SSL certificate name mismatch"
   }
 ]
