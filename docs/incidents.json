@@ -1,11 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "up",
-    "at": "2026-10-04T22:55:18.492Z"
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "up",
@@ -3733,6 +3727,14 @@
     "url": "https://impactcapitalmfi.com",
     "type": "down",
     "at": "2026-10-20T19:52:49.480Z",
-    "error": "SSL certificate name mismatch"
+    "error": "SSL certificate name mismatch",
+    "resolvedAt": "2026-10-20T19:53:49.252Z",
+    "downMs": 59772
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "up",
+    "at": "2026-10-20T19:53:49.252Z"
   }
 ]
