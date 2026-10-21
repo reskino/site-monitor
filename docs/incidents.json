@@ -1,11 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-10-08T12:53:01.558Z"
-  },
-  {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
@@ -3745,6 +3739,14 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-10-21T19:40:43.703Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-21T19:41:29.225Z",
+    "downMs": 45522
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-10-21T19:41:29.225Z"
   }
 ]
