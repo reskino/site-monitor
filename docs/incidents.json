@@ -1,74 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-10-06T14:06:04.159Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-06T14:51:21.713Z",
-    "downMs": 2717554
-  },
-  {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-10-06T14:06:04.159Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-06T14:51:21.713Z",
-    "downMs": 2717554
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-06T14:06:04.159Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-06T14:51:21.713Z",
-    "downMs": 2717554
-  },
-  {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-10-06T14:06:04.159Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-06T14:51:21.713Z",
-    "downMs": 2717554
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-06T14:06:04.159Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-06T14:51:21.713Z",
-    "downMs": 2717554
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-06T14:06:04.159Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-06T14:51:21.713Z",
-    "downMs": 2717554
-  },
-  {
-    "name": "Maple Leaf logistics",
-    "url": "https://mapleleafhlogistics.com/",
-    "type": "down",
-    "at": "2026-10-06T14:06:04.159Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-06T14:51:21.713Z",
-    "downMs": 2717554
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-10-06T14:51:21.713Z"
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "up",
@@ -3682,55 +3613,119 @@
     "url": "https://amzendock.com",
     "type": "down",
     "at": "2026-10-21T17:06:36.542Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-21T17:07:02.567Z",
+    "downMs": 26025
   },
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-10-21T17:06:36.542Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-21T17:07:02.567Z",
+    "downMs": 26025
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-10-21T17:06:36.542Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-21T17:07:02.567Z",
+    "downMs": 26025
   },
   {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-10-21T17:06:36.542Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-21T17:07:02.567Z",
+    "downMs": 26025
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-10-21T17:06:36.542Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-21T17:07:02.567Z",
+    "downMs": 26025
   },
   {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "down",
     "at": "2026-10-21T17:06:36.542Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-21T17:07:02.567Z",
+    "downMs": 26025
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-10-21T17:06:36.542Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-21T17:07:02.567Z",
+    "downMs": 26025
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-21T17:06:36.542Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-10-21T17:07:02.567Z",
+    "downMs": 26025
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-10-21T17:07:02.567Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-10-21T17:07:02.567Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-21T17:07:02.567Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-10-21T17:07:02.567Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-21T17:07:02.567Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "up",
+    "at": "2026-10-21T17:07:02.567Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-21T17:07:02.567Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-21T17:07:02.567Z"
   }
 ]
