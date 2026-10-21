@@ -10,7 +10,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.632Z",
       "subCheckedAt": "2026-07-23T10:48:59.216Z",
       "domainOkAt": "2026-10-21T10:28:47.397Z",
-      "subFailAt": "2026-10-18T21:27:58.298Z",
+      "subFailAt": "2026-10-21T21:31:14.394Z",
       "subdomains": [
         "aaands.skinopro.com",
         "autoconfig.skinopro.com",
@@ -82,7 +82,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
       "domainOkAt": "2026-10-21T10:28:47.362Z",
-      "subFailAt": "2026-10-18T21:26:31.725Z",
+      "subFailAt": "2026-10-21T21:30:30.902Z",
       "subdomains": [
         "aaandsghana.com",
         "cpanel.aaandsghana.com",
@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-10-18T21:36:18.991Z",
-      "domainFailAt": "2026-10-21T21:20:29.957Z"
+      "domainFailAt": "2026-10-21T21:30:30.100Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -151,7 +151,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
       "domainOkAt": "2026-10-21T10:28:48.068Z",
-      "subFailAt": "2026-10-18T21:26:58.518Z",
+      "subFailAt": "2026-10-21T21:31:14.394Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
         "cpcalendars.effectivelifeministry.org",
@@ -177,7 +177,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-10-21T10:28:47.339Z",
-      "subFailAt": "2026-10-18T21:27:58.289Z",
+      "subFailAt": "2026-10-21T21:31:14.395Z",
       "subdomains": [
         "cpanel.gmwghana.com",
         "cpcalendars.gmwghana.com",
@@ -312,7 +312,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
       "domainOkAt": "2026-10-21T10:28:47.350Z",
-      "subFailAt": "2026-10-18T21:26:58.521Z",
+      "subFailAt": "2026-10-21T21:30:29.888Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
         "jassmattazz.com",
@@ -396,7 +396,7 @@
         "www.maple.mapleleafhlogistics.com"
       ],
       "subOkAt": "2026-10-16T22:06:06.073Z",
-      "subFailAt": "2026-10-21T21:20:29.738Z",
+      "subFailAt": "2026-10-21T21:30:30.389Z",
       "domainFailAt": "2026-10-20T22:26:47.501Z"
     }
   }
