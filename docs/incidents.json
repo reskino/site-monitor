@@ -1,20 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-09T04:08:28.688Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-09T04:10:28.847Z",
-    "downMs": 120159
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-09T04:10:28.847Z"
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
@@ -3703,7 +3688,9 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-10-22T08:01:20.181Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-22T12:17:32.568Z",
+    "downMs": 15372387
   },
   {
     "name": "lansor.co.uk",
@@ -3746,6 +3733,20 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-22T08:13:20.061Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-22T12:17:32.568Z",
+    "downMs": 14652507
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-22T12:17:32.568Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-22T12:17:32.568Z"
   }
 ]
