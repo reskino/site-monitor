@@ -1,23 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "down",
-    "at": "2026-10-09T04:22:09.871Z",
-    "error": "Connection reset",
-    "resolvedAt": "2026-10-09T04:26:06.857Z",
-    "downMs": 236986
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-10-09T04:22:09.871Z",
-    "error": "Connection reset",
-    "resolvedAt": "2026-10-09T04:26:06.857Z",
-    "downMs": 236986
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3736,13 +3718,29 @@
     "url": "https://impactcapitalmfi.com",
     "type": "down",
     "at": "2026-10-23T06:50:40.076Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-10-23T06:53:39.363Z",
+    "downMs": 179287
   },
   {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "down",
     "at": "2026-10-23T06:51:40.197Z",
-    "error": "SSL certificate name mismatch"
+    "error": "SSL certificate name mismatch",
+    "resolvedAt": "2026-10-23T06:53:39.363Z",
+    "downMs": 119166
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-10-23T06:53:39.363Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "up",
+    "at": "2026-10-23T06:53:39.363Z"
   }
 ]
