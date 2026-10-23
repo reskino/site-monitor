@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-10-21T21:48:11.946Z",
-      "domainFailAt": "2026-10-23T10:32:56.669Z"
+      "domainFailAt": "2026-10-23T10:44:41.690Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -238,7 +238,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-10-22T22:33:06.189Z",
+      "domainOkAt": "2026-10-23T10:34:42.464Z",
       "subFailAt": "2026-10-18T21:28:58.231Z",
       "subdomains": [
         "edu.nestechnology.com",
@@ -365,7 +365,7 @@
         "daysLeft": 1564,
         "warn": false
       },
-      "domainOkAt": "2026-10-22T22:31:58.980Z",
+      "domainOkAt": "2026-10-23T10:34:42.422Z",
       "subdomains": [
         "autodiscover.impactcapitalmfi.com",
         "cpanel.impactcapitalmfi.com",
