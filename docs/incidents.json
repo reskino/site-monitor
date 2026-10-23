@@ -1,14 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-10-09T04:22:09.871Z",
-    "error": "Connection reset",
-    "resolvedAt": "2026-10-09T04:26:06.857Z",
-    "downMs": 236986
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3746,5 +3737,12 @@
     "type": "down",
     "at": "2026-10-23T06:50:40.076Z",
     "error": "HTTP 502"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-10-23T06:51:40.197Z",
+    "error": "SSL certificate name mismatch"
   }
 ]
