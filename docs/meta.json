@@ -69,7 +69,7 @@
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-10-21T21:46:11.524Z",
+      "subOkAt": "2026-10-24T21:46:25.800Z",
       "domainFailAt": "2026-10-20T22:26:47.475Z"
     },
     "aaandsghana.com": {
@@ -138,8 +138,8 @@
       "subdomains": [
         "airliv8hernetwork.com"
       ],
-      "subOkAt": "2026-10-21T21:48:11.946Z",
-      "domainFailAt": "2026-10-24T21:41:24.741Z"
+      "subOkAt": "2026-10-24T21:48:25.119Z",
+      "domainFailAt": "2026-10-24T21:52:24.413Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -164,7 +164,7 @@
         "www.effectivelifeministry.org",
         "www.ngo.effectivelifeministry.org"
       ],
-      "subOkAt": "2026-10-21T21:46:10.203Z",
+      "subOkAt": "2026-10-24T21:46:24.836Z",
       "domainFailAt": "2026-10-20T22:26:47.481Z"
     },
     "gmwghana.com": {
@@ -226,7 +226,7 @@
         "www.vc.opportunitytoexcel.com",
         "www.verify.opportunitytoexcel.com"
       ],
-      "subOkAt": "2026-10-21T21:47:48.017Z",
+      "subOkAt": "2026-10-24T21:48:24.513Z",
       "domainFailAt": "2026-10-20T22:26:47.485Z"
     },
     "nestechnology.com": {
@@ -264,7 +264,7 @@
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
       ],
-      "subOkAt": "2026-10-21T21:44:09.485Z",
+      "subOkAt": "2026-10-24T21:44:24.418Z",
       "domainFailAt": "2026-10-20T22:26:47.489Z"
     },
     "uhuruforall.com": {
@@ -299,7 +299,7 @@
         "www.test.uhuruforall.com",
         "www.uhuruforall.com"
       ],
-      "subOkAt": "2026-10-21T21:42:09.087Z",
+      "subOkAt": "2026-10-24T21:43:08.163Z",
       "domainFailAt": "2026-10-20T22:26:47.493Z"
     },
     "jassmattazz.com": {
@@ -328,7 +328,7 @@
         "www.otef.jassmattazz.com",
         "www.uhuru.jassmattazz.com"
       ],
-      "subOkAt": "2026-10-21T21:48:41.038Z",
+      "subOkAt": "2026-10-24T21:49:28.416Z",
       "domainFailAt": "2026-10-20T22:26:47.493Z"
     },
     "lansor.co.uk": {
@@ -355,7 +355,7 @@
         "www.itdisposal.lansor.co.uk",
         "www.lansor.co.uk"
       ],
-      "subOkAt": "2026-10-21T21:48:10.479Z",
+      "subOkAt": "2026-10-24T21:48:37.718Z",
       "domainFailAt": "2026-10-20T22:26:47.497Z"
     },
     "impactcapitalmfi.com": {
@@ -396,8 +396,8 @@
         "mapleleafhlogistics.com",
         "www.maple.mapleleafhlogistics.com"
       ],
-      "subOkAt": "2026-10-21T21:46:00.181Z",
-      "subFailAt": "2026-10-21T21:44:30.398Z",
+      "subOkAt": "2026-10-24T21:47:24.552Z",
+      "subFailAt": "2026-10-24T21:47:08.581Z",
       "domainFailAt": "2026-10-20T22:26:47.501Z"
     }
   }
