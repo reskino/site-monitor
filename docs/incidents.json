@@ -3738,10 +3738,10 @@
     "at": "2026-10-24T01:45:20.077Z"
   },
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
     "type": "down",
-    "at": "2026-10-25T06:45:57.692Z",
-    "error": "No response within 45s"
+    "at": "2026-10-25T07:31:36.032Z",
+    "error": "Too many redirects"
   }
 ]
