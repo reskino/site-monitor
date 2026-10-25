@@ -1,11 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-10-09T13:19:44.038Z"
-  },
-  {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
@@ -3742,6 +3736,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-10-25T07:31:36.032Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-10-25T08:09:48.444Z",
+    "downMs": 2292412
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-10-25T08:09:48.444Z"
   }
 ]
