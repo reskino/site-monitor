@@ -4,12 +4,12 @@
       "domain": {
         "expiration": "2027-02-13T08:16:33Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 107,
+        "daysLeft": 106,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.632Z",
       "subCheckedAt": "2026-07-23T10:48:59.216Z",
-      "domainOkAt": "2026-10-29T02:38:27.413Z",
+      "domainOkAt": "2026-10-29T15:41:43.465Z",
       "subFailAt": "2026-10-27T22:39:23.786Z",
       "subdomains": [
         "aaands.skinopro.com",
@@ -64,7 +64,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
-      "domainOkAt": "2026-10-29T02:38:27.321Z",
+      "domainOkAt": "2026-10-29T15:41:43.480Z",
       "subFailAt": "2026-10-27T22:39:23.308Z",
       "subdomains": [
         "ainaghventures.com"
@@ -81,7 +81,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
-      "domainOkAt": "2026-10-29T02:38:27.490Z",
+      "domainOkAt": "2026-10-29T15:41:43.479Z",
       "subFailAt": "2026-10-27T22:39:24.786Z",
       "subdomains": [
         "aaandsghana.com",
@@ -100,12 +100,12 @@
       "domain": {
         "expiration": "2027-05-06T13:21:53Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 189,
+        "daysLeft": 188,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
-      "domainOkAt": "2026-10-29T02:38:27.255Z",
+      "domainOkAt": "2026-10-29T15:41:43.498Z",
       "subFailAt": "2026-10-27T22:39:24.288Z",
       "subdomains": [
         "amzendock.com",
@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-10-28T07:23:51.092Z",
-      "domainFailAt": "2026-10-29T08:53:35.534Z"
+      "domainFailAt": "2026-10-29T15:41:43.466Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -150,7 +150,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
-      "domainOkAt": "2026-10-29T02:38:27.724Z",
+      "domainOkAt": "2026-10-29T15:41:43.579Z",
       "subFailAt": "2026-10-28T01:41:34.775Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
@@ -171,12 +171,12 @@
       "domain": {
         "expiration": "2027-09-06T13:30:20Z",
         "registrar": "Porkbun LLC",
-        "daysLeft": 312,
+        "daysLeft": 311,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
-      "domainOkAt": "2026-10-29T02:38:27.486Z",
+      "domainOkAt": "2026-10-29T15:41:43.481Z",
       "subFailAt": "2026-10-28T01:41:34.801Z",
       "subdomains": [
         "cpanel.gmwghana.com",
@@ -195,12 +195,12 @@
       "domain": {
         "expiration": "2027-02-08T12:25:33Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 102,
+        "daysLeft": 101,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
-      "domainOkAt": "2026-10-29T02:38:27.475Z",
+      "domainOkAt": "2026-10-29T15:41:43.484Z",
       "subFailAt": "2026-10-28T01:41:35.778Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
@@ -238,7 +238,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-10-29T02:38:27.484Z",
+      "domainOkAt": "2026-10-29T15:41:43.469Z",
       "subFailAt": "2026-10-27T22:39:23.787Z",
       "subdomains": [
         "edu.nestechnology.com",
@@ -258,7 +258,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
-      "domainOkAt": "2026-10-29T02:38:27.935Z",
+      "domainOkAt": "2026-10-29T15:41:43.874Z",
       "subFailAt": "2026-10-28T01:41:35.777Z",
       "subdomains": [
         "amorefoundation.org.uk",
@@ -276,7 +276,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.021Z",
       "subCheckedAt": "2026-07-23T10:48:47.547Z",
-      "domainOkAt": "2026-10-29T02:38:27.254Z",
+      "domainOkAt": "2026-10-29T15:41:43.474Z",
       "subFailAt": "2026-10-28T01:41:34.810Z",
       "subdomains": [
         "abskitchen.uhuruforall.com",
@@ -306,12 +306,12 @@
       "domain": {
         "expiration": "2027-05-16T10:49:39Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 199,
+        "daysLeft": 198,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
-      "domainOkAt": "2026-10-29T02:38:27.415Z",
+      "domainOkAt": "2026-10-29T15:41:43.470Z",
       "subFailAt": "2026-10-27T22:39:25.357Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
@@ -340,7 +340,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-10-29T02:38:27.961Z",
+      "domainOkAt": "2026-10-29T15:41:43.941Z",
       "subFailAt": "2026-10-27T22:39:23.755Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
@@ -365,7 +365,7 @@
         "daysLeft": 1558,
         "warn": false
       },
-      "domainOkAt": "2026-10-29T02:38:27.418Z",
+      "domainOkAt": "2026-10-29T15:41:43.483Z",
       "subdomains": [
         "autodiscover.impactcapitalmfi.com",
         "cpanel.impactcapitalmfi.com",
@@ -387,10 +387,10 @@
       "domain": {
         "expiration": "2027-09-15T12:44:58Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 321,
+        "daysLeft": 320,
         "warn": false
       },
-      "domainOkAt": "2026-10-29T02:38:27.417Z",
+      "domainOkAt": "2026-10-29T15:41:43.472Z",
       "subdomains": [
         "maple.mapleleafhlogistics.com",
         "www.maple.mapleleafhlogistics.com"
