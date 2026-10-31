@@ -1,20 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-10T08:01:10.157Z"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-10T08:18:15.192Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T08:19:09.378Z",
-    "downMs": 54186
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
@@ -3722,7 +3707,9 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-10-31T08:15:46.107Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-31T08:27:46.350Z",
+    "downMs": 720243
   },
   {
     "name": "IT Disposal",
@@ -3743,6 +3730,20 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-31T08:24:46.281Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-31T08:27:46.350Z",
+    "downMs": 180069
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-10-31T08:27:46.350Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-31T08:27:46.350Z"
   }
 ]
