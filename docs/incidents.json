@@ -1,17 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-09T19:09:00.118Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-10-09T19:09:45.608Z"
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3736,13 +3724,29 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-10-31T08:11:17.123Z",
-    "error": "Connection reset"
+    "error": "Connection reset",
+    "resolvedAt": "2026-10-31T08:12:09.403Z",
+    "downMs": 52280
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-31T08:11:17.123Z",
-    "error": "HTTP 500"
+    "error": "HTTP 500",
+    "resolvedAt": "2026-10-31T08:12:09.403Z",
+    "downMs": 52280
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-10-31T08:12:09.403Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-31T08:12:09.403Z"
   }
 ]
