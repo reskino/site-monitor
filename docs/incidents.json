@@ -1,14 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-10T10:32:16.229Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T10:33:29.914Z",
-    "downMs": 73685
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
@@ -3671,8 +3662,8 @@
     "type": "down",
     "at": "2026-10-31T08:15:46.107Z",
     "error": "No response within 45s",
-    "resolvedAt": "2026-10-31T13:03:45.906Z",
-    "downMs": 17279799
+    "resolvedAt": "2026-10-31T14:46:49.129Z",
+    "downMs": 23463022
   },
   {
     "name": "lansor.co.uk",
@@ -3698,8 +3689,8 @@
     "type": "down",
     "at": "2026-10-31T08:18:46.290Z",
     "error": "No response within 45s",
-    "resolvedAt": "2026-10-31T13:03:45.906Z",
-    "downMs": 17099616
+    "resolvedAt": "2026-10-31T14:46:49.129Z",
+    "downMs": 23282839
   },
   {
     "name": "Ab's Kitchen",
@@ -3727,7 +3718,9 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-10-31T08:33:46.464Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-10-31T14:47:19.503Z",
+    "downMs": 22413039
   },
   {
     "name": "IT Disposal",
@@ -3739,12 +3732,18 @@
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
-    "at": "2026-10-31T13:03:45.906Z"
+    "at": "2026-10-31T14:46:49.129Z"
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
-    "at": "2026-10-31T13:03:45.906Z"
+    "at": "2026-10-31T14:46:49.129Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-10-31T14:47:19.503Z"
   }
 ]
