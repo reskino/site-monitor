@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-10-30T09:17:57.206Z",
-      "domainFailAt": "2026-11-01T21:17:56.014Z"
+      "domainFailAt": "2026-11-01T21:28:56.432Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -195,12 +195,12 @@
       "domain": {
         "expiration": "2027-02-08T12:25:33Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 99,
+        "daysLeft": 98,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
-      "domainOkAt": "2026-11-01T09:19:48.299Z",
+      "domainOkAt": "2026-11-01T21:19:56.174Z",
       "subFailAt": "2026-10-30T09:22:10.766Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
@@ -335,12 +335,12 @@
       "domain": {
         "expiration": "2027-01-16T20:41:15Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 76,
+        "daysLeft": 75,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-11-01T09:19:48.518Z",
+      "domainOkAt": "2026-11-01T21:19:56.239Z",
       "subFailAt": "2026-10-30T09:21:03.520Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
@@ -387,10 +387,10 @@
       "domain": {
         "expiration": "2027-09-15T12:44:58Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 318,
+        "daysLeft": 317,
         "warn": false
       },
-      "domainOkAt": "2026-11-01T09:19:48.311Z",
+      "domainOkAt": "2026-11-01T21:19:56.213Z",
       "subdomains": [
         "maple.mapleleafhlogistics.com",
         "mapleleafhlogistics.com",
