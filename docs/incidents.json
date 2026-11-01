@@ -1,14 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-10-10T11:38:16.753Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T11:49:22.960Z",
-    "downMs": 666207
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
@@ -3745,6 +3736,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-11-01T11:11:56.065Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-11-01T11:12:49.246Z",
+    "downMs": 53181
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-11-01T11:12:49.246Z"
   }
 ]
