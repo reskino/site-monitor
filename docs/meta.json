@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-10-30T09:17:57.206Z",
-      "domainFailAt": "2026-11-01T09:18:48.383Z"
+      "domainFailAt": "2026-11-01T09:29:48.454Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -200,7 +200,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
-      "domainOkAt": "2026-10-31T21:19:12.025Z",
+      "domainOkAt": "2026-11-01T09:19:48.299Z",
       "subFailAt": "2026-10-30T09:22:10.766Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
@@ -340,7 +340,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-10-31T21:19:12.167Z",
+      "domainOkAt": "2026-11-01T09:19:48.518Z",
       "subFailAt": "2026-10-30T09:21:03.520Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
@@ -390,7 +390,7 @@
         "daysLeft": 318,
         "warn": false
       },
-      "domainOkAt": "2026-10-31T21:19:12.050Z",
+      "domainOkAt": "2026-11-01T09:19:48.311Z",
       "subdomains": [
         "maple.mapleleafhlogistics.com",
         "mapleleafhlogistics.com",
