@@ -1,11 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-10T11:41:16.803Z"
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
@@ -3745,5 +3739,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-11-02T08:08:35.281Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-02T16:08:15.522Z",
+    "error": "No response within 45s"
   }
 ]
