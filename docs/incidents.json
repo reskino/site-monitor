@@ -2,15 +2,6 @@
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-10T11:38:16.753Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T11:41:16.803Z",
-    "downMs": 180050
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-10-10T11:41:16.803Z"
   },
@@ -3745,5 +3736,12 @@
     "url": "https://skinopro.com",
     "type": "up",
     "at": "2026-11-01T11:12:49.246Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-11-02T08:01:39.314Z",
+    "error": "Too many redirects"
   }
 ]
