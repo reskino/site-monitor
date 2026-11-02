@@ -1,11 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-10-10T11:41:16.803Z"
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
@@ -3742,6 +3736,14 @@
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-11-02T08:01:39.314Z",
-    "error": "Too many redirects"
+    "error": "Too many redirects",
+    "resolvedAt": "2026-11-02T08:08:35.281Z",
+    "downMs": 415967
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-11-02T08:08:35.281Z"
   }
 ]
