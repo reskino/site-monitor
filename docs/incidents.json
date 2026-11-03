@@ -1,11 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-11T08:39:03.138Z"
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3745,6 +3739,14 @@
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-11-03T14:50:55.003Z",
-    "error": "HTTP 403"
+    "error": "HTTP 403",
+    "resolvedAt": "2026-11-03T15:01:51.778Z",
+    "downMs": 656775
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-11-03T15:01:51.778Z"
   }
 ]
