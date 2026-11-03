@@ -1,11 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-10-11T09:47:11.896Z"
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "up",
@@ -3742,5 +3736,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-11-03T17:27:51.849Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-11-03T17:34:52.944Z",
+    "error": "HTTP 503"
   }
 ]
