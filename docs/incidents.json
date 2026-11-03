@@ -1,14 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-10-11T09:40:16.851Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-10-11T09:42:38.116Z",
-    "downMs": 141265
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "up",
@@ -3745,6 +3736,14 @@
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-11-03T16:06:52.842Z",
-    "error": "HTTP 503"
+    "error": "HTTP 503",
+    "resolvedAt": "2026-11-03T16:12:52.780Z",
+    "downMs": 359938
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-11-03T16:12:52.780Z"
   }
 ]
