@@ -1,119 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-10-10T13:10:17.489Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T13:14:40.199Z",
-    "downMs": 262710
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-10T13:10:17.489Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T13:14:40.199Z",
-    "downMs": 262710
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-10T13:10:17.489Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T13:13:17.545Z",
-    "downMs": 180056
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-10T13:13:17.545Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-10-10T13:14:40.199Z"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-10-10T13:14:40.199Z"
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-10T13:17:17.670Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T13:18:03.128Z",
-    "downMs": 45458
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "up",
-    "at": "2026-10-10T13:18:03.128Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-10-10T16:09:18.838Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T16:22:05.359Z",
-    "downMs": 766521
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-10T16:09:18.838Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T16:18:19.088Z",
-    "downMs": 540250
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-10T16:18:19.088Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-10-10T16:22:05.359Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-10-10T19:07:21.410Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T19:08:06.996Z",
-    "downMs": 45586
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-10T19:07:21.410Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-10T19:08:06.996Z",
-    "downMs": 45586
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-10-10T19:08:06.996Z"
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
@@ -3748,5 +3634,110 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-11-02T16:09:53.576Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
+  },
+  {
+    "name": "Maple Leaf logistics",
+    "url": "https://mapleleafhlogistics.com/",
+    "type": "down",
+    "at": "2026-11-03T01:09:03.358Z",
+    "error": "Domain not found (DNS)"
   }
 ]
