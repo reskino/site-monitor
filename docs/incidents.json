@@ -1,14 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-11T10:37:02.532Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-11T10:41:52.066Z",
-    "downMs": 289534
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
@@ -3745,6 +3736,14 @@
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-11-05T08:01:56.443Z",
-    "error": "HTTP 503"
+    "error": "HTTP 503",
+    "resolvedAt": "2026-11-05T08:02:56.449Z",
+    "downMs": 60006
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-11-05T08:02:56.449Z"
   }
 ]
