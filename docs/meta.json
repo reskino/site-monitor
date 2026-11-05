@@ -10,7 +10,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.632Z",
       "subCheckedAt": "2026-07-23T10:48:59.216Z",
       "domainOkAt": "2026-11-05T10:42:56.937Z",
-      "subFailAt": "2026-11-05T10:57:56.879Z",
+      "subFailAt": "2026-11-05T11:01:41.233Z",
       "subdomains": [
         "aaands.skinopro.com",
         "autoconfig.skinopro.com",
@@ -52,7 +52,7 @@
         "www.test.skinopro.com",
         "www.try.skinopro.com"
       ],
-      "subOkAt": "2026-11-02T10:38:31.526Z",
+      "subOkAt": "2026-11-05T11:02:28.315Z",
       "domainFailAt": "2026-11-02T10:38:27.302Z"
     },
     "ainaghventures.com": {
@@ -69,7 +69,7 @@
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-11-02T10:40:04.751Z",
+      "subOkAt": "2026-11-05T10:59:27.574Z",
       "domainFailAt": "2026-10-20T22:26:47.475Z"
     },
     "aaandsghana.com": {
@@ -82,7 +82,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
       "domainOkAt": "2026-11-05T10:41:56.921Z",
-      "subFailAt": "2026-11-05T10:58:41.316Z",
+      "subFailAt": "2026-11-05T11:07:40.045Z",
       "subdomains": [
         "aaandsghana.com",
         "cpanel.aaandsghana.com",
@@ -93,7 +93,7 @@
         "webmail.aaandsghana.com",
         "www.aaandsghana.com"
       ],
-      "subOkAt": "2026-11-02T10:38:34.852Z",
+      "subOkAt": "2026-11-05T11:08:31.339Z",
       "domainFailAt": "2026-10-31T21:16:13.513Z"
     },
     "amzendock.com": {
@@ -134,12 +134,12 @@
       "domainCheckedAt": "2026-07-23T10:48:46.642Z",
       "subCheckedAt": "2026-07-23T10:49:04.215Z",
       "domainOkAt": "2026-09-05T10:10:59.911Z",
-      "subFailAt": "2026-11-05T10:57:57.217Z",
+      "subFailAt": "2026-11-05T11:09:42.093Z",
       "subdomains": [
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-11-02T10:38:33.760Z",
-      "domainFailAt": "2026-11-05T10:57:57.088Z"
+      "domainFailAt": "2026-11-05T11:08:57.083Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -151,7 +151,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.795Z",
       "subCheckedAt": "2026-07-23T10:48:47.309Z",
       "domainOkAt": "2026-11-05T10:41:57.125Z",
-      "subFailAt": "2026-11-05T10:57:56.940Z",
+      "subFailAt": "2026-11-05T11:08:57.862Z",
       "subdomains": [
         "cpanel.effectivelifeministry.org",
         "cpcalendars.effectivelifeministry.org",
@@ -177,7 +177,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-11-05T10:41:56.891Z",
-      "subFailAt": "2026-11-05T10:58:25.681Z",
+      "subFailAt": "2026-11-05T11:04:41.558Z",
       "subdomains": [
         "cpanel.gmwghana.com",
         "cpcalendars.gmwghana.com",
@@ -188,7 +188,7 @@
         "webmail.gmwghana.com",
         "www.gmwghana.com"
       ],
-      "subOkAt": "2026-11-02T10:38:31.836Z",
+      "subOkAt": "2026-11-05T11:05:34.967Z",
       "domainFailAt": "2026-10-20T22:26:47.484Z"
     },
     "opportunitytoexcel.com": {
@@ -201,7 +201,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
       "domainOkAt": "2026-11-05T10:41:56.908Z",
-      "subFailAt": "2026-11-05T10:57:56.887Z",
+      "subFailAt": "2026-11-05T11:07:40.063Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
         "cpcalendars.opportunitytoexcel.com",
@@ -226,7 +226,7 @@
         "www.vc.opportunitytoexcel.com",
         "www.verify.opportunitytoexcel.com"
       ],
-      "subOkAt": "2026-11-02T10:38:31.752Z",
+      "subOkAt": "2026-11-05T11:08:30.968Z",
       "domainFailAt": "2026-10-30T09:15:12.426Z"
     },
     "nestechnology.com": {
@@ -239,7 +239,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
       "domainOkAt": "2026-11-05T10:42:56.936Z",
-      "subFailAt": "2026-11-05T10:58:41.316Z",
+      "subFailAt": "2026-11-05T11:09:40.513Z",
       "subdomains": [
         "edu.nestechnology.com",
         "nestechnology.com",
@@ -380,7 +380,7 @@
         "www.test.impactcapitalmfi.com"
       ],
       "subOkAt": "2026-11-02T10:38:45.971Z",
-      "subFailAt": "2026-11-05T10:57:56.863Z",
+      "subFailAt": "2026-11-05T11:09:40.542Z",
       "domainFailAt": "2026-10-23T10:32:52.500Z"
     },
     "mapleleafhlogistics.com": {
