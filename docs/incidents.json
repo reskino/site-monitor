@@ -1,11 +1,5 @@
 [
   {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "up",
-    "at": "2026-10-11T09:47:11.896Z"
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3745,6 +3739,14 @@
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-11-05T07:05:55.284Z",
-    "error": "HTTP 503"
+    "error": "HTTP 503",
+    "resolvedAt": "2026-11-05T07:08:54.709Z",
+    "downMs": 179425
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-11-05T07:08:54.709Z"
   }
 ]
