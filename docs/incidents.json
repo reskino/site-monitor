@@ -1,14 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "down",
-    "at": "2026-10-13T00:09:33.090Z",
-    "error": "Connection reset",
-    "resolvedAt": "2026-10-13T00:16:34.413Z",
-    "downMs": 421323
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "down",
@@ -3745,5 +3736,12 @@
     "url": "https://opportunitytoexcel.com",
     "type": "up",
     "at": "2026-11-07T05:14:38.633Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-07T08:00:28.979Z",
+    "error": "No response within 45s"
   }
 ]
