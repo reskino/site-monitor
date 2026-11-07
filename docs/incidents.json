@@ -1,14 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-10-13T00:09:33.090Z",
-    "error": "Connection reset",
-    "resolvedAt": "2026-10-13T00:16:34.413Z",
-    "downMs": 421323
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3742,6 +3733,14 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-11-07T08:00:28.979Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-07T08:07:33.879Z",
+    "downMs": 424900
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-07T08:07:33.879Z"
   }
 ]
