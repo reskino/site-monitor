@@ -1,14 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-10-13T00:09:33.090Z",
-    "error": "Connection reset",
-    "resolvedAt": "2026-10-13T00:16:34.413Z",
-    "downMs": 421323
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "down",
@@ -3748,5 +3739,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-11-06T06:24:50.255Z"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "down",
+    "at": "2026-11-07T05:13:34.982Z",
+    "error": "UND_ERR_SOCKET"
   }
 ]
