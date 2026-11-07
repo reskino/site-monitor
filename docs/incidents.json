@@ -1,14 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-10-13T00:09:33.090Z",
-    "error": "Connection reset",
-    "resolvedAt": "2026-10-13T00:16:34.413Z",
-    "downMs": 421323
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3745,6 +3736,14 @@
     "url": "https://opportunitytoexcel.com",
     "type": "down",
     "at": "2026-11-07T05:13:34.982Z",
-    "error": "UND_ERR_SOCKET"
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-11-07T05:14:38.633Z",
+    "downMs": 63651
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-11-07T05:14:38.633Z"
   }
 ]
