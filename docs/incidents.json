@@ -2,15 +2,6 @@
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-16T04:08:22.202Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-16T04:09:07.882Z",
-    "downMs": 45680
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-10-16T04:09:07.882Z"
   },
@@ -3748,5 +3739,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-11-08T17:41:55.421Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-08T19:39:06.781Z",
+    "error": "No response within 45s"
   }
 ]
