@@ -106,7 +106,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.634Z",
       "subCheckedAt": "2026-07-23T10:48:59.715Z",
       "domainOkAt": "2026-11-08T06:51:06.847Z",
-      "subFailAt": "2026-11-05T10:47:45.684Z",
+      "subFailAt": "2026-11-08T10:49:42.237Z",
       "subdomains": [
         "amzendock.com",
         "cpanel.amzendock.com",
@@ -121,7 +121,7 @@
         "www.new.amzendock.com",
         "www.uhuru.amzendock.com"
       ],
-      "subOkAt": "2026-11-05T10:49:14.264Z",
+      "subOkAt": "2026-11-08T10:50:42.250Z",
       "domainFailAt": "2026-11-08T06:48:39.453Z"
     },
     "airliv8hernetwork.com": {
@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-11-05T11:12:36.266Z",
-      "domainFailAt": "2026-11-08T10:44:41.874Z"
+      "domainFailAt": "2026-11-08T10:55:41.883Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -259,12 +259,12 @@
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
       "domainOkAt": "2026-11-08T06:51:07.080Z",
-      "subFailAt": "2026-11-05T10:47:45.684Z",
+      "subFailAt": "2026-11-08T10:49:41.735Z",
       "subdomains": [
         "amorefoundation.org.uk",
         "www.amorefoundation.org.uk"
       ],
-      "subOkAt": "2026-11-05T10:49:25.084Z",
+      "subOkAt": "2026-11-08T10:50:48.792Z",
       "domainFailAt": "2026-11-08T06:48:39.454Z"
     },
     "uhuruforall.com": {
@@ -299,7 +299,7 @@
         "www.test.uhuruforall.com",
         "www.uhuruforall.com"
       ],
-      "subOkAt": "2026-11-05T10:51:25.863Z",
+      "subOkAt": "2026-11-08T10:51:45.199Z",
       "domainFailAt": "2026-11-08T06:48:39.455Z"
     },
     "jassmattazz.com": {
@@ -341,7 +341,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
       "domainOkAt": "2026-11-08T06:51:07.063Z",
-      "subFailAt": "2026-11-05T10:47:01.237Z",
+      "subFailAt": "2026-11-08T10:49:42.737Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
         "cpanel.lansor.co.uk",
@@ -355,7 +355,7 @@
         "www.itdisposal.lansor.co.uk",
         "www.lansor.co.uk"
       ],
-      "subOkAt": "2026-11-05T10:49:13.908Z",
+      "subOkAt": "2026-11-08T10:50:42.514Z",
       "domainFailAt": "2026-11-08T06:48:39.455Z"
     },
     "impactcapitalmfi.com": {
@@ -396,8 +396,8 @@
         "mapleleafhlogistics.com",
         "www.maple.mapleleafhlogistics.com"
       ],
-      "subOkAt": "2026-11-05T10:49:25.335Z",
-      "subFailAt": "2026-11-05T10:47:01.215Z",
+      "subOkAt": "2026-11-08T10:50:49.940Z",
+      "subFailAt": "2026-11-08T10:49:41.729Z",
       "domainFailAt": "2026-11-08T06:48:39.456Z"
     }
   }
