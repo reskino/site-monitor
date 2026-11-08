@@ -2,12 +2,6 @@
   {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-10-14T13:24:51.395Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-10-15T11:12:03.183Z",
     "error": "Domain not found (DNS)",
@@ -3643,7 +3637,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-11-08T06:48:39.456Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-08T06:54:48.936Z",
+    "downMs": 369480
   },
   {
     "name": "Ab's Kitchen",
@@ -3746,5 +3742,11 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-11-08T06:51:07.994Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-08T06:54:48.936Z"
   }
 ]
