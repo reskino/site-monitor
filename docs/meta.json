@@ -52,7 +52,7 @@
         "www.test.skinopro.com",
         "www.try.skinopro.com"
       ],
-      "subOkAt": "2026-11-05T11:02:28.315Z",
+      "subOkAt": "2026-11-08T11:02:46.818Z",
       "domainFailAt": "2026-11-08T06:48:39.452Z"
     },
     "ainaghventures.com": {
@@ -65,11 +65,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-11-08T06:51:06.857Z",
-      "subFailAt": "2026-11-05T10:57:57.205Z",
+      "subFailAt": "2026-11-08T10:59:41.680Z",
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-11-05T10:59:27.574Z",
+      "subOkAt": "2026-11-08T11:01:03.847Z",
       "domainFailAt": "2026-11-08T06:48:39.452Z"
     },
     "aaandsghana.com": {
@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-11-05T11:12:36.266Z",
-      "domainFailAt": "2026-11-08T10:55:41.883Z"
+      "domainFailAt": "2026-11-08T11:05:41.930Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -188,7 +188,7 @@
         "webmail.gmwghana.com",
         "www.gmwghana.com"
       ],
-      "subOkAt": "2026-11-05T11:05:34.967Z",
+      "subOkAt": "2026-11-08T11:06:16.907Z",
       "domainFailAt": "2026-11-08T06:48:39.454Z"
     },
     "opportunitytoexcel.com": {
@@ -328,7 +328,7 @@
         "www.otef.jassmattazz.com",
         "www.uhuru.jassmattazz.com"
       ],
-      "subOkAt": "2026-11-05T10:58:40.698Z",
+      "subOkAt": "2026-11-08T10:58:54.017Z",
       "domainFailAt": "2026-11-08T06:48:39.455Z"
     },
     "lansor.co.uk": {
