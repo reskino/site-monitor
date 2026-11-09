@@ -1,23 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-18T19:31:46.019Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-18T19:32:52.524Z",
-    "downMs": 66505
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-18T19:31:46.019Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-18T19:32:52.524Z",
-    "downMs": 66505
-  },
-  {
     "name": "Maple Leaf logistics",
     "url": "https://mapleleafhlogistics.com/",
     "type": "down",
@@ -3730,5 +3712,19 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-11-09T19:42:19.056Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-09T20:29:31.116Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-09T20:29:31.116Z",
+    "error": "No response within 45s"
   }
 ]
