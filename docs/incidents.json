@@ -1,32 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-10-16T18:24:16.939Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-16T20:24:39.211Z",
-    "downMs": 7222272
-  },
-  {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "down",
-    "at": "2026-10-16T18:24:16.939Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-16T20:24:39.211Z",
-    "downMs": 7222272
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-10-16T18:24:16.939Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-16T20:24:39.211Z",
-    "downMs": 7222272
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3745,6 +3718,28 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-11-09T04:04:10.568Z",
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-09T04:07:10.572Z",
+    "downMs": 180004
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-09T04:07:10.572Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-09T04:07:10.572Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-09T04:07:10.572Z",
     "error": "No response within 45s"
   }
 ]
