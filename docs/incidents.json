@@ -1,14 +1,5 @@
 [
   {
-    "name": "Maple Leaf logistics",
-    "url": "https://mapleleafhlogistics.com/",
-    "type": "down",
-    "at": "2026-10-16T18:24:16.939Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-16T20:24:39.211Z",
-    "downMs": 7222272
-  },
-  {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "up",
@@ -3727,5 +3718,12 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-11-09T09:18:01.204Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-09T09:36:47.915Z",
+    "error": "HTTP 508"
   }
 ]
