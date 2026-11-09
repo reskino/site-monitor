@@ -1,14 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-10-16T18:24:16.939Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-16T20:24:39.211Z",
-    "downMs": 7222272
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
@@ -3740,6 +3731,13 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-11-09T04:07:10.572Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-09T04:10:10.600Z",
     "error": "No response within 45s"
   }
 ]
