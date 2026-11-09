@@ -1,11 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-10-18T00:05:39.419Z"
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "up",
@@ -3733,5 +3727,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-11-09T14:15:48.618Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-11-09T14:47:57.165Z",
+    "error": "No response within 45s"
   }
 ]
