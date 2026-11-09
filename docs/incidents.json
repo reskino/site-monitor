@@ -1,14 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-10-16T18:24:16.939Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-16T20:24:39.211Z",
-    "downMs": 7222272
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3733,6 +3724,14 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-11-09T06:08:13.497Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-09T06:16:33.993Z",
+    "downMs": 500496
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-09T06:16:33.993Z"
   }
 ]
