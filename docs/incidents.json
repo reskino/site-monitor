@@ -1,14 +1,5 @@
 [
   {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-10-18T19:31:46.019Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-18T19:32:52.524Z",
-    "downMs": 66505
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
@@ -3718,7 +3709,9 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-11-09T19:29:05.136Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-09T19:42:19.056Z",
+    "downMs": 793920
   },
   {
     "name": "effectivelifeministry.org",
@@ -3731,5 +3724,11 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-11-09T19:41:33.336Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-09T19:42:19.056Z"
   }
 ]
