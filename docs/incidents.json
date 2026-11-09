@@ -1,11 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-18T00:05:39.419Z"
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "up",
@@ -3739,6 +3733,14 @@
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-11-09T15:15:57.599Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-09T15:17:39.759Z",
+    "downMs": 102160
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-09T15:17:39.759Z"
   }
 ]
