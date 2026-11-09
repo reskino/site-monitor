@@ -1,29 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "up",
-    "at": "2026-10-18T00:05:39.419Z"
-  },
-  {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-10-18T00:05:39.419Z"
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "up",
-    "at": "2026-10-18T00:05:39.419Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-10-18T00:05:39.419Z"
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "up",
@@ -3703,27 +3679,59 @@
     "url": "https://ainaghventures.com",
     "type": "down",
     "at": "2026-11-09T14:14:43.593Z",
-    "error": "SSL certificate name mismatch"
+    "error": "SSL certificate name mismatch",
+    "resolvedAt": "2026-11-09T14:15:48.618Z",
+    "downMs": 65025
   },
   {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "down",
     "at": "2026-11-09T14:14:43.593Z",
-    "error": "SSL certificate name mismatch"
+    "error": "SSL certificate name mismatch",
+    "resolvedAt": "2026-11-09T14:15:48.618Z",
+    "downMs": 65025
   },
   {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-11-09T14:14:43.593Z",
-    "error": "SSL certificate name mismatch"
+    "error": "SSL certificate name mismatch",
+    "resolvedAt": "2026-11-09T14:15:48.618Z",
+    "downMs": 65025
   },
   {
     "name": "Maple Leaf logistics",
     "url": "https://mapleleafhlogistics.com/",
     "type": "down",
     "at": "2026-11-09T14:14:43.593Z",
-    "error": "SSL certificate name mismatch"
+    "error": "SSL certificate name mismatch",
+    "resolvedAt": "2026-11-09T14:15:48.618Z",
+    "downMs": 65025
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-11-09T14:15:48.618Z"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-11-09T14:15:48.618Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-11-09T14:15:48.618Z"
+  },
+  {
+    "name": "Maple Leaf logistics",
+    "url": "https://mapleleafhlogistics.com/",
+    "type": "up",
+    "at": "2026-11-09T14:15:48.618Z"
   }
 ]
