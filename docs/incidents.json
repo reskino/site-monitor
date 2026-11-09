@@ -1,11 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "up",
-    "at": "2026-10-16T20:24:39.211Z"
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "up",
@@ -3739,5 +3733,12 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-11-09T10:20:01.571Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-09T10:23:16.044Z",
+    "error": "No response within 45s"
   }
 ]
