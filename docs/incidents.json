@@ -1,11 +1,5 @@
 [
   {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "up",
-    "at": "2026-10-18T00:05:39.419Z"
-  },
-  {
     "name": "Maple Leaf logistics",
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
@@ -3736,7 +3730,9 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-11-09T16:20:47.610Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-09T16:23:58.056Z",
+    "downMs": 190446
   },
   {
     "name": "IT Disposal",
@@ -3744,5 +3740,11 @@
     "type": "down",
     "at": "2026-11-09T16:20:47.610Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-09T16:23:58.056Z"
   }
 ]
