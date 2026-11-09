@@ -1,11 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-10-16T20:24:39.211Z"
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "up",
@@ -3727,6 +3721,14 @@
     "url": "https://ainaghventures.com",
     "type": "down",
     "at": "2026-11-09T10:08:15.922Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-09T10:09:16.098Z",
+    "downMs": 60176
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-11-09T10:09:16.098Z"
   }
 ]
