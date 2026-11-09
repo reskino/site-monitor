@@ -1,38 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-18T00:02:10.216Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-10-18T00:05:39.419Z",
-    "downMs": 209203
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-18T00:02:10.216Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-10-18T00:05:39.419Z",
-    "downMs": 209203
-  },
-  {
-    "name": "Maple Leaf logistics",
-    "url": "https://mapleleafhlogistics.com/",
-    "type": "down",
-    "at": "2026-10-18T00:02:10.216Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-10-18T00:05:39.419Z",
-    "downMs": 209203
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-10-18T00:05:39.419Z"
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "up",
@@ -3730,5 +3697,33 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-11-09T13:48:20.808Z"
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "down",
+    "at": "2026-11-09T14:14:43.593Z",
+    "error": "SSL certificate name mismatch"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "down",
+    "at": "2026-11-09T14:14:43.593Z",
+    "error": "SSL certificate name mismatch"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-11-09T14:14:43.593Z",
+    "error": "SSL certificate name mismatch"
+  },
+  {
+    "name": "Maple Leaf logistics",
+    "url": "https://mapleleafhlogistics.com/",
+    "type": "down",
+    "at": "2026-11-09T14:14:43.593Z",
+    "error": "SSL certificate name mismatch"
   }
 ]
