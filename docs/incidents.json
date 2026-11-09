@@ -1,11 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-10-18T19:32:52.524Z"
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "up",
@@ -3719,7 +3713,9 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-11-09T20:44:31.318Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-09T20:50:39.082Z",
+    "downMs": 367764
   },
   {
     "name": "Ab's Kitchen",
@@ -3727,5 +3723,11 @@
     "type": "down",
     "at": "2026-11-09T20:44:31.318Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-09T20:50:39.082Z"
   }
 ]
