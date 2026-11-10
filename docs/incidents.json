@@ -3680,8 +3680,8 @@
     "type": "down",
     "at": "2026-11-09T20:29:31.116Z",
     "error": "No response within 45s",
-    "resolvedAt": "2026-11-10T02:43:13.716Z",
-    "downMs": 22422600
+    "resolvedAt": "2026-11-10T06:39:28.918Z",
+    "downMs": 36597802
   },
   {
     "name": "lansor.co.uk",
@@ -3724,13 +3724,13 @@
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
-    "at": "2026-11-10T02:43:13.716Z"
+    "at": "2026-11-10T06:39:28.918Z"
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
-    "at": "2026-11-10T02:43:13.716Z",
+    "at": "2026-11-10T06:39:28.918Z",
     "error": "No response within 45s"
   }
 ]
