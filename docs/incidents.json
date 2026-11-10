@@ -1,14 +1,5 @@
 [
   {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-21T17:06:36.542Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-10-21T17:07:02.567Z",
-    "downMs": 26025
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "up",
@@ -3736,6 +3727,14 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-11-10T22:16:03.015Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-10T22:17:15.440Z",
+    "downMs": 72425
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-10T22:17:15.440Z"
   }
 ]
