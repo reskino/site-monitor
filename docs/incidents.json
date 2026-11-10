@@ -1,14 +1,5 @@
 [
   {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-10-21T17:06:36.542Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-10-21T17:07:02.567Z",
-    "downMs": 26025
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
@@ -3739,6 +3730,14 @@
     "url": "https://ainaghventures.com",
     "type": "down",
     "at": "2026-11-10T11:46:58.118Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-10T11:48:07.125Z",
+    "downMs": 69007
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-11-10T11:48:07.125Z"
   }
 ]
