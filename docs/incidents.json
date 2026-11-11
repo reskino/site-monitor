@@ -1,23 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-10-21T17:48:48.577Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-21T17:57:56.204Z",
-    "downMs": 547627
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-10-21T17:48:48.577Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-21T17:57:56.204Z",
-    "downMs": 547627
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "down",
@@ -3733,13 +3715,29 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-11-11T19:09:34.611Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-11T19:11:50.776Z",
+    "downMs": 136165
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-11-11T19:09:34.611Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-11T19:11:50.776Z",
+    "downMs": 136165
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-11T19:11:50.776Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-11T19:11:50.776Z"
   }
 ]
