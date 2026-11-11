@@ -1,14 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "down",
-    "at": "2026-10-21T17:48:48.577Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-21T17:57:56.204Z",
-    "downMs": 547627
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
@@ -3739,5 +3730,12 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "up",
     "at": "2026-11-11T19:11:50.776Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-11T22:23:22.122Z",
+    "error": "HTTP 508"
   }
 ]
