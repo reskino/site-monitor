@@ -52,7 +52,7 @@
         "www.test.skinopro.com",
         "www.try.skinopro.com"
       ],
-      "subOkAt": "2026-11-08T11:02:46.818Z",
+      "subOkAt": "2026-11-11T11:03:33.985Z",
       "domainFailAt": "2026-11-08T06:48:39.452Z"
     },
     "ainaghventures.com": {
@@ -65,11 +65,11 @@
       "domainCheckedAt": "2026-07-23T10:48:46.620Z",
       "subCheckedAt": "2026-07-23T10:48:59.707Z",
       "domainOkAt": "2026-11-11T07:30:15.337Z",
-      "subFailAt": "2026-11-08T10:59:41.680Z",
+      "subFailAt": "2026-11-11T11:02:16.003Z",
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-11-08T11:01:03.847Z",
+      "subOkAt": "2026-11-11T11:03:18.513Z",
       "domainFailAt": "2026-11-08T06:48:39.452Z"
     },
     "aaandsghana.com": {
@@ -82,7 +82,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.638Z",
       "subCheckedAt": "2026-07-23T10:49:00.712Z",
       "domainOkAt": "2026-11-11T07:30:15.335Z",
-      "subFailAt": "2026-11-08T11:08:41.816Z",
+      "subFailAt": "2026-11-11T11:10:26.151Z",
       "subdomains": [
         "aaandsghana.com",
         "cpanel.aaandsghana.com",
@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-11-08T11:13:46.172Z",
-      "domainFailAt": "2026-11-11T10:59:15.793Z"
+      "domainFailAt": "2026-11-11T11:10:15.893Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -177,7 +177,7 @@
       "domainCheckedAt": "2026-07-23T10:48:46.643Z",
       "subCheckedAt": "2026-07-23T10:49:01.709Z",
       "domainOkAt": "2026-11-11T07:30:15.337Z",
-      "subFailAt": "2026-11-05T11:04:41.558Z",
+      "subFailAt": "2026-11-11T11:10:26.152Z",
       "subdomains": [
         "cpanel.gmwghana.com",
         "cpcalendars.gmwghana.com",
@@ -201,7 +201,7 @@
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
       "domainOkAt": "2026-11-11T07:30:15.334Z",
-      "subFailAt": "2026-11-08T11:08:42.314Z",
+      "subFailAt": "2026-11-11T11:10:26.151Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
         "cpcalendars.opportunitytoexcel.com",
