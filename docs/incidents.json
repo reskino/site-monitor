@@ -1,14 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-10-21T17:48:48.577Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-21T17:57:56.204Z",
-    "downMs": 547627
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
@@ -3736,6 +3727,14 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-11-11T22:23:22.122Z",
-    "error": "HTTP 508"
+    "error": "HTTP 508",
+    "resolvedAt": "2026-11-11T22:32:46.858Z",
+    "downMs": 564736
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-11T22:32:46.858Z"
   }
 ]
