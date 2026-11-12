@@ -1,11 +1,5 @@
 [
   {
-    "name": "Maple Leaf logistics",
-    "url": "https://mapleleafhlogistics.com/",
-    "type": "up",
-    "at": "2026-10-21T17:57:56.204Z"
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
@@ -3745,6 +3739,14 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-11-12T22:49:36.155Z",
-    "error": "HTTP 503"
+    "error": "HTTP 503",
+    "resolvedAt": "2026-11-12T22:51:35.496Z",
+    "downMs": 119341
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-12T22:51:35.496Z"
   }
 ]
