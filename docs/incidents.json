@@ -1,17 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "up",
-    "at": "2026-10-21T17:57:56.204Z"
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-21T17:57:56.204Z"
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "up",
@@ -3700,7 +3688,9 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-11-12T09:06:01.907Z",
-    "error": "UND_ERR_SOCKET"
+    "error": "UND_ERR_SOCKET",
+    "resolvedAt": "2026-11-12T15:31:15.240Z",
+    "downMs": 23113333
   },
   {
     "name": "Ab's Kitchen",
@@ -3722,7 +3712,9 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-11-12T12:06:08.806Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-12T15:31:15.240Z",
+    "downMs": 12306434
   },
   {
     "name": "gmwghana.com",
@@ -3738,5 +3730,17 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-11-12T14:20:45.931Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-12T15:31:15.240Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-12T15:31:15.240Z"
   }
 ]
