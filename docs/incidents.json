@@ -1,11 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-10-21T17:57:56.204Z"
-  },
-  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "up",
@@ -3731,5 +3725,12 @@
     "type": "down",
     "at": "2026-11-12T09:06:01.907Z",
     "error": "UND_ERR_SOCKET"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-12T09:14:43.407Z",
+    "error": "No response within 45s"
   }
 ]
