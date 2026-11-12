@@ -1,23 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-21T17:48:48.577Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-21T17:57:56.204Z",
-    "downMs": 547627
-  },
-  {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-10-21T17:48:48.577Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-21T17:57:56.204Z",
-    "downMs": 547627
-  },
-  {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
@@ -3724,13 +3706,29 @@
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-11-12T01:05:31.326Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-11-12T01:07:15.405Z",
+    "downMs": 104079
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-11-12T01:05:31.326Z",
-    "error": "HTTP 502"
+    "error": "HTTP 502",
+    "resolvedAt": "2026-11-12T01:07:15.405Z",
+    "downMs": 104079
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-11-12T01:07:15.405Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-12T01:07:15.405Z"
   }
 ]
