@@ -1,14 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "down",
-    "at": "2026-10-21T18:29:26.087Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-21T18:30:28.825Z",
-    "downMs": 62738
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "down",
@@ -3745,5 +3736,12 @@
     "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-11-13T20:49:50.282Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-11-13T23:34:50.152Z",
+    "error": "No response within 45s"
   }
 ]
