@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-11-11T11:15:00.488Z",
-      "domainFailAt": "2026-11-13T19:31:49.349Z"
+      "domainFailAt": "2026-11-13T19:42:49.753Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -195,12 +195,12 @@
       "domain": {
         "expiration": "2027-02-08T12:25:33Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 87,
+        "daysLeft": 86,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
-      "domainOkAt": "2026-11-13T07:32:42.749Z",
+      "domainOkAt": "2026-11-13T19:32:49.644Z",
       "subFailAt": "2026-11-11T11:12:26.136Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
@@ -238,7 +238,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-11-13T07:35:42.709Z",
+      "domainOkAt": "2026-11-13T19:35:49.347Z",
       "subFailAt": "2026-11-08T11:12:41.785Z",
       "subdomains": [
         "edu.nestechnology.com",
@@ -258,7 +258,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
-      "domainOkAt": "2026-11-13T07:35:42.708Z",
+      "domainOkAt": "2026-11-13T19:35:49.812Z",
       "subFailAt": "2026-11-11T10:51:16.509Z",
       "subdomains": [
         "amorefoundation.org.uk",
@@ -340,7 +340,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-11-13T07:32:42.917Z",
+      "domainOkAt": "2026-11-13T19:32:49.490Z",
       "subFailAt": "2026-11-11T10:51:16.968Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
