@@ -1,14 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-10-21T18:29:26.087Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-21T18:30:28.825Z",
-    "downMs": 62738
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "down",
@@ -3748,5 +3739,12 @@
     "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-11-13T05:15:38.735Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-13T20:49:04.628Z",
+    "error": "No response within 45s"
   }
 ]
