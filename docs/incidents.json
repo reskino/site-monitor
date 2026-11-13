@@ -2,15 +2,6 @@
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-21T18:26:20.554Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-21T18:27:29.274Z",
-    "downMs": 68720
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-10-21T18:27:29.274Z"
   },
@@ -3748,5 +3739,12 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-11-12T22:51:35.496Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-11-13T05:14:53.138Z",
+    "error": "No response within 45s"
   }
 ]
