@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-11-14T11:16:33.857Z",
-      "domainFailAt": "2026-11-14T19:35:35.283Z"
+      "domainFailAt": "2026-11-14T19:39:35.094Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -238,7 +238,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-11-14T07:36:30.316Z",
+      "domainOkAt": "2026-11-14T19:39:35.096Z",
       "subFailAt": "2026-11-08T11:12:41.785Z",
       "subdomains": [
         "edu.nestechnology.com",
@@ -258,7 +258,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
-      "domainOkAt": "2026-11-14T07:36:30.601Z",
+      "domainOkAt": "2026-11-14T19:39:35.532Z",
       "subFailAt": "2026-11-11T10:51:16.509Z",
       "subdomains": [
         "amorefoundation.org.uk",
