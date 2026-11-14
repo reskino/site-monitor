@@ -52,7 +52,7 @@
         "www.test.skinopro.com",
         "www.try.skinopro.com"
       ],
-      "subOkAt": "2026-11-11T11:03:33.985Z",
+      "subOkAt": "2026-11-14T11:04:32.377Z",
       "domainFailAt": "2026-11-08T06:48:39.452Z"
     },
     "ainaghventures.com": {
@@ -69,7 +69,7 @@
       "subdomains": [
         "ainaghventures.com"
       ],
-      "subOkAt": "2026-11-11T11:03:18.513Z",
+      "subOkAt": "2026-11-14T11:03:46.774Z",
       "domainFailAt": "2026-11-08T06:48:39.452Z"
     },
     "aaandsghana.com": {
@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-11-11T11:15:00.488Z",
-      "domainFailAt": "2026-11-14T11:01:31.977Z"
+      "domainFailAt": "2026-11-14T11:12:31.218Z"
     },
     "effectivelifeministry.org": {
       "domain": {
