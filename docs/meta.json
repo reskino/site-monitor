@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-11-11T11:15:00.488Z",
-      "domainFailAt": "2026-11-14T07:32:33.587Z"
+      "domainFailAt": "2026-11-14T07:43:29.486Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -200,7 +200,7 @@
       },
       "domainCheckedAt": "2026-07-23T10:48:47.027Z",
       "subCheckedAt": "2026-07-23T10:48:47.541Z",
-      "domainOkAt": "2026-11-13T19:32:49.644Z",
+      "domainOkAt": "2026-11-14T07:33:31.753Z",
       "subFailAt": "2026-11-11T11:12:26.136Z",
       "subdomains": [
         "cpanel.opportunitytoexcel.com",
@@ -233,12 +233,12 @@
       "domain": {
         "expiration": "2027-07-07T22:20:27Z",
         "registrar": "HOSTINGER operations, UAB",
-        "daysLeft": 236,
+        "daysLeft": 235,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-11-13T19:35:49.347Z",
+      "domainOkAt": "2026-11-14T07:36:30.316Z",
       "subFailAt": "2026-11-08T11:12:41.785Z",
       "subdomains": [
         "edu.nestechnology.com",
@@ -253,12 +253,12 @@
       "domain": {
         "expiration": "2027-02-17T22:02:57Z",
         "registrar": "Realtime Register BV t/a Axidomains",
-        "daysLeft": 96,
+        "daysLeft": 95,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
-      "domainOkAt": "2026-11-13T19:35:49.812Z",
+      "domainOkAt": "2026-11-14T07:36:30.601Z",
       "subFailAt": "2026-11-11T10:51:16.509Z",
       "subdomains": [
         "amorefoundation.org.uk",
@@ -335,12 +335,12 @@
       "domain": {
         "expiration": "2027-01-16T20:41:15Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 64,
+        "daysLeft": 63,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.222Z",
       "subCheckedAt": "2026-07-23T10:49:00.217Z",
-      "domainOkAt": "2026-11-13T19:32:49.490Z",
+      "domainOkAt": "2026-11-14T07:33:31.964Z",
       "subFailAt": "2026-11-11T10:51:16.968Z",
       "subdomains": [
         "autodiscover.lansor.co.uk",
