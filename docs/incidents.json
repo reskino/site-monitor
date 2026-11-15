@@ -1,20 +1,5 @@
 [
   {
-    "name": "Maple Leaf logistics",
-    "url": "https://mapleleafhlogistics.com/",
-    "type": "down",
-    "at": "2026-10-21T18:29:26.087Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-21T18:30:28.825Z",
-    "downMs": 62738
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-10-21T18:30:28.825Z"
-  },
-  {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "up",
@@ -3727,5 +3712,19 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-11-15T07:48:03.586Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-15T09:10:30.561Z",
+    "error": "No response within 45s"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-15T09:10:30.561Z",
+    "error": "No response within 45s"
   }
 ]
