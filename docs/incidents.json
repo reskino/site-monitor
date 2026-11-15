@@ -1,5 +1,17 @@
 [
   {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-10-21T18:30:28.825Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-10-21T18:30:28.825Z"
+  },
+  {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "up",
@@ -3694,9 +3706,7 @@
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-11-15T09:10:30.561Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-11-15T10:01:40.928Z",
-    "downMs": 3070367
+    "error": "No response within 45s"
   },
   {
     "name": "IT Disposal",
@@ -3718,20 +3728,6 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-11-15T09:19:01.317Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-11-15T10:01:40.928Z",
-    "downMs": 2559611
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-11-15T10:01:40.928Z"
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "up",
-    "at": "2026-11-15T10:01:40.928Z"
+    "error": "No response within 45s"
   }
 ]
