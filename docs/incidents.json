@@ -1,14 +1,5 @@
 [
   {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-21T18:29:26.087Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-21T18:30:28.825Z",
-    "downMs": 62738
-  },
-  {
     "name": "Maple Leaf logistics",
     "url": "https://mapleleafhlogistics.com/",
     "type": "down",
@@ -3727,6 +3718,14 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-11-15T07:38:32.244Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-15T07:48:03.586Z",
+    "downMs": 571342
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-11-15T07:48:03.586Z"
   }
 ]
