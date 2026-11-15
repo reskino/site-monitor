@@ -1,14 +1,5 @@
 [
   {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-10-21T18:29:26.087Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-21T18:30:28.825Z",
-    "downMs": 62738
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3732,6 +3723,14 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-11-15T07:13:00.920Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-15T07:16:00.289Z",
+    "downMs": 179369
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-15T07:16:00.289Z"
   }
 ]
