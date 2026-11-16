@@ -1,119 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-22T07:46:38.860Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-22T07:55:21.591Z",
-    "downMs": 522731
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-22T07:46:38.860Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-22T07:52:21.718Z",
-    "downMs": 342858
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "up",
-    "at": "2026-10-22T07:52:21.718Z"
-  },
-  {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-22T07:55:21.591Z"
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-22T08:01:20.181Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-22T12:17:32.568Z",
-    "downMs": 15372387
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-10-22T08:07:20.120Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-22T08:10:20.017Z",
-    "downMs": 179897
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-22T08:07:20.120Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-22T08:10:20.017Z",
-    "downMs": 179897
-  },
-  {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-22T08:10:20.017Z"
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "up",
-    "at": "2026-10-22T08:10:20.017Z"
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-10-22T08:13:20.061Z"
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "down",
-    "at": "2026-10-22T08:13:20.061Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-10-22T12:17:32.568Z",
-    "downMs": 14652507
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-10-22T12:17:32.568Z"
-  },
-  {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "up",
-    "at": "2026-10-22T12:17:32.568Z"
-  },
-  {
-    "name": "impactcapitalmfi.com",
-    "url": "https://impactcapitalmfi.com",
-    "type": "down",
-    "at": "2026-10-23T06:50:40.076Z",
-    "error": "HTTP 502",
-    "resolvedAt": "2026-10-23T06:53:39.363Z",
-    "downMs": 179287
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-10-23T06:51:40.197Z",
-    "error": "SSL certificate name mismatch",
-    "resolvedAt": "2026-10-23T06:53:39.363Z",
-    "downMs": 119166
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "up",
@@ -3640,104 +3526,224 @@
     "url": "https://ainaghventures.com",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "IT Disposal",
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "Maple Leaf logistics",
     "url": "https://mapleleafhlogistics.com/",
     "type": "down",
     "at": "2026-11-16T03:27:18.214Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 164777
   },
   {
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
     "at": "2026-11-16T03:28:55.162Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-16T03:30:02.991Z",
+    "downMs": 67829
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
+  },
+  {
+    "name": "Maple Leaf logistics",
+    "url": "https://mapleleafhlogistics.com/",
+    "type": "up",
+    "at": "2026-11-16T03:30:02.991Z"
   }
 ]
