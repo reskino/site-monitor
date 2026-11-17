@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-11-14T11:16:33.857Z",
-      "domainFailAt": "2026-11-17T07:36:10.457Z"
+      "domainFailAt": "2026-11-17T07:46:15.066Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -233,12 +233,12 @@
       "domain": {
         "expiration": "2027-07-07T22:20:27Z",
         "registrar": "HOSTINGER operations, UAB",
-        "daysLeft": 233,
+        "daysLeft": 232,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.636Z",
       "subCheckedAt": "2026-07-23T10:49:00.209Z",
-      "domainOkAt": "2026-11-16T19:38:01.600Z",
+      "domainOkAt": "2026-11-17T07:38:11.888Z",
       "subFailAt": "2026-11-08T11:12:41.785Z",
       "subdomains": [
         "edu.nestechnology.com",
@@ -253,12 +253,12 @@
       "domain": {
         "expiration": "2027-02-17T22:02:57Z",
         "registrar": "Realtime Register BV t/a Axidomains",
-        "daysLeft": 93,
+        "daysLeft": 92,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:47.208Z",
       "subCheckedAt": "2026-07-23T10:48:47.597Z",
-      "domainOkAt": "2026-11-16T19:38:01.801Z",
+      "domainOkAt": "2026-11-17T07:38:12.066Z",
       "subFailAt": "2026-11-11T10:51:16.509Z",
       "subdomains": [
         "amorefoundation.org.uk",
