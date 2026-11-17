@@ -1,11 +1,5 @@
 [
   {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-10-23T16:52:40.098Z"
-  },
-  {
     "name": "amzendock.com",
     "url": "https://amzendock.com",
     "type": "up",
@@ -3727,6 +3721,14 @@
     "url": "https://opportunitytoexcel.com",
     "type": "down",
     "at": "2026-11-17T20:16:48.576Z",
-    "error": "HTTP 503"
+    "error": "HTTP 503",
+    "resolvedAt": "2026-11-17T20:17:47.397Z",
+    "downMs": 58821
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-11-17T20:17:47.397Z"
   }
 ]
