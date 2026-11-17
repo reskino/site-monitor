@@ -1,14 +1,5 @@
 [
   {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-10-23T15:39:44.193Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-10-23T16:52:40.098Z",
-    "downMs": 4375905
-  },
-  {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "down",
@@ -3736,5 +3727,12 @@
     "type": "down",
     "at": "2026-11-17T13:28:32.617Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-11-17T13:39:45.167Z",
+    "error": "HTTP 502"
   }
 ]
