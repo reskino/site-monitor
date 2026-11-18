@@ -1,17 +1,5 @@
 [
   {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "up",
-    "at": "2026-11-03T01:09:12.001Z"
-  },
-  {
-    "name": "Maple Leaf logistics",
-    "url": "https://mapleleafhlogistics.com/",
-    "type": "up",
-    "at": "2026-11-03T01:09:12.001Z"
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3649,14 +3637,18 @@
     "url": "https://itdisposal.lansor.co.uk",
     "type": "down",
     "at": "2026-11-18T09:04:13.546Z",
-    "error": "EACCES"
+    "error": "EACCES",
+    "resolvedAt": "2026-11-18T17:26:27.768Z",
+    "downMs": 30134222
   },
   {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-11-18T09:04:13.546Z",
-    "error": "EACCES"
+    "error": "EACCES",
+    "resolvedAt": "2026-11-18T17:26:27.768Z",
+    "downMs": 30134222
   },
   {
     "name": "Maple Leaf logistics",
@@ -3744,5 +3736,17 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-11-18T17:25:42.530Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-18T17:26:27.768Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-18T17:26:27.768Z"
   }
 ]
