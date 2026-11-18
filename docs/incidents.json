@@ -1,11 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "up",
-    "at": "2026-10-23T16:52:40.098Z"
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "up",
@@ -3733,12 +3727,20 @@
     "url": "https://amorefoundation.org.uk",
     "type": "down",
     "at": "2026-11-18T00:59:27.135Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-18T01:05:15.120Z",
+    "downMs": 347985
   },
   {
     "name": "uhuruforall.com",
     "url": "https://uhuruforall.com",
     "type": "up",
     "at": "2026-11-18T00:59:27.135Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-11-18T01:05:15.120Z"
   }
 ]
