@@ -1,17 +1,5 @@
 [
   {
-    "name": "Ab's Kitchen",
-    "url": "https://abskitchen.uhuruforall.com",
-    "type": "up",
-    "at": "2026-10-23T16:52:40.098Z"
-  },
-  {
-    "name": "Maple Leaf logistics",
-    "url": "https://mapleleafhlogistics.com/",
-    "type": "up",
-    "at": "2026-10-23T16:52:40.098Z"
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "down",
@@ -3736,13 +3724,29 @@
     "url": "https://effectivelifeministry.org",
     "type": "down",
     "at": "2026-11-18T01:28:28.843Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-18T01:28:52.329Z",
+    "downMs": 23486
   },
   {
     "name": "gmwghana.com",
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-11-18T01:28:28.843Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT"
+    "error": "UND_ERR_CONNECT_TIMEOUT",
+    "resolvedAt": "2026-11-18T01:28:52.329Z",
+    "downMs": 23486
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-11-18T01:28:52.329Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-11-18T01:28:52.329Z"
   }
 ]
