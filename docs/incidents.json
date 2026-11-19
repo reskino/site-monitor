@@ -1,236 +1,5 @@
 [
   {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "up",
-    "at": "2026-11-03T05:07:57.272Z"
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-11-03T14:50:55.003Z",
-    "error": "HTTP 403",
-    "resolvedAt": "2026-11-03T15:01:51.778Z",
-    "downMs": 656775
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-11-03T15:01:51.778Z"
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-11-03T16:06:52.842Z",
-    "error": "HTTP 503",
-    "resolvedAt": "2026-11-03T16:12:52.780Z",
-    "downMs": 359938
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-11-03T16:12:52.780Z"
-  },
-  {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-11-03T17:26:52.492Z",
-    "error": "SSL certificate name mismatch",
-    "resolvedAt": "2026-11-03T17:27:51.849Z",
-    "downMs": 59357
-  },
-  {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "down",
-    "at": "2026-11-03T17:26:52.492Z",
-    "error": "SSL certificate name mismatch",
-    "resolvedAt": "2026-11-03T17:27:51.849Z",
-    "downMs": 59357
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-11-03T17:26:52.492Z",
-    "error": "SSL certificate name mismatch",
-    "resolvedAt": "2026-11-03T17:27:51.849Z",
-    "downMs": 59357
-  },
-  {
-    "name": "Maple Leaf logistics",
-    "url": "https://mapleleafhlogistics.com/",
-    "type": "down",
-    "at": "2026-11-03T17:26:52.492Z",
-    "error": "SSL certificate name mismatch",
-    "resolvedAt": "2026-11-03T17:27:51.849Z",
-    "downMs": 59357
-  },
-  {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "up",
-    "at": "2026-11-03T17:27:51.849Z"
-  },
-  {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-11-03T17:27:51.849Z"
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-11-03T17:27:51.849Z"
-  },
-  {
-    "name": "Maple Leaf logistics",
-    "url": "https://mapleleafhlogistics.com/",
-    "type": "up",
-    "at": "2026-11-03T17:27:51.849Z"
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-11-03T17:34:52.944Z",
-    "error": "HTTP 503",
-    "resolvedAt": "2026-11-03T17:35:52.126Z",
-    "downMs": 59182
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-11-03T17:35:52.126Z"
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-11-05T07:05:55.284Z",
-    "error": "HTTP 503",
-    "resolvedAt": "2026-11-05T07:08:54.709Z",
-    "downMs": 179425
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-11-05T07:08:54.709Z"
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-11-05T08:01:56.443Z",
-    "error": "HTTP 503",
-    "resolvedAt": "2026-11-05T08:02:56.449Z",
-    "downMs": 60006
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "up",
-    "at": "2026-11-05T08:02:56.449Z"
-  },
-  {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "down",
-    "at": "2026-11-05T15:20:22.842Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-11-05T15:27:59.444Z",
-    "downMs": 456602
-  },
-  {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-11-05T15:20:22.842Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-11-05T15:27:59.444Z",
-    "downMs": 456602
-  },
-  {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "down",
-    "at": "2026-11-05T15:20:22.842Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-11-05T15:27:59.444Z",
-    "downMs": 456602
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "down",
-    "at": "2026-11-05T15:20:22.842Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-11-05T15:27:59.444Z",
-    "downMs": 456602
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-11-05T15:20:22.842Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-11-05T15:27:59.444Z",
-    "downMs": 456602
-  },
-  {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-11-05T15:20:22.842Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-11-05T15:27:59.444Z",
-    "downMs": 456602
-  },
-  {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "down",
-    "at": "2026-11-05T15:20:22.842Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-11-05T15:27:59.444Z",
-    "downMs": 456602
-  },
-  {
-    "name": "amorefoundation.org.uk",
-    "url": "https://amorefoundation.org.uk",
-    "type": "down",
-    "at": "2026-11-05T15:20:22.842Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-11-05T15:27:59.444Z",
-    "downMs": 456602
-  },
-  {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-11-05T15:20:22.842Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-11-05T15:27:59.444Z",
-    "downMs": 456602
-  },
-  {
-    "name": "jassmattazz.com",
-    "url": "https://jassmattazz.com",
-    "type": "down",
-    "at": "2026-11-05T15:20:22.842Z",
-    "error": "UND_ERR_CONNECT_TIMEOUT",
-    "resolvedAt": "2026-11-05T15:27:59.444Z",
-    "downMs": 456602
-  },
-  {
     "name": "lansor.co.uk",
     "url": "https://lansor.co.uk",
     "type": "down",
@@ -3744,7 +3513,225 @@
     "name": "skinopro.com",
     "url": "https://skinopro.com",
     "type": "down",
-    "at": "2026-11-19T04:21:43.308Z",
-    "error": "Too many redirects"
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "Maple Leaf logistics",
+    "url": "https://mapleleafhlogistics.com/",
+    "type": "down",
+    "at": "2026-11-18T20:48:48.338Z",
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-19T07:14:54.882Z",
+    "downMs": 37566544
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "aaandsghana.com",
+    "url": "https://aaandsghana.com",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "amzendock.com",
+    "url": "https://amzendock.com",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "effectivelifeministry.org",
+    "url": "https://effectivelifeministry.org",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "amorefoundation.org.uk",
+    "url": "https://amorefoundation.org.uk",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "impactcapitalmfi.com",
+    "url": "https://impactcapitalmfi.com",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
+  },
+  {
+    "name": "Maple Leaf logistics",
+    "url": "https://mapleleafhlogistics.com/",
+    "type": "up",
+    "at": "2026-11-19T07:14:54.882Z"
   }
 ]
