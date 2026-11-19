@@ -1,11 +1,5 @@
 [
   {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "up",
-    "at": "2026-11-08T06:51:07.994Z"
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
@@ -3730,5 +3724,12 @@
     "url": "https://mapleleafhlogistics.com/",
     "type": "up",
     "at": "2026-11-19T07:40:17.106Z"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-19T08:03:13.364Z",
+    "error": "HTTP 503"
   }
 ]
