@@ -2,15 +2,6 @@
   {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
-    "type": "down",
-    "at": "2026-11-03T05:05:21.970Z",
-    "error": "No response within 45s",
-    "resolvedAt": "2026-11-03T05:07:57.272Z",
-    "downMs": 155302
-  },
-  {
-    "name": "effectivelifeministry.org",
-    "url": "https://effectivelifeministry.org",
     "type": "up",
     "at": "2026-11-03T05:07:57.272Z"
   },
@@ -3748,5 +3739,12 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-11-18T17:26:27.768Z"
+  },
+  {
+    "name": "skinopro.com",
+    "url": "https://skinopro.com",
+    "type": "down",
+    "at": "2026-11-19T04:21:43.308Z",
+    "error": "Too many redirects"
   }
 ]
