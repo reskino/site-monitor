@@ -1,11 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "up",
-    "at": "2026-11-10T10:25:46.179Z"
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "up",
@@ -3724,7 +3718,9 @@
     "url": "https://ainaghventures.com",
     "type": "down",
     "at": "2026-11-20T11:54:23.346Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-20T12:00:23.651Z",
+    "downMs": 360305
   },
   {
     "name": "opportunitytoexcel.com",
@@ -3732,5 +3728,11 @@
     "type": "down",
     "at": "2026-11-20T11:54:23.346Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "ainaghventures.com",
+    "url": "https://ainaghventures.com",
+    "type": "up",
+    "at": "2026-11-20T12:00:23.651Z"
   }
 ]
