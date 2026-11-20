@@ -1,11 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "up",
-    "at": "2026-11-10T10:25:46.179Z"
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "up",
@@ -3727,12 +3721,20 @@
     "url": "https://opportunitytoexcel.com",
     "type": "down",
     "at": "2026-11-20T11:54:23.346Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-20T12:08:52.748Z",
+    "downMs": 869402
   },
   {
     "name": "ainaghventures.com",
     "url": "https://ainaghventures.com",
     "type": "up",
     "at": "2026-11-20T12:00:23.651Z"
+  },
+  {
+    "name": "opportunitytoexcel.com",
+    "url": "https://opportunitytoexcel.com",
+    "type": "up",
+    "at": "2026-11-20T12:08:52.748Z"
   }
 ]
