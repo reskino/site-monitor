@@ -1,11 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "up",
-    "at": "2026-11-10T10:25:46.179Z"
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "up",
@@ -3737,5 +3731,12 @@
     "type": "down",
     "at": "2026-11-20T18:39:11.868Z",
     "error": "No response within 45s"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-11-20T18:43:01.723Z",
+    "error": "Domain not found (DNS)"
   }
 ]
