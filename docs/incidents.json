@@ -1,14 +1,5 @@
 [
   {
-    "name": "uhuruforall.com",
-    "url": "https://uhuruforall.com",
-    "type": "down",
-    "at": "2026-11-10T10:26:40.308Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-11-10T10:27:44.054Z",
-    "downMs": 63746
-  },
-  {
     "name": "jassmattazz.com",
     "url": "https://jassmattazz.com",
     "type": "down",
@@ -3734,6 +3725,14 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "down",
     "at": "2026-11-21T11:53:22.557Z",
-    "error": "No response within 45s"
+    "error": "No response within 45s",
+    "resolvedAt": "2026-11-21T11:54:51.710Z",
+    "downMs": 89153
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "up",
+    "at": "2026-11-21T11:54:51.710Z"
   }
 ]
