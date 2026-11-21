@@ -1,14 +1,5 @@
 [
   {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "down",
-    "at": "2026-11-10T10:26:40.308Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-11-10T10:27:44.054Z",
-    "downMs": 63746
-  },
-  {
     "name": "aaandsghana.com",
     "url": "https://aaandsghana.com",
     "type": "down",
@@ -3745,6 +3736,14 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-11-21T05:15:06.393Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-21T05:44:06.541Z",
+    "downMs": 1740148
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-11-21T05:44:06.541Z"
   }
 ]
