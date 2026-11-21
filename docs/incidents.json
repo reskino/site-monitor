@@ -1,14 +1,5 @@
 [
   {
-    "name": "lansor.co.uk",
-    "url": "https://lansor.co.uk",
-    "type": "down",
-    "at": "2026-11-10T10:26:40.308Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-11-10T10:27:44.054Z",
-    "downMs": 63746
-  },
-  {
     "name": "impactcapitalmfi.com",
     "url": "https://impactcapitalmfi.com",
     "type": "down",
@@ -3733,5 +3724,12 @@
     "url": "https://gmwghana.com",
     "type": "up",
     "at": "2026-11-21T11:55:08.520Z"
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "down",
+    "at": "2026-11-21T15:24:36.955Z",
+    "error": "Domain not found (DNS)"
   }
 ]
