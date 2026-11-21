@@ -1,11 +1,5 @@
 [
   {
-    "name": "IT Disposal",
-    "url": "https://itdisposal.lansor.co.uk",
-    "type": "up",
-    "at": "2026-11-10T10:25:46.179Z"
-  },
-  {
     "name": "Ab's Kitchen",
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
@@ -3742,6 +3736,14 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-11-21T02:14:04.395Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-21T02:43:04.452Z",
+    "downMs": 1740057
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-11-21T02:43:04.452Z"
   }
 ]
