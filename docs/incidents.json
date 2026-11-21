@@ -1,14 +1,5 @@
 [
   {
-    "name": "gmwghana.com",
-    "url": "https://gmwghana.com",
-    "type": "down",
-    "at": "2026-11-10T10:26:40.308Z",
-    "error": "Domain not found (DNS)",
-    "resolvedAt": "2026-11-10T10:27:44.054Z",
-    "downMs": 63746
-  },
-  {
     "name": "opportunitytoexcel.com",
     "url": "https://opportunitytoexcel.com",
     "type": "down",
@@ -3739,6 +3730,14 @@
     "url": "https://gmwghana.com",
     "type": "down",
     "at": "2026-11-21T10:25:07.084Z",
-    "error": "Domain not found (DNS)"
+    "error": "Domain not found (DNS)",
+    "resolvedAt": "2026-11-21T10:54:07.856Z",
+    "downMs": 1740772
+  },
+  {
+    "name": "gmwghana.com",
+    "url": "https://gmwghana.com",
+    "type": "up",
+    "at": "2026-11-21T10:54:07.856Z"
   }
 ]
