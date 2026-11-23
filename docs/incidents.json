@@ -1,29 +1,5 @@
 [
   {
-    "name": "skinopro.com",
-    "url": "https://skinopro.com",
-    "type": "up",
-    "at": "2026-11-10T10:27:44.054Z"
-  },
-  {
-    "name": "ainaghventures.com",
-    "url": "https://ainaghventures.com",
-    "type": "up",
-    "at": "2026-11-10T10:27:44.054Z"
-  },
-  {
-    "name": "aaandsghana.com",
-    "url": "https://aaandsghana.com",
-    "type": "up",
-    "at": "2026-11-10T10:27:44.054Z"
-  },
-  {
-    "name": "amzendock.com",
-    "url": "https://amzendock.com",
-    "type": "up",
-    "at": "2026-11-10T10:27:44.054Z"
-  },
-  {
     "name": "effectivelifeministry.org",
     "url": "https://effectivelifeministry.org",
     "type": "up",
@@ -3725,5 +3701,33 @@
     "url": "https://abskitchen.uhuruforall.com",
     "type": "up",
     "at": "2026-11-22T00:49:13.962Z"
+  },
+  {
+    "name": "uhuruforall.com",
+    "url": "https://uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-23T09:50:48.720Z",
+    "error": "HTTP 508"
+  },
+  {
+    "name": "lansor.co.uk",
+    "url": "https://lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-23T09:50:48.720Z",
+    "error": "HTTP 508"
+  },
+  {
+    "name": "IT Disposal",
+    "url": "https://itdisposal.lansor.co.uk",
+    "type": "down",
+    "at": "2026-11-23T09:50:48.720Z",
+    "error": "HTTP 508"
+  },
+  {
+    "name": "Ab's Kitchen",
+    "url": "https://abskitchen.uhuruforall.com",
+    "type": "down",
+    "at": "2026-11-23T09:50:48.720Z",
+    "error": "HTTP 508"
   }
 ]
