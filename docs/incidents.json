@@ -1,11 +1,5 @@
 [
   {
-    "name": "opportunitytoexcel.com",
-    "url": "https://opportunitytoexcel.com",
-    "type": "up",
-    "at": "2026-11-10T10:27:44.054Z"
-  },
-  {
     "name": "amorefoundation.org.uk",
     "url": "https://amorefoundation.org.uk",
     "type": "up",
@@ -3733,5 +3727,12 @@
     "url": "https://lansor.co.uk",
     "type": "up",
     "at": "2026-11-23T21:45:36.282Z"
+  },
+  {
+    "name": "jassmattazz.com",
+    "url": "https://jassmattazz.com",
+    "type": "down",
+    "at": "2026-11-24T16:18:41.701Z",
+    "error": "HTTP 508"
   }
 ]
