@@ -139,7 +139,7 @@
         "airliv8hernetwork.com"
       ],
       "subOkAt": "2026-11-24T05:34:56.456Z",
-      "domainFailAt": "2026-11-26T10:54:37.091Z"
+      "domainFailAt": "2026-11-26T19:54:10.235Z"
     },
     "effectivelifeministry.org": {
       "domain": {
@@ -306,12 +306,12 @@
       "domain": {
         "expiration": "2027-05-16T10:49:39Z",
         "registrar": "Global Domain Group LLC",
-        "daysLeft": 171,
+        "daysLeft": 170,
         "warn": false
       },
       "domainCheckedAt": "2026-07-23T10:48:46.640Z",
       "subCheckedAt": "2026-07-23T10:49:01.216Z",
-      "domainOkAt": "2026-11-26T02:14:39.513Z",
+      "domainOkAt": "2026-11-26T19:54:10.169Z",
       "subFailAt": "2026-11-20T11:01:04.130Z",
       "subdomains": [
         "cpcalendars.jassmattazz.com",
@@ -362,10 +362,10 @@
       "domain": {
         "expiration": "2031-02-03T16:45:16Z",
         "registrar": "GoDaddy.com, LLC",
-        "daysLeft": 1530,
+        "daysLeft": 1529,
         "warn": false
       },
-      "domainOkAt": "2026-11-26T02:14:39.511Z",
+      "domainOkAt": "2026-11-26T19:54:10.196Z",
       "subdomains": [
         "autodiscover.impactcapitalmfi.com",
         "cpanel.impactcapitalmfi.com",
